@@ -1,0 +1,381 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Sevilla,Real Madrid,1:4,3,Real Madrid,1994/1995
+1,Espanyol,Real Oviedo,4:2,2,Espanyol,1994/1995
+1,Athletic,Deportivo,0:2,2,Deportivo,1994/1995
+1,Albacete,Celta,1:1,0,Empate,1994/1995
+1,Real Racing,Valladolid,0:0,0,Empate,1994/1995
+1,Zaragoza,Tenerife,2:2,0,Empate,1994/1995
+1,Atlético,Valencia,2:4,2,Valencia,1994/1995
+1,Sporting,Barcelona,2:1,1,Sporting,1994/1995
+1,SD Compostela,Real Sociedad,0:2,2,Real Sociedad,1994/1995
+1,CD Logroñés,Betis,0:0,0,Empate,1994/1995
+2,Celta,Athletic,1:1,0,Empate,1994/1995
+2,Deportivo,Sporting,2:1,1,Deportivo,1994/1995
+2,Real Madrid,CD Logroñés,2:0,2,Real Madrid,1994/1995
+2,Barcelona,Real Racing,2:1,1,Barcelona,1994/1995
+2,Tenerife,Atlético,1:0,1,Tenerife,1994/1995
+2,Betis,Albacete,4:1,3,Betis,1994/1995
+2,Valladolid,Espanyol,0:4,4,Espanyol,1994/1995
+2,Real Oviedo,SD Compostela,2:2,0,Empate,1994/1995
+2,Real Sociedad,Zaragoza,1:2,1,Zaragoza,1994/1995
+2,Valencia,Sevilla,0:1,1,Sevilla,1994/1995
+3,Valencia,Tenerife,2:1,1,Valencia,1994/1995
+3,Espanyol,Barcelona,0:0,0,Empate,1994/1995
+3,Zaragoza,Real Oviedo,2:1,1,Zaragoza,1994/1995
+3,Albacete,Real Madrid,1:1,0,Empate,1994/1995
+3,Sporting,Celta,0:0,0,Empate,1994/1995
+3,Real Racing,Deportivo,1:2,1,Deportivo,1994/1995
+3,SD Compostela,Valladolid,1:0,1,SD Compostela,1994/1995
+3,Atlético,Real Sociedad,2:1,1,Atlético,1994/1995
+3,Sevilla,CD Logroñés,1:0,1,Sevilla,1994/1995
+3,Athletic,Betis,1:0,1,Athletic,1994/1995
+4,CD Logroñés,Albacete,1:1,0,Empate,1994/1995
+4,Real Madrid,Athletic,4:0,4,Real Madrid,1994/1995
+4,Deportivo,Espanyol,1:1,0,Empate,1994/1995
+4,Barcelona,SD Compostela,4:0,4,Barcelona,1994/1995
+4,Valladolid,Zaragoza,2:0,2,Valladolid,1994/1995
+4,Real Sociedad,Valencia,0:2,2,Valencia,1994/1995
+4,Betis,Sporting,5:0,5,Betis,1994/1995
+4,Celta,Real Racing,2:1,1,Celta,1994/1995
+4,Tenerife,Sevilla,0:0,0,Empate,1994/1995
+4,Real Oviedo,Atlético,1:0,1,Real Oviedo,1994/1995
+5,Valencia,Real Oviedo,1:0,1,Valencia,1994/1995
+5,SD Compostela,Deportivo,0:1,1,Deportivo,1994/1995
+5,Zaragoza,Barcelona,2:1,1,Zaragoza,1994/1995
+5,Athletic,CD Logroñés,1:0,1,Athletic,1994/1995
+5,Sporting,Real Madrid,1:0,1,Sporting,1994/1995
+5,Real Racing,Betis,0:0,0,Empate,1994/1995
+5,Sevilla,Albacete,0:2,2,Albacete,1994/1995
+5,Atlético,Valladolid,6:0,6,Atlético,1994/1995
+5,Espanyol,Celta,0:0,0,Empate,1994/1995
+5,Tenerife,Real Sociedad,3:0,3,Tenerife,1994/1995
+6,Barcelona,Atlético,4:3,1,Barcelona,1994/1995
+6,Deportivo,Zaragoza,3:3,0,Empate,1994/1995
+6,Real Madrid,Real Racing,3:1,2,Real Madrid,1994/1995
+6,Betis,Espanyol,3:1,2,Betis,1994/1995
+6,CD Logroñés,Sporting,1:3,2,Sporting,1994/1995
+6,Albacete,Athletic,1:2,1,Athletic,1994/1995
+6,Real Oviedo,Tenerife,1:2,1,Tenerife,1994/1995
+6,Real Sociedad,Sevilla,0:0,0,Empate,1994/1995
+6,Valladolid,Valencia,2:0,2,Valladolid,1994/1995
+6,Celta,SD Compostela,1:2,1,SD Compostela,1994/1995
+7,Sevilla,Athletic,0:0,0,Empate,1994/1995
+7,Espanyol,Real Madrid,1:2,1,Real Madrid,1994/1995
+7,Atlético,Deportivo,1:1,0,Empate,1994/1995
+7,Valencia,Barcelona,1:2,1,Barcelona,1994/1995
+7,Zaragoza,Celta,4:0,4,Zaragoza,1994/1995
+7,Real Racing,CD Logroñés,3:0,3,Real Racing,1994/1995
+7,Real Sociedad,Real Oviedo,3:1,2,Real Sociedad,1994/1995
+7,Sporting,Albacete,3:2,1,Sporting,1994/1995
+7,Tenerife,Valladolid,0:0,0,Empate,1994/1995
+7,SD Compostela,Betis,1:1,0,Empate,1994/1995
+8,Celta,Atlético,1:0,1,Celta,1994/1995
+8,Barcelona,Tenerife,1:0,1,Barcelona,1994/1995
+8,Real Madrid,SD Compostela,1:1,0,Empate,1994/1995
+8,Betis,Zaragoza,0:1,1,Zaragoza,1994/1995
+8,CD Logroñés,Espanyol,1:1,0,Empate,1994/1995
+8,Athletic,Sporting,2:0,2,Athletic,1994/1995
+8,Valladolid,Real Sociedad,1:1,0,Empate,1994/1995
+8,Real Oviedo,Sevilla,1:0,1,Real Oviedo,1994/1995
+8,Deportivo,Valencia,3:1,2,Deportivo,1994/1995
+8,Albacete,Real Racing,2:0,2,Albacete,1994/1995
+9,Valencia,Celta,1:0,1,Valencia,1994/1995
+9,Real Racing,Athletic,0:2,2,Athletic,1994/1995
+9,Real Sociedad,Barcelona,1:1,0,Empate,1994/1995
+9,Zaragoza,Real Madrid,3:2,1,Zaragoza,1994/1995
+9,Tenerife,Deportivo,1:1,0,Empate,1994/1995
+9,Atlético,Betis,0:2,2,Betis,1994/1995
+9,Real Oviedo,Valladolid,1:0,1,Real Oviedo,1994/1995
+9,SD Compostela,CD Logroñés,2:0,2,SD Compostela,1994/1995
+9,Espanyol,Albacete,5:1,4,Espanyol,1994/1995
+9,Sevilla,Sporting,5:1,4,Sevilla,1994/1995
+10,Real Madrid,Atlético,4:2,2,Real Madrid,1994/1995
+10,Barcelona,Real Oviedo,1:0,1,Barcelona,1994/1995
+10,Celta,Tenerife,3:2,1,Celta,1994/1995
+10,Albacete,SD Compostela,1:3,2,SD Compostela,1994/1995
+10,Athletic,Espanyol,1:3,2,Espanyol,1994/1995
+10,CD Logroñés,Zaragoza,0:0,0,Empate,1994/1995
+10,Sporting,Real Racing,2:3,1,Real Racing,1994/1995
+10,Valladolid,Sevilla,0:4,4,Sevilla,1994/1995
+10,Betis,Valencia,1:1,0,Empate,1994/1995
+10,Deportivo,Real Sociedad,3:1,2,Deportivo,1994/1995
+11,Valladolid,Barcelona,1:3,2,Barcelona,1994/1995
+11,Real Oviedo,Deportivo,2:0,2,Real Oviedo,1994/1995
+11,Valencia,Real Madrid,1:2,1,Real Madrid,1994/1995
+11,SD Compostela,Athletic,0:1,1,Athletic,1994/1995
+11,Zaragoza,Albacete,1:0,1,Zaragoza,1994/1995
+11,Sevilla,Real Racing,1:3,2,Real Racing,1994/1995
+11,Espanyol,Sporting,1:1,0,Empate,1994/1995
+11,Real Sociedad,Celta,2:3,1,Celta,1994/1995
+11,Tenerife,Betis,1:4,3,Betis,1994/1995
+11,Atlético,CD Logroñés,3:0,3,Atlético,1994/1995
+12,Betis,Real Sociedad,0:0,0,Empate,1994/1995
+12,Deportivo,Valladolid,4:0,4,Deportivo,1994/1995
+12,Real Madrid,Tenerife,4:2,2,Real Madrid,1994/1995
+12,Celta,Real Oviedo,0:0,0,Empate,1994/1995
+12,Albacete,Atlético,2:2,0,Empate,1994/1995
+12,Barcelona,Sevilla,0:1,1,Sevilla,1994/1995
+12,Sporting,SD Compostela,1:1,0,Empate,1994/1995
+12,CD Logroñés,Valencia,2:2,0,Empate,1994/1995
+12,Real Racing,Espanyol,0:0,0,Empate,1994/1995
+12,Athletic,Zaragoza,1:0,1,Athletic,1994/1995
+13,Barcelona,Deportivo,1:1,0,Empate,1994/1995
+13,Atlético,Athletic,2:1,1,Atlético,1994/1995
+13,Valencia,Albacete,3:3,0,Empate,1994/1995
+13,Real Sociedad,Real Madrid,1:1,0,Empate,1994/1995
+13,Zaragoza,Sporting,3:2,1,Zaragoza,1994/1995
+13,Sevilla,Espanyol,3:0,3,Sevilla,1994/1995
+13,Valladolid,Celta,1:1,0,Empate,1994/1995
+13,Real Oviedo,Betis,0:0,0,Empate,1994/1995
+13,Tenerife,CD Logroñés,4:0,4,Tenerife,1994/1995
+13,SD Compostela,Real Racing,2:1,1,SD Compostela,1994/1995
+14,Athletic,Valencia,2:1,1,Athletic,1994/1995
+14,Sporting,Atlético,0:2,2,Atlético,1994/1995
+14,Betis,Valladolid,1:2,1,Valladolid,1994/1995
+14,CD Logroñés,Real Sociedad,0:4,4,Real Sociedad,1994/1995
+14,Celta,Barcelona,2:4,2,Barcelona,1994/1995
+14,Real Madrid,Real Oviedo,2:0,2,Real Madrid,1994/1995
+14,Real Racing,Zaragoza,0:1,1,Zaragoza,1994/1995
+14,Espanyol,SD Compostela,2:0,2,Espanyol,1994/1995
+14,Deportivo,Sevilla,5:1,4,Deportivo,1994/1995
+14,Albacete,Tenerife,2:1,1,Albacete,1994/1995
+15,Tenerife,Athletic,1:0,1,Tenerife,1994/1995
+15,Sevilla,SD Compostela,3:0,3,Sevilla,1994/1995
+15,Deportivo,Celta,1:2,1,Celta,1994/1995
+15,Barcelona,Betis,1:1,0,Empate,1994/1995
+15,Real Sociedad,Albacete,2:0,2,Real Sociedad,1994/1995
+15,Zaragoza,Espanyol,1:0,1,Zaragoza,1994/1995
+15,Atlético,Real Racing,0:1,1,Real Racing,1994/1995
+15,Valencia,Sporting,0:0,0,Empate,1994/1995
+15,Real Oviedo,CD Logroñés,1:0,1,Real Oviedo,1994/1995
+15,Valladolid,Real Madrid,0:5,5,Real Madrid,1994/1995
+16,Real Madrid,Barcelona,5:0,5,Real Madrid,1994/1995
+16,Athletic,Real Sociedad,0:0,0,Empate,1994/1995
+16,CD Logroñés,Valladolid,0:0,0,Empate,1994/1995
+16,Celta,Sevilla,0:0,0,Empate,1994/1995
+16,Albacete,Real Oviedo,1:0,1,Albacete,1994/1995
+16,Espanyol,Atlético,2:0,2,Espanyol,1994/1995
+16,SD Compostela,Zaragoza,3:2,1,SD Compostela,1994/1995
+16,Real Racing,Valencia,3:2,1,Real Racing,1994/1995
+16,Betis,Deportivo,0:0,0,Empate,1994/1995
+16,Sporting,Tenerife,1:1,0,Empate,1994/1995
+17,Deportivo,Real Madrid,0:0,0,Empate,1994/1995
+17,Tenerife,Real Racing,3:0,3,Tenerife,1994/1995
+17,Sevilla,Zaragoza,2:1,1,Sevilla,1994/1995
+17,Celta,Betis,0:2,2,Betis,1994/1995
+17,Barcelona,CD Logroñés,3:0,3,Barcelona,1994/1995
+17,Valladolid,Albacete,1:1,0,Empate,1994/1995
+17,Real Sociedad,Sporting,2:2,0,Empate,1994/1995
+17,Atlético,SD Compostela,1:1,0,Empate,1994/1995
+17,Valencia,Espanyol,0:0,0,Empate,1994/1995
+17,Real Oviedo,Athletic,1:1,0,Empate,1994/1995
+18,CD Logroñés,Deportivo,0:1,1,Deportivo,1994/1995
+18,Athletic,Valladolid,1:1,0,Empate,1994/1995
+18,Espanyol,Tenerife,0:0,0,Empate,1994/1995
+18,Real Madrid,Celta,4:0,4,Real Madrid,1994/1995
+18,Sevilla,Betis,0:1,1,Betis,1994/1995
+18,Albacete,Barcelona,2:2,0,Empate,1994/1995
+18,Real Racing,Real Sociedad,0:0,0,Empate,1994/1995
+18,Zaragoza,Atlético,3:1,2,Zaragoza,1994/1995
+18,SD Compostela,Valencia,1:1,0,Empate,1994/1995
+18,Sporting,Real Oviedo,1:1,0,Empate,1994/1995
+19,Barcelona,Athletic,1:0,1,Barcelona,1994/1995
+19,Real Sociedad,Espanyol,2:0,2,Real Sociedad,1994/1995
+19,Betis,Real Madrid,0:0,0,Empate,1994/1995
+19,Celta,CD Logroñés,0:1,1,CD Logroñés,1994/1995
+19,Deportivo,Albacete,2:1,1,Deportivo,1994/1995
+19,Real Oviedo,Real Racing,3:1,2,Real Oviedo,1994/1995
+19,Tenerife,SD Compostela,2:0,2,Tenerife,1994/1995
+19,Atlético,Sevilla,2:2,0,Empate,1994/1995
+19,Valencia,Zaragoza,3:0,3,Valencia,1994/1995
+19,Valladolid,Sporting,2:0,2,Valladolid,1994/1995
+20,Deportivo,Athletic,0:0,0,Empate,1994/1995
+20,Barcelona,Sporting,3:1,2,Barcelona,1994/1995
+20,Betis,CD Logroñés,1:0,1,Betis,1994/1995
+20,Valencia,Atlético,0:0,0,Empate,1994/1995
+20,Celta,Albacete,0:0,0,Empate,1994/1995
+20,Real Madrid,Sevilla,2:0,2,Real Madrid,1994/1995
+20,Real Oviedo,Espanyol,3:0,3,Real Oviedo,1994/1995
+20,Tenerife,Zaragoza,2:0,2,Tenerife,1994/1995
+20,Valladolid,Real Racing,1:1,0,Empate,1994/1995
+20,Real Sociedad,SD Compostela,1:1,0,Empate,1994/1995
+21,Real Racing,Barcelona,5:0,5,Real Racing,1994/1995
+21,Atlético,Tenerife,3:1,2,Atlético,1994/1995
+21,SD Compostela,Real Oviedo,1:1,0,Empate,1994/1995
+21,CD Logroñés,Real Madrid,1:4,3,Real Madrid,1994/1995
+21,Albacete,Betis,3:1,2,Albacete,1994/1995
+21,Athletic,Celta,1:1,0,Empate,1994/1995
+21,Espanyol,Valladolid,3:0,3,Espanyol,1994/1995
+21,Zaragoza,Real Sociedad,1:1,0,Empate,1994/1995
+21,Sevilla,Valencia,1:1,0,Empate,1994/1995
+21,Sporting,Deportivo,3:1,2,Sporting,1994/1995
+22,Barcelona,Espanyol,3:0,3,Barcelona,1994/1995
+22,Real Sociedad,Atlético,3:1,2,Real Sociedad,1994/1995
+22,Real Madrid,Albacete,0:0,0,Empate,1994/1995
+22,Betis,Athletic,0:0,0,Empate,1994/1995
+22,CD Logroñés,Sevilla,0:2,2,Sevilla,1994/1995
+22,Celta,Sporting,2:0,2,Celta,1994/1995
+22,Real Oviedo,Zaragoza,2:1,1,Real Oviedo,1994/1995
+22,Tenerife,Valencia,1:2,1,Valencia,1994/1995
+22,Deportivo,Real Racing,3:0,3,Deportivo,1994/1995
+22,Valladolid,SD Compostela,2:0,2,Valladolid,1994/1995
+23,SD Compostela,Barcelona,1:2,1,Barcelona,1994/1995
+23,Zaragoza,Valladolid,1:0,1,Zaragoza,1994/1995
+23,Sporting,Betis,1:1,0,Empate,1994/1995
+23,Albacete,CD Logroñés,0:0,0,Empate,1994/1995
+23,Real Racing,Celta,2:0,2,Real Racing,1994/1995
+23,Espanyol,Deportivo,1:0,1,Espanyol,1994/1995
+23,Atlético,Real Oviedo,3:3,0,Empate,1994/1995
+23,Valencia,Real Sociedad,4:2,2,Valencia,1994/1995
+23,Athletic,Real Madrid,1:1,0,Empate,1994/1995
+23,Sevilla,Tenerife,1:2,1,Tenerife,1994/1995
+24,Real Oviedo,Valencia,1:0,1,Real Oviedo,1994/1995
+24,Valladolid,Atlético,0:1,1,Atlético,1994/1995
+24,Barcelona,Zaragoza,3:0,3,Barcelona,1994/1995
+24,Real Sociedad,Tenerife,5:2,3,Real Sociedad,1994/1995
+24,Deportivo,SD Compostela,1:0,1,Deportivo,1994/1995
+24,Celta,Espanyol,1:2,1,Espanyol,1994/1995
+24,Betis,Real Racing,2:0,2,Betis,1994/1995
+24,Real Madrid,Sporting,4:0,4,Real Madrid,1994/1995
+24,CD Logroñés,Athletic,0:1,1,Athletic,1994/1995
+24,Albacete,Sevilla,1:1,0,Empate,1994/1995
+25,Atlético,Barcelona,2:0,2,Atlético,1994/1995
+25,SD Compostela,Celta,2:0,2,SD Compostela,1994/1995
+25,Real Racing,Real Madrid,3:1,2,Real Racing,1994/1995
+25,Sporting,CD Logroñés,2:2,0,Empate,1994/1995
+25,Athletic,Albacete,1:2,1,Albacete,1994/1995
+25,Tenerife,Real Oviedo,1:1,0,Empate,1994/1995
+25,Sevilla,Real Sociedad,2:0,2,Sevilla,1994/1995
+25,Valencia,Valladolid,3:0,3,Valencia,1994/1995
+25,Zaragoza,Deportivo,1:0,1,Zaragoza,1994/1995
+25,Espanyol,Betis,0:0,0,Empate,1994/1995
+26,Athletic,Sevilla,0:2,2,Sevilla,1994/1995
+26,Deportivo,Atlético,0:1,1,Atlético,1994/1995
+26,Celta,Zaragoza,0:0,0,Empate,1994/1995
+26,Albacete,Sporting,1:2,1,Sporting,1994/1995
+26,CD Logroñés,Real Racing,0:1,1,Real Racing,1994/1995
+26,Real Madrid,Espanyol,1:0,1,Real Madrid,1994/1995
+26,Real Oviedo,Real Sociedad,3:0,3,Real Oviedo,1994/1995
+26,Valladolid,Tenerife,1:4,3,Tenerife,1994/1995
+26,Barcelona,Valencia,0:0,0,Empate,1994/1995
+26,Betis,SD Compostela,1:0,1,Betis,1994/1995
+27,Valencia,Deportivo,1:2,1,Deportivo,1994/1995
+27,Zaragoza,Betis,3:0,3,Zaragoza,1994/1995
+27,Sporting,Athletic,1:1,0,Empate,1994/1995
+27,Real Racing,Albacete,2:1,1,Real Racing,1994/1995
+27,SD Compostela,Real Madrid,1:1,0,Empate,1994/1995
+27,Atlético,Celta,0:2,2,Celta,1994/1995
+27,Real Sociedad,Valladolid,3:0,3,Real Sociedad,1994/1995
+27,Sevilla,Real Oviedo,1:1,0,Empate,1994/1995
+27,Tenerife,Barcelona,2:1,1,Tenerife,1994/1995
+27,Espanyol,CD Logroñés,2:0,2,Espanyol,1994/1995
+28,Betis,Atlético,2:0,2,Betis,1994/1995
+28,Deportivo,Tenerife,4:1,3,Deportivo,1994/1995
+28,Sporting,Sevilla,3:0,3,Sporting,1994/1995
+28,Athletic,Real Racing,2:0,2,Athletic,1994/1995
+28,Valladolid,Real Oviedo,2:1,1,Valladolid,1994/1995
+28,Albacete,Espanyol,1:1,0,Empate,1994/1995
+28,CD Logroñés,SD Compostela,0:4,4,SD Compostela,1994/1995
+28,Real Madrid,Zaragoza,3:0,3,Real Madrid,1994/1995
+28,Celta,Valencia,0:0,0,Empate,1994/1995
+28,Barcelona,Real Sociedad,1:1,0,Empate,1994/1995
+29,Atlético,Real Madrid,0:2,2,Real Madrid,1994/1995
+29,Zaragoza,CD Logroñés,3:0,3,Zaragoza,1994/1995
+29,Sevilla,Valladolid,1:0,1,Sevilla,1994/1995
+29,SD Compostela,Albacete,0:0,0,Empate,1994/1995
+29,Real Sociedad,Deportivo,1:3,2,Deportivo,1994/1995
+29,Espanyol,Athletic,3:1,2,Espanyol,1994/1995
+29,Tenerife,Celta,3:0,3,Tenerife,1994/1995
+29,Valencia,Betis,2:1,1,Valencia,1994/1995
+29,Real Racing,Sporting,0:0,0,Empate,1994/1995
+29,Real Oviedo,Barcelona,0:0,0,Empate,1994/1995
+30,Real Madrid,Valencia,3:1,2,Real Madrid,1994/1995
+30,Betis,Tenerife,3:0,3,Betis,1994/1995
+30,Real Racing,Sevilla,0:3,3,Sevilla,1994/1995
+30,Barcelona,Valladolid,4:1,3,Barcelona,1994/1995
+30,Deportivo,Real Oviedo,2:2,0,Empate,1994/1995
+30,Sporting,Espanyol,0:0,0,Empate,1994/1995
+30,Athletic,SD Compostela,1:0,1,Athletic,1994/1995
+30,Albacete,Zaragoza,0:3,3,Zaragoza,1994/1995
+30,CD Logroñés,Atlético,0:0,0,Empate,1994/1995
+30,Celta,Real Sociedad,2:1,1,Celta,1994/1995
+31,Zaragoza,Athletic,1:4,3,Athletic,1994/1995
+31,Valladolid,Deportivo,0:0,0,Empate,1994/1995
+31,Real Oviedo,Celta,2:2,0,Empate,1994/1995
+31,Real Sociedad,Betis,1:1,0,Empate,1994/1995
+31,Atlético,Albacete,4:0,4,Atlético,1994/1995
+31,Sevilla,Barcelona,4:2,2,Sevilla,1994/1995
+31,SD Compostela,Sporting,3:2,1,SD Compostela,1994/1995
+31,Valencia,CD Logroñés,3:0,3,Valencia,1994/1995
+31,Espanyol,Real Racing,2:0,2,Espanyol,1994/1995
+31,Tenerife,Real Madrid,0:1,1,Real Madrid,1994/1995
+32,Sporting,Zaragoza,1:3,2,Zaragoza,1994/1995
+32,Deportivo,Barcelona,1:0,1,Deportivo,1994/1995
+32,Athletic,Atlético,3:1,2,Athletic,1994/1995
+32,Espanyol,Sevilla,2:2,0,Empate,1994/1995
+32,Celta,Valladolid,1:0,1,Celta,1994/1995
+32,Betis,Real Oviedo,0:0,0,Empate,1994/1995
+32,Real Madrid,Real Sociedad,0:0,0,Empate,1994/1995
+32,CD Logroñés,Tenerife,4:2,2,CD Logroñés,1994/1995
+32,Albacete,Valencia,1:0,1,Albacete,1994/1995
+32,Real Racing,SD Compostela,2:2,0,Empate,1994/1995
+33,Valencia,Athletic,3:1,2,Valencia,1994/1995
+33,Sevilla,Deportivo,0:0,0,Empate,1994/1995
+33,Zaragoza,Real Racing,1:1,0,Empate,1994/1995
+33,Real Oviedo,Real Madrid,3:2,1,Real Oviedo,1994/1995
+33,Valladolid,Betis,0:2,2,Betis,1994/1995
+33,Real Sociedad,CD Logroñés,6:0,6,Real Sociedad,1994/1995
+33,Barcelona,Celta,1:1,0,Empate,1994/1995
+33,SD Compostela,Espanyol,1:1,0,Empate,1994/1995
+33,Tenerife,Albacete,2:2,0,Empate,1994/1995
+33,Atlético,Sporting,3:2,1,Atlético,1994/1995
+34,Espanyol,Zaragoza,2:0,2,Espanyol,1994/1995
+34,Albacete,Real Sociedad,0:1,1,Real Sociedad,1994/1995
+34,SD Compostela,Sevilla,0:4,4,Sevilla,1994/1995
+34,Celta,Deportivo,0:2,2,Deportivo,1994/1995
+34,Betis,Barcelona,1:1,0,Empate,1994/1995
+34,CD Logroñés,Real Oviedo,0:2,2,Real Oviedo,1994/1995
+34,Athletic,Tenerife,3:2,1,Athletic,1994/1995
+34,Real Racing,Atlético,0:0,0,Empate,1994/1995
+34,Sporting,Valencia,1:0,1,Sporting,1994/1995
+34,Real Madrid,Valladolid,1:0,1,Real Madrid,1994/1995
+35,Tenerife,Sporting,3:0,3,Tenerife,1994/1995
+35,Valencia,Real Racing,1:1,0,Empate,1994/1995
+35,Deportivo,Betis,2:0,2,Deportivo,1994/1995
+35,Real Oviedo,Albacete,1:3,2,Albacete,1994/1995
+35,Barcelona,Real Madrid,1:0,1,Barcelona,1994/1995
+35,Sevilla,Celta,2:3,1,Celta,1994/1995
+35,Real Sociedad,Athletic,5:0,5,Real Sociedad,1994/1995
+35,Atlético,Espanyol,3:1,2,Atlético,1994/1995
+35,Valladolid,CD Logroñés,2:1,1,Valladolid,1994/1995
+35,Zaragoza,SD Compostela,5:3,2,Zaragoza,1994/1995
+36,Real Madrid,Deportivo,2:1,1,Real Madrid,1994/1995
+36,Espanyol,Valencia,5:0,5,Espanyol,1994/1995
+36,Sporting,Real Sociedad,1:2,1,Real Sociedad,1994/1995
+36,Zaragoza,Sevilla,0:1,1,Sevilla,1994/1995
+36,Betis,Celta,1:1,0,Empate,1994/1995
+36,CD Logroñés,Barcelona,1:4,3,Barcelona,1994/1995
+36,Athletic,Real Oviedo,1:0,1,Athletic,1994/1995
+36,Real Racing,Tenerife,2:1,1,Real Racing,1994/1995
+36,SD Compostela,Atlético,2:1,1,SD Compostela,1994/1995
+36,Albacete,Valladolid,1:0,1,Albacete,1994/1995
+37,Celta,Real Madrid,0:2,2,Real Madrid,1994/1995
+37,Deportivo,CD Logroñés,5:0,5,Deportivo,1994/1995
+37,Barcelona,Albacete,0:1,1,Albacete,1994/1995
+37,Valencia,SD Compostela,4:1,3,Valencia,1994/1995
+37,Atlético,Zaragoza,2:0,2,Atlético,1994/1995
+37,Valladolid,Athletic,0:1,1,Athletic,1994/1995
+37,Real Oviedo,Sporting,1:0,1,Real Oviedo,1994/1995
+37,Betis,Sevilla,2:1,1,Betis,1994/1995
+37,Tenerife,Espanyol,1:1,0,Empate,1994/1995
+37,Real Sociedad,Real Racing,0:1,1,Real Racing,1994/1995
+38,Sporting,Valladolid,1:3,2,Valladolid,1994/1995
+38,Espanyol,Real Sociedad,0:0,0,Empate,1994/1995
+38,Real Madrid,Betis,0:2,2,Betis,1994/1995
+38,CD Logroñés,Celta,0:3,3,Celta,1994/1995
+38,Albacete,Deportivo,2:8,6,Deportivo,1994/1995
+38,Real Racing,Real Oviedo,2:0,2,Real Racing,1994/1995
+38,SD Compostela,Tenerife,2:0,2,SD Compostela,1994/1995
+38,Sevilla,Atlético,2:2,0,Empate,1994/1995
+38,Zaragoza,Valencia,2:2,0,Empate,1994/1995
+38,Athletic,Barcelona,0:2,2,Barcelona,1994/1995

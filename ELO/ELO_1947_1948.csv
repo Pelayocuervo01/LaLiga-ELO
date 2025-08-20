@@ -1,0 +1,573 @@
+Jornada,Equipo,ELO
+1,Betis,1144.52
+1,Athletic,1639.71
+1,Real Madrid,1558.33
+1,Zaragoza,1205.77
+1,Hércules CF,1265.27
+1,Barcelona,1632.71
+1,Real Racing,1178.16
+1,Celta,1568.75
+1,Sevilla,1589.86
+1,Valencia,1695.48
+1,Atlético,1602.3
+1,Espanyol,1477.76
+1,Real Murcia,1372.69
+1,Real Oviedo,1601.7
+1,Granada,1411.03
+1,Deportivo,1356.63
+1,Real Sociedad,1279.77
+1,CD Castellón,1321.86
+1,CE Sabadell,1574.64
+1,Sporting,1526.82
+1,CD Alcoyano,1417.7
+1,Gimnàstic de Tarragona,1503.54
+2,Betis,1144.52
+2,Athletic,1599.12
+2,Real Madrid,1555.83
+2,Zaragoza,1205.77
+2,Hércules CF,1265.27
+2,Barcelona,1642.99
+2,Real Racing,1178.16
+2,Celta,1584.53
+2,Sevilla,1599.78
+2,Valencia,1708.03
+2,Atlético,1644.37
+2,Espanyol,1467.84
+2,Real Murcia,1372.69
+2,Real Oviedo,1585.92
+2,Granada,1411.03
+2,Deportivo,1356.63
+2,Real Sociedad,1320.36
+2,CD Castellón,1321.86
+2,CE Sabadell,1532.57
+2,Sporting,1514.27
+2,CD Alcoyano,1407.42
+2,Gimnàstic de Tarragona,1506.04
+3,Betis,1144.52
+3,Athletic,1610.08
+3,Real Madrid,1554.76
+3,Zaragoza,1205.77
+3,Hércules CF,1265.27
+3,Barcelona,1636.99
+3,Real Racing,1178.16
+3,Celta,1596.65
+3,Sevilla,1637.32
+3,Valencia,1670.49
+3,Atlético,1659.7
+3,Espanyol,1452.51
+3,Real Murcia,1372.69
+3,Real Oviedo,1591.06
+3,Granada,1411.03
+3,Deportivo,1356.63
+3,Real Sociedad,1315.22
+3,CD Castellón,1321.86
+3,CE Sabadell,1533.64
+3,Sporting,1503.31
+3,CD Alcoyano,1395.3
+3,Gimnàstic de Tarragona,1512.04
+4,Betis,1144.52
+4,Athletic,1611.33
+4,Real Madrid,1558.48
+4,Zaragoza,1205.77
+4,Hércules CF,1265.27
+4,Barcelona,1633.27
+4,Real Racing,1178.16
+4,Celta,1592.83
+4,Sevilla,1636.07
+4,Valencia,1692.63
+4,Atlético,1637.56
+4,Espanyol,1441.4
+4,Real Murcia,1372.69
+4,Real Oviedo,1587.1
+4,Granada,1411.03
+4,Deportivo,1356.63
+4,Real Sociedad,1297.54
+4,CD Castellón,1321.86
+4,CE Sabadell,1544.75
+4,Sporting,1507.27
+4,CD Alcoyano,1412.98
+4,Gimnàstic de Tarragona,1515.86
+5,Betis,1144.52
+5,Athletic,1612.54
+5,Real Madrid,1532.49
+5,Zaragoza,1205.77
+5,Hércules CF,1265.27
+5,Barcelona,1650.42
+5,Real Racing,1178.16
+5,Celta,1618.82
+5,Sevilla,1664.86
+5,Valencia,1701.34
+5,Atlético,1636.35
+5,Espanyol,1432.69
+5,Real Murcia,1372.69
+5,Real Oviedo,1558.31
+5,Granada,1411.03
+5,Deportivo,1356.63
+5,Real Sociedad,1333.12
+5,CD Castellón,1321.86
+5,CE Sabadell,1527.6
+5,Sporting,1503.03
+5,CD Alcoyano,1417.22
+5,Gimnàstic de Tarragona,1480.28
+6,Betis,1144.52
+6,Athletic,1591.26
+6,Real Madrid,1546.38
+6,Zaragoza,1205.77
+6,Hércules CF,1265.27
+6,Barcelona,1648.97
+6,Real Racing,1178.16
+6,Celta,1620.27
+6,Sevilla,1655.06
+6,Valencia,1716.85
+6,Atlético,1632.82
+6,Espanyol,1453.97
+6,Real Murcia,1372.69
+6,Real Oviedo,1561.84
+6,Granada,1411.03
+6,Deportivo,1356.63
+6,Real Sociedad,1319.23
+6,CD Castellón,1321.86
+6,CE Sabadell,1512.09
+6,Sporting,1463.32
+6,CD Alcoyano,1427.02
+6,Gimnàstic de Tarragona,1519.99
+7,Betis,1144.52
+7,Athletic,1572.42
+7,Real Madrid,1518.17
+7,Zaragoza,1205.77
+7,Hércules CF,1265.27
+7,Barcelona,1637.14
+7,Real Racing,1178.16
+7,Celta,1590.53
+7,Sevilla,1669.45
+7,Valencia,1735.69
+7,Atlético,1639.57
+7,Espanyol,1483.7
+7,Real Murcia,1372.69
+7,Real Oviedo,1532.11
+7,Granada,1411.03
+7,Deportivo,1356.63
+7,Real Sociedad,1331.06
+7,CD Castellón,1321.86
+7,CE Sabadell,1541.83
+7,Sporting,1491.53
+7,CD Alcoyano,1420.27
+7,Gimnàstic de Tarragona,1505.6
+8,Betis,1144.52
+8,Athletic,1593.26
+8,Real Madrid,1538.5
+8,Zaragoza,1205.77
+8,Hércules CF,1265.27
+8,Barcelona,1657.35
+8,Real Racing,1178.16
+8,Celta,1598.91
+8,Sevilla,1649.12
+8,Valencia,1713.67
+8,Atlético,1619.85
+8,Espanyol,1466.68
+8,Real Murcia,1372.69
+8,Real Oviedo,1554.13
+8,Granada,1411.03
+8,Deportivo,1356.63
+8,Real Sociedad,1322.68
+8,CD Castellón,1321.86
+8,CE Sabadell,1520.99
+8,Sporting,1471.32
+8,CD Alcoyano,1437.29
+8,Gimnàstic de Tarragona,1525.32
+9,Betis,1144.52
+9,Athletic,1622.98
+9,Real Madrid,1509.8
+9,Zaragoza,1205.77
+9,Hércules CF,1265.27
+9,Barcelona,1623.08
+9,Real Racing,1178.16
+9,Celta,1568.03
+9,Sevilla,1683.39
+9,Valencia,1718.55
+9,Atlético,1648.55
+9,Espanyol,1483.51
+9,Real Murcia,1372.69
+9,Real Oviedo,1524.41
+9,Granada,1411.03
+9,Deportivo,1356.63
+9,Real Sociedad,1311.62
+9,CD Castellón,1321.86
+9,CE Sabadell,1532.05
+9,Sporting,1502.2
+9,CD Alcoyano,1432.41
+9,Gimnàstic de Tarragona,1508.49
+10,Betis,1144.52
+10,Athletic,1639.74
+10,Real Madrid,1530.93
+10,Zaragoza,1205.77
+10,Hércules CF,1265.27
+10,Barcelona,1638.55
+10,Real Racing,1178.16
+10,Celta,1573.16
+10,Sevilla,1678.26
+10,Valencia,1696.34
+10,Atlético,1633.08
+10,Espanyol,1462.38
+10,Real Murcia,1372.69
+10,Real Oviedo,1547.76
+10,Granada,1411.03
+10,Deportivo,1356.63
+10,Real Sociedad,1333.24
+10,CD Castellón,1321.86
+10,CE Sabadell,1508.7
+10,Sporting,1480.58
+10,CD Alcoyano,1415.65
+10,Gimnàstic de Tarragona,1530.7
+11,Betis,1144.52
+11,Athletic,1669.85
+11,Real Madrid,1518.2
+11,Zaragoza,1205.77
+11,Hércules CF,1265.27
+11,Barcelona,1617.39
+11,Real Racing,1178.16
+11,Celta,1554.21
+11,Sevilla,1687.25
+11,Valencia,1709.07
+11,Atlético,1652.03
+11,Espanyol,1483.54
+11,Real Murcia,1372.69
+11,Real Oviedo,1556.95
+11,Granada,1411.03
+11,Deportivo,1356.63
+11,Real Sociedad,1324.25
+11,CD Castellón,1321.86
+11,CE Sabadell,1542.96
+11,Sporting,1446.32
+11,CD Alcoyano,1406.46
+11,Gimnàstic de Tarragona,1500.59
+12,Betis,1144.52
+12,Athletic,1622.62
+12,Real Madrid,1565.43
+12,Zaragoza,1205.77
+12,Hércules CF,1265.27
+12,Barcelona,1621.52
+12,Real Racing,1178.16
+12,Celta,1580.97
+12,Sevilla,1650.68
+12,Valencia,1704.94
+12,Atlético,1612.34
+12,Espanyol,1456.78
+12,Real Murcia,1372.69
+12,Real Oviedo,1523.48
+12,Granada,1411.03
+12,Deportivo,1356.63
+12,Real Sociedad,1363.94
+12,CD Castellón,1321.86
+12,CE Sabadell,1551.99
+12,Sporting,1482.89
+12,CD Alcoyano,1397.43
+12,Gimnàstic de Tarragona,1534.06
+13,Betis,1144.52
+13,Athletic,1636.99
+13,Real Madrid,1520.09
+13,Zaragoza,1205.77
+13,Hércules CF,1265.27
+13,Barcelona,1607.15
+13,Real Racing,1178.16
+13,Celta,1554.35
+13,Sevilla,1671.54
+13,Valencia,1731.56
+13,Atlético,1627.05
+13,Espanyol,1473.67
+13,Real Murcia,1372.69
+13,Real Oviedo,1568.82
+13,Granada,1411.03
+13,Deportivo,1356.63
+13,Real Sociedad,1347.05
+13,CD Castellón,1321.86
+13,CE Sabadell,1531.13
+13,Sporting,1468.18
+13,CD Alcoyano,1417.24
+13,Gimnàstic de Tarragona,1514.25
+14,Betis,1144.52
+14,Athletic,1665.56
+14,Real Madrid,1501.53
+14,Zaragoza,1205.77
+14,Hércules CF,1265.27
+14,Barcelona,1605.39
+14,Real Racing,1178.16
+14,Celta,1525.78
+14,Sevilla,1645.78
+14,Valencia,1734.4
+14,Atlético,1652.81
+14,Espanyol,1506.62
+14,Real Murcia,1372.69
+14,Real Oviedo,1570.58
+14,Granada,1411.03
+14,Deportivo,1356.63
+14,Real Sociedad,1344.21
+14,CD Castellón,1321.86
+14,CE Sabadell,1544.85
+14,Sporting,1435.23
+14,CD Alcoyano,1435.8
+14,Gimnàstic de Tarragona,1500.53
+15,Betis,1144.52
+15,Athletic,1673.4
+15,Real Madrid,1478.61
+15,Zaragoza,1205.77
+15,Hércules CF,1265.27
+15,Barcelona,1621.17
+15,Real Racing,1178.16
+15,Celta,1551.56
+15,Sevilla,1659.94
+15,Valencia,1743.14
+15,Atlético,1662.89
+15,Espanyol,1492.46
+15,Real Murcia,1372.69
+15,Real Oviedo,1544.8
+15,Granada,1411.03
+15,Deportivo,1356.63
+15,Real Sociedad,1336.37
+15,CD Castellón,1321.86
+15,CE Sabadell,1534.77
+15,Sporting,1426.49
+15,CD Alcoyano,1420.02
+15,Gimnàstic de Tarragona,1523.45
+16,Betis,1144.52
+16,Athletic,1663.62
+16,Real Madrid,1517.45
+16,Zaragoza,1205.77
+16,Hércules CF,1265.27
+16,Barcelona,1631.64
+16,Real Racing,1178.16
+16,Celta,1520.45
+16,Sevilla,1648.91
+16,Valencia,1754.17
+16,Atlético,1655.62
+16,Espanyol,1499.73
+16,Real Murcia,1372.69
+16,Real Oviedo,1558.15
+16,Granada,1411.03
+16,Deportivo,1356.63
+16,Real Sociedad,1323.02
+16,CD Castellón,1321.86
+16,CE Sabadell,1495.93
+16,Sporting,1436.27
+16,CD Alcoyano,1451.13
+16,Gimnàstic de Tarragona,1512.98
+17,Betis,1144.52
+17,Athletic,1648.59
+17,Real Madrid,1501.85
+17,Zaragoza,1205.77
+17,Hércules CF,1265.27
+17,Barcelona,1647.24
+17,Real Racing,1178.16
+17,Celta,1556.92
+17,Sevilla,1663.94
+17,Valencia,1749.75
+17,Atlético,1660.04
+17,Espanyol,1499.56
+17,Real Murcia,1372.69
+17,Real Oviedo,1538.87
+17,Granada,1411.03
+17,Deportivo,1356.63
+17,Real Sociedad,1373.44
+17,CD Castellón,1321.86
+17,CE Sabadell,1496.1
+17,Sporting,1455.55
+17,CD Alcoyano,1400.71
+17,Gimnàstic de Tarragona,1476.51
+18,Betis,1144.52
+18,Athletic,1634.65
+18,Real Madrid,1477.55
+18,Zaragoza,1205.77
+18,Hércules CF,1265.27
+18,Barcelona,1655.75
+18,Real Racing,1178.16
+18,Celta,1581.22
+18,Sevilla,1618.91
+18,Valencia,1739.88
+18,Atlético,1673.98
+18,Espanyol,1509.43
+18,Real Murcia,1372.69
+18,Real Oviedo,1583.9
+18,Granada,1411.03
+18,Deportivo,1356.63
+18,Real Sociedad,1357.18
+18,CD Castellón,1321.86
+18,CE Sabadell,1487.59
+18,Sporting,1412.45
+18,CD Alcoyano,1443.81
+18,Gimnàstic de Tarragona,1492.77
+19,Betis,1144.52
+19,Athletic,1615.25
+19,Real Madrid,1472.22
+19,Zaragoza,1205.77
+19,Hércules CF,1265.27
+19,Barcelona,1638.29
+19,Real Racing,1178.16
+19,Celta,1598.68
+19,Sevilla,1631.13
+19,Valencia,1716.51
+19,Atlético,1698.97
+19,Espanyol,1528.83
+19,Real Murcia,1372.69
+19,Real Oviedo,1558.91
+19,Granada,1411.03
+19,Deportivo,1356.63
+19,Real Sociedad,1362.51
+19,CD Castellón,1321.86
+19,CE Sabadell,1510.96
+19,Sporting,1430.14
+19,CD Alcoyano,1431.59
+19,Gimnàstic de Tarragona,1475.08
+20,Betis,1144.52
+20,Athletic,1633.75
+20,Real Madrid,1456.06
+20,Zaragoza,1205.77
+20,Hércules CF,1265.27
+20,Barcelona,1652.03
+20,Real Racing,1178.16
+20,Celta,1615.88
+20,Sevilla,1598.65
+20,Valencia,1698.01
+20,Atlético,1675.23
+20,Espanyol,1530.21
+20,Real Murcia,1372.69
+20,Real Oviedo,1557.53
+20,Granada,1411.03
+20,Deportivo,1356.63
+20,Real Sociedad,1348.77
+20,CD Castellón,1321.86
+20,CE Sabadell,1493.76
+20,Sporting,1446.3
+20,CD Alcoyano,1455.33
+20,Gimnàstic de Tarragona,1507.56
+21,Betis,1144.52
+21,Athletic,1647.86
+21,Real Madrid,1476.08
+21,Zaragoza,1205.77
+21,Hércules CF,1265.27
+21,Barcelona,1665.54
+21,Real Racing,1178.16
+21,Celta,1568.41
+21,Sevilla,1578.63
+21,Valencia,1720.98
+21,Atlético,1691.14
+21,Espanyol,1526.81
+21,Real Murcia,1372.69
+21,Real Oviedo,1534.56
+21,Granada,1411.03
+21,Deportivo,1356.63
+21,Real Sociedad,1396.24
+21,CD Castellón,1321.86
+21,CE Sabadell,1479.65
+21,Sporting,1432.79
+21,CD Alcoyano,1458.73
+21,Gimnàstic de Tarragona,1491.65
+22,Betis,1144.52
+22,Athletic,1642.82
+22,Real Madrid,1484.89
+22,Zaragoza,1205.77
+22,Hércules CF,1265.27
+22,Barcelona,1696.1
+22,Real Racing,1178.16
+22,Celta,1577.47
+22,Sevilla,1548.07
+22,Valencia,1729.25
+22,Atlético,1682.33
+22,Espanyol,1510.94
+22,Real Murcia,1372.69
+22,Real Oviedo,1539.6
+22,Granada,1411.03
+22,Deportivo,1356.63
+22,Real Sociedad,1431.87
+22,CD Castellón,1321.86
+22,CE Sabadell,1444.02
+22,Sporting,1423.73
+22,CD Alcoyano,1450.46
+22,Gimnàstic de Tarragona,1507.52
+23,Betis,1144.52
+23,Athletic,1661.33
+23,Real Madrid,1463.75
+23,Zaragoza,1205.77
+23,Hércules CF,1265.27
+23,Barcelona,1695.47
+23,Real Racing,1178.16
+23,Celta,1552.69
+23,Sevilla,1572.85
+23,Valencia,1739.22
+23,Atlético,1682.96
+23,Espanyol,1532.08
+23,Real Murcia,1372.69
+23,Real Oviedo,1550.15
+23,Granada,1411.03
+23,Deportivo,1356.63
+23,Real Sociedad,1402.36
+23,CD Castellón,1321.86
+23,CE Sabadell,1433.47
+23,Sporting,1453.24
+23,CD Alcoyano,1431.95
+23,Gimnàstic de Tarragona,1497.55
+24,Betis,1144.52
+24,Athletic,1603.07
+24,Real Madrid,1474.31
+24,Zaragoza,1205.77
+24,Hércules CF,1265.27
+24,Barcelona,1714.27
+24,Real Racing,1178.16
+24,Celta,1591.86
+24,Sevilla,1565.57
+24,Valencia,1728.66
+24,Atlético,1643.79
+24,Espanyol,1513.28
+24,Real Murcia,1372.69
+24,Real Oviedo,1519.81
+24,Granada,1411.03
+24,Deportivo,1356.63
+24,Real Sociedad,1409.64
+24,CD Castellón,1321.86
+24,CE Sabadell,1448.71
+24,Sporting,1438.0
+24,CD Alcoyano,1462.29
+24,Gimnàstic de Tarragona,1555.81
+25,Betis,1144.52
+25,Athletic,1621.68
+25,Real Madrid,1455.7
+25,Zaragoza,1205.77
+25,Hércules CF,1265.27
+25,Barcelona,1738.07
+25,Real Racing,1178.16
+25,Celta,1574.24
+25,Sevilla,1580.39
+25,Valencia,1704.86
+25,Atlético,1649.74
+25,Espanyol,1530.9
+25,Real Murcia,1372.69
+25,Real Oviedo,1556.74
+25,Granada,1411.03
+25,Deportivo,1356.63
+25,Real Sociedad,1403.69
+25,CD Castellón,1321.86
+25,CE Sabadell,1421.0
+25,Sporting,1423.18
+25,CD Alcoyano,1490.0
+25,Gimnàstic de Tarragona,1518.88
+26,Betis,1144.52
+26,Athletic,1602.16
+26,Real Madrid,1485.02
+26,Zaragoza,1205.77
+26,Hércules CF,1265.27
+26,Barcelona,1757.59
+26,Real Racing,1178.16
+26,Celta,1613.43
+26,Sevilla,1547.73
+26,Valencia,1665.67
+26,Atlético,1665.65
+26,Espanyol,1500.04
+26,Real Murcia,1372.69
+26,Real Oviedo,1527.42
+26,Granada,1411.03
+26,Deportivo,1356.63
+26,Real Sociedad,1434.55
+26,CD Castellón,1321.86
+26,CE Sabadell,1453.66
+26,Sporting,1407.27
+26,CD Alcoyano,1476.78
+26,Gimnàstic de Tarragona,1532.1

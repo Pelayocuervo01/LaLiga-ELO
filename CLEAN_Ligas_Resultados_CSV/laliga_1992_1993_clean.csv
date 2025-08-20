@@ -1,0 +1,381 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Valencia,Rayo,1:0,1,Valencia,1992/1993
+1,Barcelona,Real Madrid,2:1,1,Barcelona,1992/1993
+1,Zaragoza,Espanyol,2:1,1,Zaragoza,1992/1993
+1,Albacete,Sevilla,3:4,1,Sevilla,1992/1993
+1,Real Burgos,Real Sociedad,4:0,4,Real Burgos,1992/1993
+1,Deportivo,Celta,2:0,2,Deportivo,1992/1993
+1,CD Logroñés,Real Oviedo,1:0,1,CD Logroñés,1992/1993
+1,Sporting,Osasuna,0:0,0,Empate,1992/1993
+1,Athletic,Cádiz CF,2:1,1,Athletic,1992/1993
+1,Atlético,Tenerife,3:2,1,Atlético,1992/1993
+2,Real Sociedad,Sporting,1:2,1,Sporting,1992/1993
+2,Tenerife,Barcelona,1:1,0,Empate,1992/1993
+2,Osasuna,Albacete,3:0,3,Osasuna,1992/1993
+2,Rayo,CD Logroñés,2:1,1,Rayo,1992/1993
+2,Real Madrid,Real Burgos,3:0,3,Real Madrid,1992/1993
+2,Sevilla,Deportivo,1:3,2,Deportivo,1992/1993
+2,Cádiz CF,Zaragoza,1:1,0,Empate,1992/1993
+2,Espanyol,Atlético,1:3,2,Atlético,1992/1993
+2,Real Oviedo,Athletic,1:0,1,Real Oviedo,1992/1993
+2,Celta,Valencia,0:0,0,Empate,1992/1993
+3,Valencia,Sevilla,1:1,0,Empate,1992/1993
+3,Atlético,Barcelona,1:4,3,Barcelona,1992/1993
+3,CD Logroñés,Celta,0:1,1,Celta,1992/1993
+3,Deportivo,Osasuna,2:1,1,Deportivo,1992/1993
+3,Real Burgos,Tenerife,0:3,3,Tenerife,1992/1993
+3,Athletic,Rayo,4:2,2,Athletic,1992/1993
+3,Espanyol,Cádiz CF,1:2,1,Cádiz CF,1992/1993
+3,Albacete,Real Sociedad,1:2,1,Real Sociedad,1992/1993
+3,Zaragoza,Real Oviedo,1:0,1,Zaragoza,1992/1993
+3,Sporting,Real Madrid,0:0,0,Empate,1992/1993
+4,Real Madrid,Albacete,3:0,3,Real Madrid,1992/1993
+4,Sevilla,CD Logroñés,3:0,3,Sevilla,1992/1993
+4,Real Sociedad,Deportivo,0:2,2,Deportivo,1992/1993
+4,Osasuna,Valencia,2:2,0,Empate,1992/1993
+4,Barcelona,Real Burgos,4:1,3,Barcelona,1992/1993
+4,Tenerife,Sporting,0:2,2,Sporting,1992/1993
+4,Rayo,Zaragoza,0:0,0,Empate,1992/1993
+4,Cádiz CF,Atlético,1:1,0,Empate,1992/1993
+4,Celta,Athletic,1:0,1,Celta,1992/1993
+4,Real Oviedo,Espanyol,2:2,0,Empate,1992/1993
+5,Deportivo,Real Madrid,3:2,1,Deportivo,1992/1993
+5,CD Logroñés,Osasuna,1:1,0,Empate,1992/1993
+5,Cádiz CF,Real Oviedo,0:2,2,Real Oviedo,1992/1993
+5,Albacete,Tenerife,1:0,1,Albacete,1992/1993
+5,Atlético,Real Burgos,2:0,2,Atlético,1992/1993
+5,Valencia,Real Sociedad,1:0,1,Valencia,1992/1993
+5,Athletic,Sevilla,2:1,1,Athletic,1992/1993
+5,Espanyol,Rayo,2:2,0,Empate,1992/1993
+5,Sporting,Barcelona,1:1,0,Empate,1992/1993
+5,Zaragoza,Celta,0:0,0,Empate,1992/1993
+6,Sevilla,Zaragoza,1:0,1,Sevilla,1992/1993
+6,Barcelona,Albacete,3:3,0,Empate,1992/1993
+6,Real Sociedad,CD Logroñés,3:0,3,Real Sociedad,1992/1993
+6,Rayo,Cádiz CF,1:1,0,Empate,1992/1993
+6,Real Burgos,Sporting,2:1,1,Real Burgos,1992/1993
+6,Real Oviedo,Atlético,1:4,3,Atlético,1992/1993
+6,Celta,Espanyol,0:1,1,Espanyol,1992/1993
+6,Osasuna,Athletic,1:2,1,Athletic,1992/1993
+6,Tenerife,Deportivo,3:1,2,Tenerife,1992/1993
+6,Real Madrid,Valencia,2:0,2,Real Madrid,1992/1993
+7,Deportivo,Barcelona,1:0,1,Deportivo,1992/1993
+7,Atlético,Sporting,1:1,0,Empate,1992/1993
+7,Real Oviedo,Rayo,1:1,0,Empate,1992/1993
+7,Valencia,Tenerife,2:1,1,Valencia,1992/1993
+7,Albacete,Real Burgos,4:0,4,Albacete,1992/1993
+7,Zaragoza,Osasuna,3:2,1,Zaragoza,1992/1993
+7,Athletic,Real Sociedad,2:0,2,Athletic,1992/1993
+7,Espanyol,Sevilla,1:1,0,Empate,1992/1993
+7,CD Logroñés,Real Madrid,0:3,3,Real Madrid,1992/1993
+7,Cádiz CF,Celta,1:1,0,Empate,1992/1993
+8,Real Madrid,Athletic,2:0,2,Real Madrid,1992/1993
+8,Real Sociedad,Zaragoza,1:1,0,Empate,1992/1993
+8,Tenerife,CD Logroñés,1:1,0,Empate,1992/1993
+8,Sevilla,Cádiz CF,1:0,1,Sevilla,1992/1993
+8,Celta,Real Oviedo,0:0,0,Empate,1992/1993
+8,Sporting,Albacete,1:0,1,Sporting,1992/1993
+8,Rayo,Atlético,2:0,2,Rayo,1992/1993
+8,Barcelona,Valencia,3:0,3,Barcelona,1992/1993
+8,Osasuna,Espanyol,1:3,2,Espanyol,1992/1993
+8,Real Burgos,Deportivo,0:0,0,Empate,1992/1993
+9,Zaragoza,Real Madrid,0:1,1,Real Madrid,1992/1993
+9,CD Logroñés,Barcelona,1:2,1,Barcelona,1992/1993
+9,Deportivo,Sporting,2:1,1,Deportivo,1992/1993
+9,Athletic,Tenerife,2:2,0,Empate,1992/1993
+9,Atlético,Albacete,3:2,1,Atlético,1992/1993
+9,Valencia,Real Burgos,5:0,5,Valencia,1992/1993
+9,Cádiz CF,Osasuna,0:2,2,Osasuna,1992/1993
+9,Rayo,Celta,0:1,1,Celta,1992/1993
+9,Espanyol,Real Sociedad,4:1,3,Espanyol,1992/1993
+9,Real Oviedo,Sevilla,1:1,0,Empate,1992/1993
+10,Barcelona,Athletic,2:1,1,Barcelona,1992/1993
+10,Osasuna,Real Oviedo,2:1,1,Osasuna,1992/1993
+10,Tenerife,Zaragoza,2:2,0,Empate,1992/1993
+10,Real Burgos,CD Logroñés,2:2,0,Empate,1992/1993
+10,Sevilla,Rayo,3:2,1,Sevilla,1992/1993
+10,Real Sociedad,Cádiz CF,3:0,3,Real Sociedad,1992/1993
+10,Celta,Atlético,0:2,2,Atlético,1992/1993
+10,Sporting,Valencia,1:0,1,Sporting,1992/1993
+10,Real Madrid,Espanyol,3:1,2,Real Madrid,1992/1993
+10,Albacete,Deportivo,1:1,0,Empate,1992/1993
+11,Zaragoza,Barcelona,1:6,5,Barcelona,1992/1993
+11,Cádiz CF,Real Madrid,1:1,0,Empate,1992/1993
+11,Real Oviedo,Real Sociedad,2:2,0,Empate,1992/1993
+11,Espanyol,Tenerife,0:0,0,Empate,1992/1993
+11,Athletic,Real Burgos,1:1,0,Empate,1992/1993
+11,Rayo,Osasuna,1:0,1,Rayo,1992/1993
+11,CD Logroñés,Sporting,1:2,1,Sporting,1992/1993
+11,Valencia,Albacete,2:0,2,Valencia,1992/1993
+11,Celta,Sevilla,1:2,1,Sevilla,1992/1993
+11,Atlético,Deportivo,2:1,1,Atlético,1992/1993
+12,Sevilla,Atlético,1:3,2,Atlético,1992/1993
+12,Osasuna,Celta,3:0,3,Osasuna,1992/1993
+12,Real Sociedad,Rayo,1:2,1,Rayo,1992/1993
+12,Tenerife,Cádiz CF,1:1,0,Empate,1992/1993
+12,Real Madrid,Real Oviedo,3:2,1,Real Madrid,1992/1993
+12,Real Burgos,Zaragoza,1:1,0,Empate,1992/1993
+12,Deportivo,Valencia,0:0,0,Empate,1992/1993
+12,Barcelona,Espanyol,5:0,5,Barcelona,1992/1993
+12,Albacete,CD Logroñés,3:1,2,Albacete,1992/1993
+12,Sporting,Athletic,0:4,4,Athletic,1992/1993
+13,Atlético,Valencia,1:1,0,Empate,1992/1993
+13,Zaragoza,Sporting,1:1,0,Empate,1992/1993
+13,CD Logroñés,Deportivo,0:3,3,Deportivo,1992/1993
+13,Athletic,Albacete,3:1,2,Athletic,1992/1993
+13,Real Oviedo,Tenerife,1:2,1,Tenerife,1992/1993
+13,Espanyol,Real Burgos,3:1,2,Espanyol,1992/1993
+13,Sevilla,Osasuna,0:0,0,Empate,1992/1993
+13,Cádiz CF,Barcelona,0:4,4,Barcelona,1992/1993
+13,Rayo,Real Madrid,2:0,2,Rayo,1992/1993
+13,Celta,Real Sociedad,2:1,1,Celta,1992/1993
+14,Real Sociedad,Sevilla,1:0,1,Real Sociedad,1992/1993
+14,Albacete,Zaragoza,1:3,2,Zaragoza,1992/1993
+14,Valencia,CD Logroñés,2:1,1,Valencia,1992/1993
+14,Tenerife,Rayo,4:0,4,Tenerife,1992/1993
+14,Real Madrid,Celta,1:0,1,Real Madrid,1992/1993
+14,Osasuna,Atlético,1:0,1,Osasuna,1992/1993
+14,Sporting,Espanyol,1:1,0,Empate,1992/1993
+14,Deportivo,Athletic,3:0,3,Deportivo,1992/1993
+14,Real Burgos,Cádiz CF,0:2,2,Cádiz CF,1992/1993
+14,Barcelona,Real Oviedo,2:0,2,Barcelona,1992/1993
+15,Sevilla,Real Madrid,2:0,2,Sevilla,1992/1993
+15,Real Oviedo,Real Burgos,3:0,3,Real Oviedo,1992/1993
+15,Espanyol,Albacete,2:0,2,Espanyol,1992/1993
+15,Celta,Tenerife,0:1,1,Tenerife,1992/1993
+15,Atlético,CD Logroñés,0:1,1,CD Logroñés,1992/1993
+15,Rayo,Barcelona,3:3,0,Empate,1992/1993
+15,Cádiz CF,Sporting,2:3,1,Sporting,1992/1993
+15,Athletic,Valencia,1:4,3,Valencia,1992/1993
+15,Zaragoza,Deportivo,0:2,2,Deportivo,1992/1993
+15,Osasuna,Real Sociedad,2:0,2,Osasuna,1992/1993
+16,Real Sociedad,Atlético,1:0,1,Real Sociedad,1992/1993
+16,Tenerife,Sevilla,3:0,3,Tenerife,1992/1993
+16,Real Burgos,Rayo,0:3,3,Rayo,1992/1993
+16,Albacete,Cádiz CF,5:0,5,Albacete,1992/1993
+16,Real Madrid,Osasuna,3:0,3,Real Madrid,1992/1993
+16,Sporting,Real Oviedo,0:1,1,Real Oviedo,1992/1993
+16,Valencia,Zaragoza,0:1,1,Zaragoza,1992/1993
+16,Deportivo,Espanyol,3:0,3,Deportivo,1992/1993
+16,CD Logroñés,Athletic,0:1,1,Athletic,1992/1993
+16,Barcelona,Celta,2:0,2,Barcelona,1992/1993
+17,Espanyol,Valencia,1:1,0,Empate,1992/1993
+17,Cádiz CF,Deportivo,0:3,3,Deportivo,1992/1993
+17,Celta,Real Burgos,1:1,0,Empate,1992/1993
+17,Zaragoza,CD Logroñés,1:1,0,Empate,1992/1993
+17,Real Oviedo,Albacete,0:0,0,Empate,1992/1993
+17,Atlético,Athletic,1:1,0,Empate,1992/1993
+17,Sevilla,Barcelona,0:0,0,Empate,1992/1993
+17,Real Sociedad,Real Madrid,1:5,4,Real Madrid,1992/1993
+17,Osasuna,Tenerife,1:2,1,Tenerife,1992/1993
+17,Rayo,Sporting,2:2,0,Empate,1992/1993
+18,Atlético,Real Madrid,1:1,0,Empate,1992/1993
+18,Deportivo,Real Oviedo,2:1,1,Deportivo,1992/1993
+18,Albacete,Rayo,1:0,1,Albacete,1992/1993
+18,Barcelona,Osasuna,2:1,1,Barcelona,1992/1993
+18,Sporting,Celta,0:3,3,Celta,1992/1993
+18,Tenerife,Real Sociedad,1:0,1,Tenerife,1992/1993
+18,Real Burgos,Sevilla,0:2,2,Sevilla,1992/1993
+18,CD Logroñés,Espanyol,0:0,0,Empate,1992/1993
+18,Athletic,Zaragoza,3:2,1,Athletic,1992/1993
+18,Valencia,Cádiz CF,5:0,5,Valencia,1992/1993
+19,Rayo,Deportivo,1:1,0,Empate,1992/1993
+19,Real Sociedad,Barcelona,2:2,0,Empate,1992/1993
+19,Real Madrid,Tenerife,3:0,3,Real Madrid,1992/1993
+19,Cádiz CF,CD Logroñés,2:2,0,Empate,1992/1993
+19,Osasuna,Real Burgos,1:0,1,Osasuna,1992/1993
+19,Sevilla,Sporting,1:0,1,Sevilla,1992/1993
+19,Zaragoza,Atlético,1:0,1,Zaragoza,1992/1993
+19,Espanyol,Athletic,2:0,2,Espanyol,1992/1993
+19,Celta,Albacete,1:1,0,Empate,1992/1993
+19,Real Oviedo,Valencia,0:1,1,Valencia,1992/1993
+20,Real Madrid,Barcelona,2:1,1,Real Madrid,1992/1993
+20,Cádiz CF,Athletic,2:3,1,Athletic,1992/1993
+20,Rayo,Valencia,0:1,1,Valencia,1992/1993
+20,Tenerife,Atlético,2:2,0,Empate,1992/1993
+20,Espanyol,Zaragoza,2:0,2,Espanyol,1992/1993
+20,Osasuna,Sporting,3:0,3,Osasuna,1992/1993
+20,Celta,Deportivo,0:0,0,Empate,1992/1993
+20,Real Sociedad,Real Burgos,2:2,0,Empate,1992/1993
+20,Real Oviedo,CD Logroñés,0:0,0,Empate,1992/1993
+20,Sevilla,Albacete,2:1,1,Sevilla,1992/1993
+21,Deportivo,Sevilla,2:0,2,Deportivo,1992/1993
+21,Real Burgos,Real Madrid,1:2,1,Real Madrid,1992/1993
+21,Barcelona,Tenerife,1:1,0,Empate,1992/1993
+21,CD Logroñés,Rayo,0:0,0,Empate,1992/1993
+21,Zaragoza,Cádiz CF,0:0,0,Empate,1992/1993
+21,Albacete,Osasuna,0:0,0,Empate,1992/1993
+21,Athletic,Real Oviedo,1:0,1,Athletic,1992/1993
+21,Valencia,Celta,1:1,0,Empate,1992/1993
+21,Atlético,Espanyol,2:1,1,Atlético,1992/1993
+21,Sporting,Real Sociedad,2:4,2,Real Sociedad,1992/1993
+22,Barcelona,Atlético,1:1,0,Empate,1992/1993
+22,Rayo,Athletic,1:0,1,Rayo,1992/1993
+22,Osasuna,Deportivo,1:1,0,Empate,1992/1993
+22,Real Sociedad,Albacete,2:1,1,Real Sociedad,1992/1993
+22,Celta,CD Logroñés,2:0,2,Celta,1992/1993
+22,Tenerife,Real Burgos,3:1,2,Tenerife,1992/1993
+22,Real Oviedo,Zaragoza,4:1,3,Real Oviedo,1992/1993
+22,Cádiz CF,Espanyol,1:0,1,Cádiz CF,1992/1993
+22,Real Madrid,Sporting,0:0,0,Empate,1992/1993
+22,Sevilla,Valencia,2:2,0,Empate,1992/1993
+23,Sporting,Tenerife,1:2,1,Tenerife,1992/1993
+23,CD Logroñés,Sevilla,2:0,2,CD Logroñés,1992/1993
+23,Zaragoza,Rayo,2:0,2,Zaragoza,1992/1993
+23,Atlético,Cádiz CF,2:0,2,Atlético,1992/1993
+23,Valencia,Osasuna,3:1,2,Valencia,1992/1993
+23,Espanyol,Real Oviedo,2:0,2,Espanyol,1992/1993
+23,Deportivo,Real Sociedad,5:1,4,Deportivo,1992/1993
+23,Real Burgos,Barcelona,0:1,1,Barcelona,1992/1993
+23,Albacete,Real Madrid,0:3,3,Real Madrid,1992/1993
+23,Athletic,Celta,0:1,1,Celta,1992/1993
+24,Real Madrid,Deportivo,2:1,1,Real Madrid,1992/1993
+24,Osasuna,CD Logroñés,1:2,1,CD Logroñés,1992/1993
+24,Barcelona,Sporting,7:2,5,Barcelona,1992/1993
+24,Tenerife,Albacete,2:2,0,Empate,1992/1993
+24,Real Sociedad,Valencia,1:0,1,Real Sociedad,1992/1993
+24,Rayo,Espanyol,1:1,0,Empate,1992/1993
+24,Sevilla,Athletic,3:1,2,Sevilla,1992/1993
+24,Celta,Zaragoza,0:1,1,Zaragoza,1992/1993
+24,Real Oviedo,Cádiz CF,2:1,1,Real Oviedo,1992/1993
+24,Real Burgos,Atlético,0:2,2,Atlético,1992/1993
+25,Athletic,Osasuna,1:0,1,Athletic,1992/1993
+25,Zaragoza,Sevilla,2:1,1,Zaragoza,1992/1993
+25,Deportivo,Tenerife,2:2,0,Empate,1992/1993
+25,Cádiz CF,Rayo,1:1,0,Empate,1992/1993
+25,Sporting,Real Burgos,0:0,0,Empate,1992/1993
+25,Atlético,Real Oviedo,2:1,1,Atlético,1992/1993
+25,CD Logroñés,Real Sociedad,0:1,1,Real Sociedad,1992/1993
+25,Albacete,Barcelona,0:2,2,Barcelona,1992/1993
+25,Valencia,Real Madrid,1:2,1,Real Madrid,1992/1993
+25,Espanyol,Celta,0:0,0,Empate,1992/1993
+26,Barcelona,Deportivo,3:0,3,Barcelona,1992/1993
+26,Osasuna,Zaragoza,1:0,1,Osasuna,1992/1993
+26,Real Madrid,CD Logroñés,2:2,0,Empate,1992/1993
+26,Real Burgos,Albacete,0:0,0,Empate,1992/1993
+26,Celta,Cádiz CF,1:0,1,Celta,1992/1993
+26,Rayo,Real Oviedo,2:2,0,Empate,1992/1993
+26,Tenerife,Valencia,0:0,0,Empate,1992/1993
+26,Sevilla,Espanyol,1:1,0,Empate,1992/1993
+26,Real Sociedad,Athletic,1:0,1,Real Sociedad,1992/1993
+26,Sporting,Atlético,2:1,1,Sporting,1992/1993
+27,Valencia,Barcelona,3:4,1,Barcelona,1992/1993
+27,Real Oviedo,Celta,3:1,2,Real Oviedo,1992/1993
+27,Atlético,Rayo,1:0,1,Atlético,1992/1993
+27,Deportivo,Real Burgos,5:0,5,Deportivo,1992/1993
+27,Albacete,Sporting,6:2,4,Albacete,1992/1993
+27,CD Logroñés,Tenerife,2:0,2,CD Logroñés,1992/1993
+27,Zaragoza,Real Sociedad,1:1,0,Empate,1992/1993
+27,Cádiz CF,Sevilla,0:0,0,Empate,1992/1993
+27,Athletic,Real Madrid,1:1,0,Empate,1992/1993
+27,Espanyol,Osasuna,2:1,1,Espanyol,1992/1993
+28,Albacete,Atlético,2:1,1,Albacete,1992/1993
+28,Sevilla,Real Oviedo,0:1,1,Real Oviedo,1992/1993
+28,Celta,Rayo,0:0,0,Empate,1992/1993
+28,Barcelona,CD Logroñés,3:0,3,Barcelona,1992/1993
+28,Osasuna,Cádiz CF,1:1,0,Empate,1992/1993
+28,Sporting,Deportivo,0:1,1,Deportivo,1992/1993
+28,Real Madrid,Zaragoza,4:0,4,Real Madrid,1992/1993
+28,Real Burgos,Valencia,1:1,0,Empate,1992/1993
+28,Real Sociedad,Espanyol,4:1,3,Real Sociedad,1992/1993
+28,Tenerife,Athletic,2:1,1,Tenerife,1992/1993
+29,Athletic,Barcelona,1:0,1,Athletic,1992/1993
+29,Valencia,Sporting,2:0,2,Valencia,1992/1993
+29,Deportivo,Albacete,3:2,1,Deportivo,1992/1993
+29,Zaragoza,Tenerife,2:2,0,Empate,1992/1993
+29,CD Logroñés,Real Burgos,0:1,1,Real Burgos,1992/1993
+29,Atlético,Celta,1:1,0,Empate,1992/1993
+29,Cádiz CF,Real Sociedad,2:1,1,Cádiz CF,1992/1993
+29,Rayo,Sevilla,0:1,1,Sevilla,1992/1993
+29,Espanyol,Real Madrid,1:3,2,Real Madrid,1992/1993
+29,Real Oviedo,Osasuna,1:2,1,Osasuna,1992/1993
+30,Deportivo,Atlético,1:1,0,Empate,1992/1993
+30,Real Burgos,Athletic,1:1,0,Empate,1992/1993
+30,Albacete,Valencia,0:1,1,Valencia,1992/1993
+30,Osasuna,Rayo,1:0,1,Osasuna,1992/1993
+30,Real Madrid,Cádiz CF,3:1,2,Real Madrid,1992/1993
+30,Real Sociedad,Real Oviedo,1:0,1,Real Sociedad,1992/1993
+30,Barcelona,Zaragoza,1:0,1,Barcelona,1992/1993
+30,Sporting,CD Logroñés,1:1,0,Empate,1992/1993
+30,Tenerife,Espanyol,2:1,1,Tenerife,1992/1993
+30,Sevilla,Celta,1:0,1,Sevilla,1992/1993
+31,Valencia,Deportivo,3:0,3,Valencia,1992/1993
+31,Real Oviedo,Real Madrid,0:4,4,Real Madrid,1992/1993
+31,Rayo,Real Sociedad,1:1,0,Empate,1992/1993
+31,Athletic,Sporting,0:0,0,Empate,1992/1993
+31,Cádiz CF,Tenerife,1:3,2,Tenerife,1992/1993
+31,Zaragoza,Real Burgos,2:1,1,Zaragoza,1992/1993
+31,Celta,Osasuna,0:0,0,Empate,1992/1993
+31,Atlético,Sevilla,1:0,1,Atlético,1992/1993
+31,Espanyol,Barcelona,0:1,1,Barcelona,1992/1993
+31,CD Logroñés,Albacete,1:0,1,CD Logroñés,1992/1993
+32,Valencia,Atlético,1:0,1,Valencia,1992/1993
+32,Sporting,Zaragoza,3:1,2,Sporting,1992/1993
+32,Tenerife,Real Oviedo,1:2,1,Real Oviedo,1992/1993
+32,Deportivo,CD Logroñés,0:1,1,CD Logroñés,1992/1993
+32,Real Madrid,Rayo,1:1,0,Empate,1992/1993
+32,Barcelona,Cádiz CF,4:1,3,Barcelona,1992/1993
+32,Osasuna,Sevilla,0:1,1,Sevilla,1992/1993
+32,Real Burgos,Espanyol,1:1,0,Empate,1992/1993
+32,Real Sociedad,Celta,1:1,0,Empate,1992/1993
+32,Albacete,Athletic,4:5,1,Athletic,1992/1993
+33,Atlético,Osasuna,2:1,1,Atlético,1992/1993
+33,Real Oviedo,Barcelona,1:0,1,Real Oviedo,1992/1993
+33,Celta,Real Madrid,1:1,0,Empate,1992/1993
+33,Sevilla,Real Sociedad,3:1,2,Sevilla,1992/1993
+33,Zaragoza,Albacete,0:1,1,Albacete,1992/1993
+33,Rayo,Tenerife,2:2,0,Empate,1992/1993
+33,Cádiz CF,Real Burgos,3:2,1,Cádiz CF,1992/1993
+33,Espanyol,Sporting,1:2,1,Sporting,1992/1993
+33,CD Logroñés,Valencia,3:2,1,CD Logroñés,1992/1993
+33,Athletic,Deportivo,0:1,1,Deportivo,1992/1993
+34,Valencia,Athletic,3:1,2,Valencia,1992/1993
+34,Real Burgos,Real Oviedo,1:1,0,Empate,1992/1993
+34,Barcelona,Rayo,4:0,4,Barcelona,1992/1993
+34,Sporting,Cádiz CF,1:0,1,Sporting,1992/1993
+34,Real Sociedad,Osasuna,1:3,2,Osasuna,1992/1993
+34,Albacete,Espanyol,2:0,2,Albacete,1992/1993
+34,Deportivo,Zaragoza,1:0,1,Deportivo,1992/1993
+34,CD Logroñés,Atlético,2:1,1,CD Logroñés,1992/1993
+34,Tenerife,Celta,1:0,1,Tenerife,1992/1993
+34,Real Madrid,Sevilla,5:0,5,Real Madrid,1992/1993
+35,Sevilla,Tenerife,1:0,1,Sevilla,1992/1993
+35,Real Oviedo,Sporting,2:1,1,Real Oviedo,1992/1993
+35,Celta,Barcelona,3:2,1,Celta,1992/1993
+35,Cádiz CF,Albacete,1:1,0,Empate,1992/1993
+35,Athletic,CD Logroñés,2:0,2,Athletic,1992/1993
+35,Rayo,Real Burgos,2:1,1,Rayo,1992/1993
+35,Espanyol,Deportivo,0:2,2,Deportivo,1992/1993
+35,Zaragoza,Valencia,2:1,1,Zaragoza,1992/1993
+35,Osasuna,Real Madrid,0:0,0,Empate,1992/1993
+35,Atlético,Real Sociedad,0:0,0,Empate,1992/1993
+36,Deportivo,Cádiz CF,3:0,3,Deportivo,1992/1993
+36,Real Madrid,Real Sociedad,2:0,2,Real Madrid,1992/1993
+36,Barcelona,Sevilla,2:1,1,Barcelona,1992/1993
+36,CD Logroñés,Zaragoza,0:0,0,Empate,1992/1993
+36,Real Burgos,Celta,1:1,0,Empate,1992/1993
+36,Albacete,Real Oviedo,2:0,2,Albacete,1992/1993
+36,Sporting,Rayo,1:0,1,Sporting,1992/1993
+36,Valencia,Espanyol,2:0,2,Valencia,1992/1993
+36,Tenerife,Osasuna,2:2,0,Empate,1992/1993
+36,Athletic,Atlético,1:2,1,Atlético,1992/1993
+37,Real Madrid,Atlético,1:0,1,Real Madrid,1992/1993
+37,Sevilla,Real Burgos,1:1,0,Empate,1992/1993
+37,Rayo,Albacete,2:2,0,Empate,1992/1993
+37,Espanyol,CD Logroñés,0:1,1,CD Logroñés,1992/1993
+37,Real Oviedo,Deportivo,3:3,0,Empate,1992/1993
+37,Cádiz CF,Valencia,0:2,2,Valencia,1992/1993
+37,Zaragoza,Athletic,0:3,3,Athletic,1992/1993
+37,Osasuna,Barcelona,0:1,1,Barcelona,1992/1993
+37,Celta,Sporting,0:0,0,Empate,1992/1993
+37,Real Sociedad,Tenerife,3:1,2,Real Sociedad,1992/1993
+38,Deportivo,Rayo,1:1,0,Empate,1992/1993
+38,Real Burgos,Osasuna,1:0,1,Real Burgos,1992/1993
+38,Valencia,Real Oviedo,3:0,3,Valencia,1992/1993
+38,Albacete,Celta,1:0,1,Albacete,1992/1993
+38,Atlético,Zaragoza,2:2,0,Empate,1992/1993
+38,Barcelona,Real Sociedad,1:0,1,Barcelona,1992/1993
+38,Sporting,Sevilla,1:3,2,Sevilla,1992/1993
+38,Tenerife,Real Madrid,2:0,2,Tenerife,1992/1993
+38,CD Logroñés,Cádiz CF,1:0,1,CD Logroñés,1992/1993
+38,Athletic,Espanyol,2:0,2,Athletic,1992/1993

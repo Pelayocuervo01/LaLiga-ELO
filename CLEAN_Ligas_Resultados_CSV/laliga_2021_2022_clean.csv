@@ -1,0 +1,381 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Valencia,Getafe,1:0,1,Valencia,2021/2022
+1,Cádiz CF,Levante,1:1,0,Empate,2021/2022
+1,Mallorca,Betis,1:1,0,Empate,2021/2022
+1,Osasuna,Espanyol,0:0,0,Empate,2021/2022
+1,Alavés,Real Madrid,1:4,3,Real Madrid,2021/2022
+1,Celta,Atlético,1:2,1,Atlético,2021/2022
+1,Barcelona,Real Sociedad,4:2,2,Barcelona,2021/2022
+1,Sevilla,Rayo,3:0,3,Sevilla,2021/2022
+1,Villarreal,Granada,0:0,0,Empate,2021/2022
+1,Elche,Athletic,0:0,0,Empate,2021/2022
+2,Betis,Cádiz CF,1:1,0,Empate,2021/2022
+2,Alavés,Mallorca,0:1,1,Mallorca,2021/2022
+2,Espanyol,Villarreal,0:0,0,Empate,2021/2022
+2,Granada,Valencia,1:1,0,Empate,2021/2022
+2,Athletic,Barcelona,1:1,0,Empate,2021/2022
+2,Real Sociedad,Rayo,1:0,1,Real Sociedad,2021/2022
+2,Atlético,Elche,1:0,1,Atlético,2021/2022
+2,Levante,Real Madrid,3:3,0,Empate,2021/2022
+2,Getafe,Sevilla,0:1,1,Sevilla,2021/2022
+2,Osasuna,Celta,0:0,0,Empate,2021/2022
+3,Mallorca,Espanyol,1:0,1,Mallorca,2021/2022
+3,Valencia,Alavés,3:0,3,Valencia,2021/2022
+3,Celta,Athletic,0:1,1,Athletic,2021/2022
+3,Elche,Sevilla,1:1,0,Empate,2021/2022
+3,Real Sociedad,Levante,1:0,1,Real Sociedad,2021/2022
+3,Betis,Real Madrid,0:1,1,Real Madrid,2021/2022
+3,Barcelona,Getafe,2:1,1,Barcelona,2021/2022
+3,Cádiz CF,Osasuna,2:3,1,Osasuna,2021/2022
+3,Rayo,Granada,4:0,4,Rayo,2021/2022
+3,Atlético,Villarreal,2:2,0,Empate,2021/2022
+4,Levante,Rayo,1:1,0,Empate,2021/2022
+4,Athletic,Mallorca,2:0,2,Athletic,2021/2022
+4,Espanyol,Atlético,1:2,1,Atlético,2021/2022
+4,Osasuna,Valencia,1:4,3,Valencia,2021/2022
+4,Cádiz CF,Real Sociedad,0:2,2,Real Sociedad,2021/2022
+4,Real Madrid,Celta,5:2,3,Real Madrid,2021/2022
+4,Getafe,Elche,0:1,1,Elche,2021/2022
+4,Granada,Betis,1:2,1,Betis,2021/2022
+4,Villarreal,Alavés,5:2,3,Villarreal,2021/2022
+4,Sevilla,Barcelona,1:1,0,Empate,2021/2022
+5,Celta,Cádiz CF,1:2,1,Cádiz CF,2021/2022
+5,Rayo,Getafe,3:0,3,Rayo,2021/2022
+5,Atlético,Athletic,0:0,0,Empate,2021/2022
+5,Elche,Levante,1:1,0,Empate,2021/2022
+5,Alavés,Osasuna,0:2,2,Osasuna,2021/2022
+5,Mallorca,Villarreal,0:0,0,Empate,2021/2022
+5,Real Sociedad,Sevilla,0:0,0,Empate,2021/2022
+5,Betis,Espanyol,2:2,0,Empate,2021/2022
+5,Valencia,Real Madrid,1:2,1,Real Madrid,2021/2022
+5,Barcelona,Granada,1:1,0,Empate,2021/2022
+6,Getafe,Atlético,1:2,1,Atlético,2021/2022
+6,Athletic,Rayo,1:2,1,Rayo,2021/2022
+6,Levante,Celta,0:2,2,Celta,2021/2022
+6,Espanyol,Alavés,1:0,1,Espanyol,2021/2022
+6,Sevilla,Valencia,3:1,2,Sevilla,2021/2022
+6,Villarreal,Elche,4:1,3,Villarreal,2021/2022
+6,Real Madrid,Mallorca,6:1,5,Real Madrid,2021/2022
+6,Osasuna,Betis,1:3,2,Betis,2021/2022
+6,Granada,Real Sociedad,2:3,1,Real Sociedad,2021/2022
+6,Cádiz CF,Barcelona,0:0,0,Empate,2021/2022
+7,Alavés,Atlético,1:0,1,Alavés,2021/2022
+7,Valencia,Athletic,1:1,0,Empate,2021/2022
+7,Sevilla,Espanyol,2:0,2,Sevilla,2021/2022
+7,Real Madrid,Villarreal,0:0,0,Empate,2021/2022
+7,Mallorca,Osasuna,2:3,1,Osasuna,2021/2022
+7,Barcelona,Levante,3:0,3,Barcelona,2021/2022
+7,Rayo,Cádiz CF,3:1,2,Rayo,2021/2022
+7,Real Sociedad,Elche,1:0,1,Real Sociedad,2021/2022
+7,Betis,Getafe,2:0,2,Betis,2021/2022
+7,Celta,Granada,1:0,1,Celta,2021/2022
+8,Athletic,Alavés,1:0,1,Athletic,2021/2022
+8,Osasuna,Rayo,1:0,1,Osasuna,2021/2022
+8,Mallorca,Levante,1:0,1,Mallorca,2021/2022
+8,Cádiz CF,Valencia,0:0,0,Empate,2021/2022
+8,Atlético,Barcelona,2:0,2,Atlético,2021/2022
+8,Elche,Celta,1:0,1,Elche,2021/2022
+8,Espanyol,Real Madrid,2:1,1,Espanyol,2021/2022
+8,Getafe,Real Sociedad,1:1,0,Empate,2021/2022
+8,Villarreal,Betis,2:0,2,Villarreal,2021/2022
+8,Granada,Sevilla,1:0,1,Granada,2021/2022
+9,Levante,Getafe,0:0,0,Empate,2021/2022
+9,Real Sociedad,Mallorca,1:0,1,Real Sociedad,2021/2022
+9,Rayo,Elche,2:1,1,Rayo,2021/2022
+9,Celta,Sevilla,0:1,1,Sevilla,2021/2022
+9,Villarreal,Osasuna,1:2,1,Osasuna,2021/2022
+9,Barcelona,Valencia,3:1,2,Barcelona,2021/2022
+9,Alavés,Betis,0:1,1,Betis,2021/2022
+9,Espanyol,Cádiz CF,2:0,2,Espanyol,2021/2022
+9,Real Madrid,Athletic,1:0,1,Real Madrid,2021/2022
+9,Granada,Atlético,2:1,1,Granada,2021/2022
+10,Osasuna,Granada,1:1,0,Empate,2021/2022
+10,Valencia,Mallorca,2:2,0,Empate,2021/2022
+10,Cádiz CF,Alavés,0:2,2,Alavés,2021/2022
+10,Elche,Espanyol,2:2,0,Empate,2021/2022
+10,Athletic,Villarreal,2:1,1,Athletic,2021/2022
+10,Sevilla,Levante,5:3,2,Sevilla,2021/2022
+10,Barcelona,Real Madrid,1:2,1,Real Madrid,2021/2022
+10,Betis,Rayo,3:2,1,Betis,2021/2022
+10,Atlético,Real Sociedad,2:2,0,Empate,2021/2022
+10,Getafe,Celta,0:3,3,Celta,2021/2022
+11,Alavés,Elche,1:0,1,Alavés,2021/2022
+11,Espanyol,Athletic,1:1,0,Empate,2021/2022
+11,Villarreal,Cádiz CF,3:3,0,Empate,2021/2022
+11,Rayo,Barcelona,1:0,1,Rayo,2021/2022
+11,Mallorca,Sevilla,1:1,0,Empate,2021/2022
+11,Betis,Valencia,4:1,3,Betis,2021/2022
+11,Real Madrid,Osasuna,0:0,0,Empate,2021/2022
+11,Celta,Real Sociedad,0:2,2,Real Sociedad,2021/2022
+11,Granada,Getafe,1:1,0,Empate,2021/2022
+11,Levante,Atlético,2:2,0,Empate,2021/2022
+12,Elche,Real Madrid,1:2,1,Real Madrid,2021/2022
+12,Sevilla,Osasuna,2:0,2,Sevilla,2021/2022
+12,Valencia,Villarreal,2:0,2,Valencia,2021/2022
+12,Barcelona,Alavés,1:1,0,Empate,2021/2022
+12,Cádiz CF,Mallorca,1:1,0,Empate,2021/2022
+12,Atlético,Betis,3:0,3,Atlético,2021/2022
+12,Getafe,Espanyol,2:1,1,Getafe,2021/2022
+12,Real Sociedad,Athletic,1:1,0,Empate,2021/2022
+12,Rayo,Celta,0:0,0,Empate,2021/2022
+12,Levante,Granada,0:3,3,Granada,2021/2022
+13,Athletic,Cádiz CF,0:1,1,Cádiz CF,2021/2022
+13,Espanyol,Granada,2:0,2,Espanyol,2021/2022
+13,Celta,Barcelona,3:3,0,Empate,2021/2022
+13,Alavés,Levante,2:1,1,Alavés,2021/2022
+13,Real Madrid,Rayo,2:1,1,Real Madrid,2021/2022
+13,Villarreal,Getafe,1:0,1,Villarreal,2021/2022
+13,Valencia,Atlético,3:3,0,Empate,2021/2022
+13,Osasuna,Real Sociedad,0:2,2,Real Sociedad,2021/2022
+13,Mallorca,Elche,2:2,0,Empate,2021/2022
+13,Betis,Sevilla,0:2,2,Sevilla,2021/2022
+14,Levante,Athletic,0:0,0,Empate,2021/2022
+14,Celta,Villarreal,1:1,0,Empate,2021/2022
+14,Sevilla,Alavés,2:2,0,Empate,2021/2022
+14,Atlético,Osasuna,1:0,1,Atlético,2021/2022
+14,Barcelona,Espanyol,1:0,1,Barcelona,2021/2022
+14,Getafe,Cádiz CF,4:0,4,Getafe,2021/2022
+14,Granada,Real Madrid,1:4,3,Real Madrid,2021/2022
+14,Elche,Betis,0:3,3,Betis,2021/2022
+14,Real Sociedad,Valencia,0:0,0,Empate,2021/2022
+14,Rayo,Mallorca,3:1,2,Rayo,2021/2022
+15,Athletic,Granada,2:2,0,Empate,2021/2022
+15,Alavés,Celta,1:2,1,Celta,2021/2022
+15,Valencia,Rayo,1:1,0,Empate,2021/2022
+15,Mallorca,Getafe,0:0,0,Empate,2021/2022
+15,Villarreal,Barcelona,1:3,2,Barcelona,2021/2022
+15,Betis,Levante,3:1,2,Betis,2021/2022
+15,Espanyol,Real Sociedad,1:0,1,Espanyol,2021/2022
+15,Cádiz CF,Atlético,1:4,3,Atlético,2021/2022
+15,Real Madrid,Sevilla,2:1,1,Real Madrid,2021/2022
+15,Osasuna,Elche,1:1,0,Empate,2021/2022
+16,Granada,Alavés,2:1,1,Granada,2021/2022
+16,Sevilla,Villarreal,1:0,1,Sevilla,2021/2022
+16,Barcelona,Betis,0:1,1,Betis,2021/2022
+16,Atlético,Mallorca,1:2,1,Mallorca,2021/2022
+16,Real Sociedad,Real Madrid,0:2,2,Real Madrid,2021/2022
+16,Rayo,Espanyol,1:0,1,Rayo,2021/2022
+16,Elche,Cádiz CF,3:1,2,Elche,2021/2022
+16,Levante,Osasuna,0:0,0,Empate,2021/2022
+16,Celta,Valencia,1:2,1,Valencia,2021/2022
+16,Getafe,Athletic,0:0,0,Empate,2021/2022
+17,Mallorca,Celta,0:0,0,Empate,2021/2022
+17,Espanyol,Levante,4:3,1,Espanyol,2021/2022
+17,Alavés,Getafe,1:1,0,Empate,2021/2022
+17,Valencia,Elche,2:1,1,Valencia,2021/2022
+17,Athletic,Sevilla,0:1,1,Sevilla,2021/2022
+17,Villarreal,Rayo,2:0,2,Villarreal,2021/2022
+17,Osasuna,Barcelona,2:2,0,Empate,2021/2022
+17,Betis,Real Sociedad,4:0,4,Betis,2021/2022
+17,Real Madrid,Atlético,2:0,2,Real Madrid,2021/2022
+17,Cádiz CF,Granada,1:1,0,Empate,2021/2022
+18,Celta,Espanyol,3:1,2,Celta,2021/2022
+18,Rayo,Alavés,2:0,2,Rayo,2021/2022
+18,Real Sociedad,Villarreal,1:3,2,Villarreal,2021/2022
+18,Barcelona,Elche,3:2,1,Barcelona,2021/2022
+18,Sevilla,Atlético,2:1,1,Sevilla,2021/2022
+18,Granada,Mallorca,4:1,3,Granada,2021/2022
+18,Athletic,Betis,3:2,1,Athletic,2021/2022
+18,Getafe,Osasuna,1:0,1,Getafe,2021/2022
+18,Real Madrid,Cádiz CF,0:0,0,Empate,2021/2022
+18,Levante,Valencia,3:4,1,Valencia,2021/2022
+19,Valencia,Espanyol,1:2,1,Espanyol,2021/2022
+19,Getafe,Real Madrid,1:0,1,Getafe,2021/2022
+19,Atlético,Rayo,2:0,2,Atlético,2021/2022
+19,Elche,Granada,0:0,0,Empate,2021/2022
+19,Betis,Celta,0:2,2,Celta,2021/2022
+19,Alavés,Real Sociedad,1:1,0,Empate,2021/2022
+19,Mallorca,Barcelona,0:1,1,Barcelona,2021/2022
+19,Villarreal,Levante,5:0,5,Villarreal,2021/2022
+19,Osasuna,Athletic,1:3,2,Athletic,2021/2022
+19,Cádiz CF,Sevilla,0:1,1,Sevilla,2021/2022
+20,Levante,Mallorca,2:0,2,Levante,2021/2022
+20,Real Sociedad,Celta,1:0,1,Real Sociedad,2021/2022
+20,Granada,Barcelona,1:1,0,Empate,2021/2022
+20,Real Madrid,Valencia,4:1,3,Real Madrid,2021/2022
+20,Rayo,Betis,1:1,0,Empate,2021/2022
+20,Sevilla,Getafe,1:0,1,Sevilla,2021/2022
+20,Osasuna,Cádiz CF,2:0,2,Osasuna,2021/2022
+20,Alavés,Athletic,0:0,0,Empate,2021/2022
+20,Villarreal,Atlético,2:2,0,Empate,2021/2022
+20,Espanyol,Elche,1:2,1,Elche,2021/2022
+21,Athletic,Real Madrid,1:2,1,Real Madrid,2021/2022
+21,Elche,Villarreal,1:0,1,Elche,2021/2022
+21,Betis,Alavés,4:0,4,Betis,2021/2022
+21,Cádiz CF,Espanyol,2:2,0,Empate,2021/2022
+21,Celta,Osasuna,2:0,2,Celta,2021/2022
+21,Valencia,Sevilla,1:1,0,Empate,2021/2022
+21,Getafe,Granada,4:2,2,Getafe,2021/2022
+21,Atlético,Levante,0:1,1,Levante,2021/2022
+21,Mallorca,Real Sociedad,0:2,2,Real Sociedad,2021/2022
+21,Barcelona,Rayo,0:1,1,Rayo,2021/2022
+22,Espanyol,Betis,1:4,3,Betis,2021/2022
+22,Levante,Cádiz CF,0:2,2,Cádiz CF,2021/2022
+22,Villarreal,Mallorca,3:0,3,Villarreal,2021/2022
+22,Sevilla,Celta,2:2,0,Empate,2021/2022
+22,Atlético,Valencia,3:2,1,Atlético,2021/2022
+22,Granada,Osasuna,0:2,2,Osasuna,2021/2022
+22,Real Madrid,Elche,2:2,0,Empate,2021/2022
+22,Rayo,Athletic,0:1,1,Athletic,2021/2022
+22,Real Sociedad,Getafe,0:0,0,Empate,2021/2022
+22,Alavés,Barcelona,0:1,1,Barcelona,2021/2022
+23,Getafe,Levante,3:0,3,Getafe,2021/2022
+23,Elche,Alavés,3:1,2,Elche,2021/2022
+23,Mallorca,Cádiz CF,2:1,1,Mallorca,2021/2022
+23,Celta,Rayo,2:0,2,Celta,2021/2022
+23,Osasuna,Sevilla,0:0,0,Empate,2021/2022
+23,Valencia,Real Sociedad,0:0,0,Empate,2021/2022
+23,Barcelona,Atlético,4:2,2,Barcelona,2021/2022
+23,Betis,Villarreal,0:2,2,Villarreal,2021/2022
+23,Real Madrid,Granada,1:0,1,Real Madrid,2021/2022
+23,Athletic,Espanyol,2:1,1,Athletic,2021/2022
+24,Sevilla,Elche,2:0,2,Sevilla,2021/2022
+24,Cádiz CF,Celta,0:0,0,Empate,2021/2022
+24,Villarreal,Real Madrid,0:0,0,Empate,2021/2022
+24,Rayo,Osasuna,0:3,3,Osasuna,2021/2022
+24,Atlético,Getafe,4:3,1,Atlético,2021/2022
+24,Alavés,Valencia,2:1,1,Alavés,2021/2022
+24,Levante,Betis,2:4,2,Betis,2021/2022
+24,Real Sociedad,Granada,2:0,2,Real Sociedad,2021/2022
+24,Espanyol,Barcelona,2:2,0,Empate,2021/2022
+24,Mallorca,Athletic,3:2,1,Mallorca,2021/2022
+25,Elche,Rayo,2:1,1,Elche,2021/2022
+25,Granada,Villarreal,1:4,3,Villarreal,2021/2022
+25,Osasuna,Atlético,0:3,3,Atlético,2021/2022
+25,Cádiz CF,Getafe,1:1,0,Empate,2021/2022
+25,Real Madrid,Alavés,3:0,3,Real Madrid,2021/2022
+25,Espanyol,Sevilla,1:1,0,Empate,2021/2022
+25,Valencia,Barcelona,1:4,3,Barcelona,2021/2022
+25,Betis,Mallorca,2:1,1,Betis,2021/2022
+25,Athletic,Real Sociedad,4:0,4,Athletic,2021/2022
+25,Celta,Levante,1:1,0,Empate,2021/2022
+26,Levante,Elche,3:0,3,Levante,2021/2022
+26,Mallorca,Valencia,0:1,1,Valencia,2021/2022
+26,Getafe,Alavés,2:2,0,Empate,2021/2022
+26,Rayo,Real Madrid,0:1,1,Real Madrid,2021/2022
+26,Atlético,Celta,2:0,2,Atlético,2021/2022
+26,Villarreal,Espanyol,5:1,4,Villarreal,2021/2022
+26,Sevilla,Betis,2:1,1,Sevilla,2021/2022
+26,Real Sociedad,Osasuna,1:0,1,Real Sociedad,2021/2022
+26,Barcelona,Athletic,4:0,4,Barcelona,2021/2022
+26,Granada,Cádiz CF,0:0,0,Empate,2021/2022
+27,Alavés,Sevilla,0:0,0,Empate,2021/2022
+27,Osasuna,Villarreal,1:0,1,Osasuna,2021/2022
+27,Espanyol,Getafe,2:0,2,Espanyol,2021/2022
+27,Valencia,Granada,3:1,2,Valencia,2021/2022
+27,Real Madrid,Real Sociedad,4:1,3,Real Madrid,2021/2022
+27,Cádiz CF,Rayo,2:0,2,Cádiz CF,2021/2022
+27,Elche,Barcelona,1:2,1,Barcelona,2021/2022
+27,Celta,Mallorca,4:3,1,Celta,2021/2022
+27,Betis,Atlético,1:3,2,Atlético,2021/2022
+27,Athletic,Levante,3:1,2,Athletic,2021/2022
+28,Atlético,Cádiz CF,2:1,1,Atlético,2021/2022
+28,Levante,Espanyol,1:1,0,Empate,2021/2022
+28,Granada,Elche,0:1,1,Elche,2021/2022
+28,Villarreal,Celta,1:0,1,Villarreal,2021/2022
+28,Getafe,Valencia,0:0,0,Empate,2021/2022
+28,Rayo,Sevilla,1:1,0,Empate,2021/2022
+28,Betis,Athletic,1:0,1,Betis,2021/2022
+28,Real Sociedad,Alavés,1:0,1,Real Sociedad,2021/2022
+28,Barcelona,Osasuna,4:0,4,Barcelona,2021/2022
+28,Mallorca,Real Madrid,0:3,3,Real Madrid,2021/2022
+29,Athletic,Getafe,1:1,0,Empate,2021/2022
+29,Alavés,Granada,2:3,1,Granada,2021/2022
+29,Elche,Valencia,0:1,1,Valencia,2021/2022
+29,Osasuna,Levante,3:1,2,Osasuna,2021/2022
+29,Rayo,Atlético,0:1,1,Atlético,2021/2022
+29,Espanyol,Mallorca,1:0,1,Espanyol,2021/2022
+29,Celta,Betis,0:0,0,Empate,2021/2022
+29,Cádiz CF,Villarreal,1:0,1,Cádiz CF,2021/2022
+29,Sevilla,Real Sociedad,0:0,0,Empate,2021/2022
+29,Real Madrid,Barcelona,0:4,4,Barcelona,2021/2022
+30,Getafe,Mallorca,1:0,1,Getafe,2021/2022
+30,Levante,Villarreal,2:0,2,Levante,2021/2022
+30,Celta,Real Madrid,1:2,1,Real Madrid,2021/2022
+30,Atlético,Alavés,4:1,3,Atlético,2021/2022
+30,Athletic,Elche,2:1,1,Athletic,2021/2022
+30,Betis,Osasuna,4:1,3,Betis,2021/2022
+30,Granada,Rayo,2:2,0,Empate,2021/2022
+30,Valencia,Cádiz CF,0:0,0,Empate,2021/2022
+30,Barcelona,Sevilla,1:0,1,Barcelona,2021/2022
+30,Real Sociedad,Espanyol,1:0,1,Real Sociedad,2021/2022
+31,Sevilla,Granada,4:2,2,Sevilla,2021/2022
+31,Cádiz CF,Betis,1:2,1,Betis,2021/2022
+31,Mallorca,Atlético,1:0,1,Mallorca,2021/2022
+31,Villarreal,Athletic,1:1,0,Empate,2021/2022
+31,Real Madrid,Getafe,2:0,2,Real Madrid,2021/2022
+31,Osasuna,Alavés,1:0,1,Osasuna,2021/2022
+31,Espanyol,Celta,1:0,1,Espanyol,2021/2022
+31,Elche,Real Sociedad,1:2,1,Real Sociedad,2021/2022
+31,Levante,Barcelona,2:3,1,Barcelona,2021/2022
+31,Rayo,Valencia,1:1,0,Empate,2021/2022
+32,Real Sociedad,Betis,0:0,0,Empate,2021/2022
+32,Elche,Mallorca,3:0,3,Elche,2021/2022
+32,Alavés,Rayo,1:0,1,Alavés,2021/2022
+32,Valencia,Osasuna,1:2,1,Osasuna,2021/2022
+32,Getafe,Villarreal,1:2,1,Villarreal,2021/2022
+32,Granada,Levante,1:4,3,Levante,2021/2022
+32,Atlético,Espanyol,2:1,1,Atlético,2021/2022
+32,Athletic,Celta,0:2,2,Celta,2021/2022
+32,Sevilla,Real Madrid,2:3,1,Real Madrid,2021/2022
+32,Barcelona,Cádiz CF,0:1,1,Cádiz CF,2021/2022
+33,Mallorca,Alavés,2:1,1,Mallorca,2021/2022
+33,Betis,Elche,0:1,1,Elche,2021/2022
+33,Villarreal,Valencia,2:0,2,Villarreal,2021/2022
+33,Atlético,Granada,0:0,0,Empate,2021/2022
+33,Celta,Getafe,0:2,2,Getafe,2021/2022
+33,Osasuna,Real Madrid,1:3,2,Real Madrid,2021/2022
+33,Espanyol,Rayo,0:1,1,Rayo,2021/2022
+33,Levante,Sevilla,2:3,1,Sevilla,2021/2022
+33,Cádiz CF,Athletic,2:3,1,Athletic,2021/2022
+33,Real Sociedad,Barcelona,0:1,1,Barcelona,2021/2022
+34,Sevilla,Cádiz CF,1:1,0,Empate,2021/2022
+34,Alavés,Villarreal,2:1,1,Alavés,2021/2022
+34,Real Madrid,Espanyol,4:0,4,Real Madrid,2021/2022
+34,Valencia,Levante,1:1,0,Empate,2021/2022
+34,Athletic,Atlético,2:0,2,Athletic,2021/2022
+34,Elche,Osasuna,1:1,0,Empate,2021/2022
+34,Granada,Celta,1:1,0,Empate,2021/2022
+34,Rayo,Real Sociedad,1:1,0,Empate,2021/2022
+34,Barcelona,Mallorca,2:1,1,Barcelona,2021/2022
+34,Getafe,Betis,0:0,0,Empate,2021/2022
+35,Levante,Real Sociedad,2:1,1,Levante,2021/2022
+35,Mallorca,Granada,2:6,4,Granada,2021/2022
+35,Athletic,Valencia,0:0,0,Empate,2021/2022
+35,Celta,Alavés,4:0,4,Celta,2021/2022
+35,Cádiz CF,Elche,3:0,3,Cádiz CF,2021/2022
+35,Betis,Barcelona,1:2,1,Barcelona,2021/2022
+35,Getafe,Rayo,0:0,0,Empate,2021/2022
+35,Villarreal,Sevilla,1:1,0,Empate,2021/2022
+35,Espanyol,Osasuna,1:1,0,Empate,2021/2022
+35,Atlético,Real Madrid,1:0,1,Atlético,2021/2022
+36,Valencia,Betis,0:3,3,Betis,2021/2022
+36,Granada,Athletic,1:0,1,Granada,2021/2022
+36,Barcelona,Celta,3:1,2,Barcelona,2021/2022
+36,Osasuna,Getafe,1:1,0,Empate,2021/2022
+36,Alavés,Espanyol,2:1,1,Alavés,2021/2022
+36,Sevilla,Mallorca,0:0,0,Empate,2021/2022
+36,Elche,Atlético,0:2,2,Atlético,2021/2022
+36,Real Sociedad,Cádiz CF,3:0,3,Real Sociedad,2021/2022
+36,Rayo,Villarreal,1:5,4,Villarreal,2021/2022
+36,Real Madrid,Levante,6:0,6,Real Madrid,2021/2022
+37,Espanyol,Valencia,1:1,0,Empate,2021/2022
+37,Athletic,Osasuna,2:0,2,Athletic,2021/2022
+37,Atlético,Sevilla,1:1,0,Empate,2021/2022
+37,Betis,Granada,2:0,2,Betis,2021/2022
+37,Celta,Elche,1:0,1,Celta,2021/2022
+37,Cádiz CF,Real Madrid,1:1,0,Empate,2021/2022
+37,Getafe,Barcelona,0:0,0,Empate,2021/2022
+37,Villarreal,Real Sociedad,1:2,1,Real Sociedad,2021/2022
+37,Mallorca,Rayo,2:1,1,Mallorca,2021/2022
+37,Levante,Alavés,3:1,2,Levante,2021/2022
+38,Rayo,Levante,2:4,2,Levante,2021/2022
+38,Real Madrid,Betis,0:0,0,Empate,2021/2022
+38,Valencia,Celta,2:0,2,Valencia,2021/2022
+38,Elche,Getafe,3:1,2,Elche,2021/2022
+38,Osasuna,Mallorca,0:2,2,Mallorca,2021/2022
+38,Alavés,Cádiz CF,0:1,1,Cádiz CF,2021/2022
+38,Granada,Espanyol,0:0,0,Empate,2021/2022
+38,Barcelona,Villarreal,0:2,2,Villarreal,2021/2022
+38,Sevilla,Athletic,1:0,1,Sevilla,2021/2022
+38,Real Sociedad,Atlético,1:2,1,Atlético,2021/2022

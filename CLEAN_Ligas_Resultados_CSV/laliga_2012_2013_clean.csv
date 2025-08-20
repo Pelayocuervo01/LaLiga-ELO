@@ -1,0 +1,381 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Celta,Málaga,0:1,1,Málaga,2012/2013
+1,Sevilla,Getafe,2:1,1,Sevilla,2012/2013
+1,Mallorca,Espanyol,2:1,1,Mallorca,2012/2013
+1,Athletic,Betis,3:5,2,Betis,2012/2013
+1,Real Madrid,Valencia,1:1,0,Empate,2012/2013
+1,Barcelona,Real Sociedad,5:1,4,Barcelona,2012/2013
+1,Levante,Atlético,1:1,0,Empate,2012/2013
+1,Deportivo,Osasuna,2:0,2,Deportivo,2012/2013
+1,Rayo,Granada,1:0,1,Rayo,2012/2013
+1,Zaragoza,Valladolid,0:1,1,Valladolid,2012/2013
+2,Real Sociedad,Celta,2:1,1,Real Sociedad,2012/2013
+2,Betis,Rayo,1:2,1,Rayo,2012/2013
+2,Espanyol,Zaragoza,1:2,1,Zaragoza,2012/2013
+2,Málaga,Mallorca,1:1,0,Empate,2012/2013
+2,Osasuna,Barcelona,1:2,1,Barcelona,2012/2013
+2,Getafe,Real Madrid,2:1,1,Getafe,2012/2013
+2,Granada,Sevilla,1:1,0,Empate,2012/2013
+2,Valencia,Deportivo,3:3,0,Empate,2012/2013
+2,Valladolid,Levante,2:0,2,Valladolid,2012/2013
+2,Atlético,Athletic,4:0,4,Atlético,2012/2013
+3,Celta,Osasuna,2:0,2,Celta,2012/2013
+3,Zaragoza,Málaga,0:1,1,Málaga,2012/2013
+3,Deportivo,Getafe,1:1,0,Empate,2012/2013
+3,Mallorca,Real Sociedad,1:0,1,Mallorca,2012/2013
+3,Rayo,Sevilla,0:0,0,Empate,2012/2013
+3,Athletic,Valladolid,2:0,2,Athletic,2012/2013
+3,Levante,Espanyol,3:2,1,Levante,2012/2013
+3,Real Madrid,Granada,3:0,3,Real Madrid,2012/2013
+3,Barcelona,Valencia,1:0,1,Barcelona,2012/2013
+3,Betis,Atlético,2:4,2,Atlético,2012/2013
+4,Málaga,Levante,3:1,2,Málaga,2012/2013
+4,Valencia,Celta,2:1,1,Valencia,2012/2013
+4,Getafe,Barcelona,1:4,3,Barcelona,2012/2013
+4,Sevilla,Real Madrid,1:0,1,Sevilla,2012/2013
+4,Espanyol,Athletic,3:3,0,Empate,2012/2013
+4,Granada,Deportivo,1:1,0,Empate,2012/2013
+4,Osasuna,Mallorca,1:1,0,Empate,2012/2013
+4,Real Sociedad,Zaragoza,2:0,2,Real Sociedad,2012/2013
+4,Atlético,Rayo,4:3,1,Atlético,2012/2013
+4,Valladolid,Betis,0:1,1,Betis,2012/2013
+5,Zaragoza,Osasuna,3:1,2,Zaragoza,2012/2013
+5,Celta,Getafe,2:1,1,Celta,2012/2013
+5,Betis,Espanyol,1:0,1,Betis,2012/2013
+5,Barcelona,Granada,2:0,2,Barcelona,2012/2013
+5,Mallorca,Valencia,2:0,2,Mallorca,2012/2013
+5,Levante,Real Sociedad,2:1,1,Levante,2012/2013
+5,Atlético,Valladolid,2:1,1,Atlético,2012/2013
+5,Athletic,Málaga,0:0,0,Empate,2012/2013
+5,Rayo,Real Madrid,0:2,2,Real Madrid,2012/2013
+5,Deportivo,Sevilla,0:2,2,Sevilla,2012/2013
+6,Valencia,Zaragoza,2:0,2,Valencia,2012/2013
+6,Málaga,Betis,4:0,4,Málaga,2012/2013
+6,Real Sociedad,Athletic,2:0,2,Real Sociedad,2012/2013
+6,Sevilla,Barcelona,2:3,1,Barcelona,2012/2013
+6,Granada,Celta,2:1,1,Granada,2012/2013
+6,Valladolid,Rayo,6:1,5,Valladolid,2012/2013
+6,Osasuna,Levante,4:0,4,Osasuna,2012/2013
+6,Real Madrid,Deportivo,5:1,4,Real Madrid,2012/2013
+6,Espanyol,Atlético,0:1,1,Atlético,2012/2013
+6,Getafe,Mallorca,1:0,1,Getafe,2012/2013
+7,Celta,Sevilla,2:0,2,Celta,2012/2013
+7,Rayo,Deportivo,2:1,1,Rayo,2012/2013
+7,Zaragoza,Getafe,0:1,1,Getafe,2012/2013
+7,Valladolid,Espanyol,1:1,0,Empate,2012/2013
+7,Betis,Real Sociedad,2:0,2,Betis,2012/2013
+7,Levante,Valencia,1:0,1,Levante,2012/2013
+7,Mallorca,Granada,1:2,1,Granada,2012/2013
+7,Athletic,Osasuna,1:0,1,Athletic,2012/2013
+7,Barcelona,Real Madrid,2:2,0,Empate,2012/2013
+7,Atlético,Málaga,2:1,1,Atlético,2012/2013
+8,Málaga,Valladolid,2:1,1,Málaga,2012/2013
+8,Real Madrid,Celta,2:0,2,Real Madrid,2012/2013
+8,Valencia,Athletic,3:2,1,Valencia,2012/2013
+8,Deportivo,Barcelona,4:5,1,Barcelona,2012/2013
+8,Getafe,Levante,0:1,1,Levante,2012/2013
+8,Espanyol,Rayo,3:2,1,Espanyol,2012/2013
+8,Granada,Zaragoza,1:2,1,Zaragoza,2012/2013
+8,Osasuna,Betis,0:0,0,Empate,2012/2013
+8,Real Sociedad,Atlético,0:1,1,Atlético,2012/2013
+8,Sevilla,Mallorca,3:2,1,Sevilla,2012/2013
+9,Espanyol,Málaga,0:0,0,Empate,2012/2013
+9,Betis,Valencia,1:0,1,Betis,2012/2013
+9,Celta,Deportivo,1:1,0,Empate,2012/2013
+9,Rayo,Barcelona,0:5,5,Barcelona,2012/2013
+9,Zaragoza,Sevilla,2:1,1,Zaragoza,2012/2013
+9,Levante,Granada,3:1,2,Levante,2012/2013
+9,Athletic,Getafe,1:2,1,Getafe,2012/2013
+9,Atlético,Osasuna,3:1,2,Atlético,2012/2013
+9,Mallorca,Real Madrid,0:5,5,Real Madrid,2012/2013
+9,Valladolid,Real Sociedad,2:2,0,Empate,2012/2013
+10,Málaga,Rayo,1:2,1,Rayo,2012/2013
+10,Barcelona,Celta,3:1,2,Barcelona,2012/2013
+10,Real Madrid,Zaragoza,4:0,4,Real Madrid,2012/2013
+10,Valencia,Atlético,2:0,2,Valencia,2012/2013
+10,Real Sociedad,Espanyol,0:1,1,Espanyol,2012/2013
+10,Deportivo,Mallorca,1:0,1,Deportivo,2012/2013
+10,Osasuna,Valladolid,0:1,1,Valladolid,2012/2013
+10,Granada,Athletic,1:2,1,Athletic,2012/2013
+10,Sevilla,Levante,0:0,0,Empate,2012/2013
+10,Getafe,Betis,2:4,2,Betis,2012/2013
+11,Betis,Granada,1:2,1,Granada,2012/2013
+11,Rayo,Celta,3:2,1,Rayo,2012/2013
+11,Espanyol,Osasuna,0:3,3,Osasuna,2012/2013
+11,Zaragoza,Deportivo,5:3,2,Zaragoza,2012/2013
+11,Málaga,Real Sociedad,1:2,1,Real Sociedad,2012/2013
+11,Valladolid,Valencia,1:1,0,Empate,2012/2013
+11,Athletic,Sevilla,2:1,1,Athletic,2012/2013
+11,Mallorca,Barcelona,2:4,2,Barcelona,2012/2013
+11,Atlético,Getafe,2:0,2,Atlético,2012/2013
+11,Levante,Real Madrid,1:2,1,Real Madrid,2012/2013
+12,Osasuna,Málaga,0:0,0,Empate,2012/2013
+12,Valencia,Espanyol,2:1,1,Valencia,2012/2013
+12,Barcelona,Zaragoza,3:1,2,Barcelona,2012/2013
+12,Real Madrid,Athletic,5:1,4,Real Madrid,2012/2013
+12,Deportivo,Levante,0:2,2,Levante,2012/2013
+12,Celta,Mallorca,1:1,0,Empate,2012/2013
+12,Getafe,Valladolid,2:1,1,Getafe,2012/2013
+12,Granada,Atlético,0:1,1,Atlético,2012/2013
+12,Sevilla,Betis,5:1,4,Sevilla,2012/2013
+12,Real Sociedad,Rayo,4:0,4,Real Sociedad,2012/2013
+13,Real Sociedad,Osasuna,0:0,0,Empate,2012/2013
+13,Rayo,Mallorca,2:0,2,Rayo,2012/2013
+13,Valladolid,Granada,1:0,1,Valladolid,2012/2013
+13,Málaga,Valencia,4:0,4,Málaga,2012/2013
+13,Betis,Real Madrid,1:0,1,Betis,2012/2013
+13,Espanyol,Getafe,0:2,2,Getafe,2012/2013
+13,Athletic,Deportivo,1:1,0,Empate,2012/2013
+13,Atlético,Sevilla,4:0,4,Atlético,2012/2013
+13,Levante,Barcelona,0:4,4,Barcelona,2012/2013
+13,Zaragoza,Celta,0:1,1,Celta,2012/2013
+14,Osasuna,Rayo,1:0,1,Osasuna,2012/2013
+14,Getafe,Málaga,1:0,1,Getafe,2012/2013
+14,Valencia,Real Sociedad,2:5,3,Real Sociedad,2012/2013
+14,Barcelona,Athletic,5:1,4,Barcelona,2012/2013
+14,Real Madrid,Atlético,2:0,2,Real Madrid,2012/2013
+14,Granada,Espanyol,0:0,0,Empate,2012/2013
+14,Deportivo,Betis,2:3,1,Betis,2012/2013
+14,Celta,Levante,1:1,0,Empate,2012/2013
+14,Mallorca,Zaragoza,1:1,0,Empate,2012/2013
+14,Sevilla,Valladolid,1:2,1,Valladolid,2012/2013
+15,Espanyol,Sevilla,2:2,0,Empate,2012/2013
+15,Real Sociedad,Getafe,1:1,0,Empate,2012/2013
+15,Málaga,Granada,4:0,4,Málaga,2012/2013
+15,Valladolid,Real Madrid,2:3,1,Real Madrid,2012/2013
+15,Osasuna,Valencia,0:1,1,Valencia,2012/2013
+15,Levante,Mallorca,4:0,4,Levante,2012/2013
+15,Athletic,Celta,1:0,1,Athletic,2012/2013
+15,Atlético,Deportivo,6:0,6,Atlético,2012/2013
+15,Betis,Barcelona,1:2,1,Barcelona,2012/2013
+15,Rayo,Zaragoza,0:2,2,Zaragoza,2012/2013
+16,Getafe,Osasuna,1:1,0,Empate,2012/2013
+16,Mallorca,Athletic,0:1,1,Athletic,2012/2013
+16,Granada,Real Sociedad,0:0,0,Empate,2012/2013
+16,Sevilla,Málaga,0:2,2,Málaga,2012/2013
+16,Zaragoza,Levante,0:1,1,Levante,2012/2013
+16,Valencia,Rayo,0:1,1,Rayo,2012/2013
+16,Real Madrid,Espanyol,2:2,0,Empate,2012/2013
+16,Barcelona,Atlético,4:1,3,Barcelona,2012/2013
+16,Deportivo,Valladolid,0:0,0,Empate,2012/2013
+16,Celta,Betis,0:1,1,Betis,2012/2013
+17,Rayo,Levante,3:0,3,Rayo,2012/2013
+17,Real Sociedad,Sevilla,2:1,1,Real Sociedad,2012/2013
+17,Espanyol,Deportivo,2:0,2,Espanyol,2012/2013
+17,Valencia,Getafe,4:2,2,Valencia,2012/2013
+17,Atlético,Celta,1:0,1,Atlético,2012/2013
+17,Betis,Mallorca,1:2,1,Mallorca,2012/2013
+17,Valladolid,Barcelona,1:3,2,Barcelona,2012/2013
+17,Osasuna,Granada,1:2,1,Granada,2012/2013
+17,Málaga,Real Madrid,3:2,1,Málaga,2012/2013
+17,Athletic,Zaragoza,0:2,2,Zaragoza,2012/2013
+18,Zaragoza,Betis,1:2,1,Betis,2012/2013
+18,Levante,Athletic,3:1,2,Levante,2012/2013
+18,Granada,Valencia,1:2,1,Valencia,2012/2013
+18,Deportivo,Málaga,1:0,1,Deportivo,2012/2013
+18,Sevilla,Osasuna,1:0,1,Sevilla,2012/2013
+18,Celta,Valladolid,3:1,2,Celta,2012/2013
+18,Real Madrid,Real Sociedad,4:3,1,Real Madrid,2012/2013
+18,Barcelona,Espanyol,4:0,4,Barcelona,2012/2013
+18,Mallorca,Atlético,1:1,0,Empate,2012/2013
+18,Rayo,Getafe,3:1,2,Rayo,2012/2013
+19,Athletic,Rayo,1:2,1,Rayo,2012/2013
+19,Valladolid,Mallorca,3:1,2,Valladolid,2012/2013
+19,Espanyol,Celta,1:0,1,Espanyol,2012/2013
+19,Osasuna,Real Madrid,0:0,0,Empate,2012/2013
+19,Valencia,Sevilla,2:0,2,Valencia,2012/2013
+19,Betis,Levante,2:0,2,Betis,2012/2013
+19,Real Sociedad,Deportivo,1:1,0,Empate,2012/2013
+19,Atlético,Zaragoza,2:0,2,Atlético,2012/2013
+19,Málaga,Barcelona,1:3,2,Barcelona,2012/2013
+19,Getafe,Granada,2:2,0,Empate,2012/2013
+20,Espanyol,Mallorca,3:2,1,Espanyol,2012/2013
+20,Granada,Rayo,2:0,2,Granada,2012/2013
+20,Real Sociedad,Barcelona,3:2,1,Real Sociedad,2012/2013
+20,Getafe,Sevilla,1:1,0,Empate,2012/2013
+20,Málaga,Celta,1:1,0,Empate,2012/2013
+20,Osasuna,Deportivo,2:1,1,Osasuna,2012/2013
+20,Valladolid,Zaragoza,2:0,2,Valladolid,2012/2013
+20,Atlético,Levante,2:0,2,Atlético,2012/2013
+20,Valencia,Real Madrid,0:5,5,Real Madrid,2012/2013
+20,Betis,Athletic,1:1,0,Empate,2012/2013
+21,Celta,Real Sociedad,1:1,0,Empate,2012/2013
+21,Levante,Valladolid,2:1,1,Levante,2012/2013
+21,Zaragoza,Espanyol,0:0,0,Empate,2012/2013
+21,Deportivo,Valencia,2:3,1,Valencia,2012/2013
+21,Real Madrid,Getafe,4:0,4,Real Madrid,2012/2013
+21,Rayo,Betis,3:0,3,Rayo,2012/2013
+21,Barcelona,Osasuna,5:1,4,Barcelona,2012/2013
+21,Athletic,Atlético,3:0,3,Athletic,2012/2013
+21,Mallorca,Málaga,2:3,1,Málaga,2012/2013
+21,Sevilla,Granada,3:0,3,Sevilla,2012/2013
+22,Valladolid,Athletic,2:2,0,Empate,2012/2013
+22,Osasuna,Celta,1:0,1,Osasuna,2012/2013
+22,Getafe,Deportivo,3:1,2,Getafe,2012/2013
+22,Espanyol,Levante,3:2,1,Espanyol,2012/2013
+22,Granada,Real Madrid,1:0,1,Granada,2012/2013
+22,Málaga,Zaragoza,1:1,0,Empate,2012/2013
+22,Sevilla,Rayo,2:1,1,Sevilla,2012/2013
+22,Valencia,Barcelona,1:1,0,Empate,2012/2013
+22,Atlético,Betis,1:0,1,Atlético,2012/2013
+22,Real Sociedad,Mallorca,3:0,3,Real Sociedad,2012/2013
+23,Mallorca,Osasuna,1:1,0,Empate,2012/2013
+23,Celta,Valencia,0:1,1,Valencia,2012/2013
+23,Levante,Málaga,1:2,1,Málaga,2012/2013
+23,Deportivo,Granada,0:3,3,Granada,2012/2013
+23,Real Madrid,Sevilla,4:1,3,Real Madrid,2012/2013
+23,Barcelona,Getafe,6:1,5,Barcelona,2012/2013
+23,Zaragoza,Real Sociedad,1:2,1,Real Sociedad,2012/2013
+23,Athletic,Espanyol,0:4,4,Espanyol,2012/2013
+23,Rayo,Atlético,2:1,1,Rayo,2012/2013
+23,Betis,Valladolid,0:0,0,Empate,2012/2013
+24,Sevilla,Deportivo,3:1,2,Sevilla,2012/2013
+24,Getafe,Celta,3:1,2,Getafe,2012/2013
+24,Málaga,Athletic,1:0,1,Málaga,2012/2013
+24,Granada,Barcelona,1:2,1,Barcelona,2012/2013
+24,Osasuna,Zaragoza,1:0,1,Osasuna,2012/2013
+24,Real Sociedad,Levante,1:1,0,Empate,2012/2013
+24,Valencia,Mallorca,2:0,2,Valencia,2012/2013
+24,Valladolid,Atlético,0:3,3,Atlético,2012/2013
+24,Espanyol,Betis,1:0,1,Espanyol,2012/2013
+24,Real Madrid,Rayo,2:0,2,Real Madrid,2012/2013
+25,Athletic,Real Sociedad,1:3,2,Real Sociedad,2012/2013
+25,Mallorca,Getafe,1:3,2,Getafe,2012/2013
+25,Zaragoza,Valencia,2:2,0,Empate,2012/2013
+25,Deportivo,Real Madrid,1:2,1,Real Madrid,2012/2013
+25,Barcelona,Sevilla,2:1,1,Barcelona,2012/2013
+25,Rayo,Valladolid,1:2,1,Valladolid,2012/2013
+25,Celta,Granada,2:1,1,Celta,2012/2013
+25,Atlético,Espanyol,1:0,1,Atlético,2012/2013
+25,Betis,Málaga,3:0,3,Betis,2012/2013
+25,Levante,Osasuna,0:2,2,Osasuna,2012/2013
+26,Getafe,Zaragoza,2:0,2,Getafe,2012/2013
+26,Real Madrid,Barcelona,2:1,1,Real Madrid,2012/2013
+26,Deportivo,Rayo,0:0,0,Empate,2012/2013
+26,Osasuna,Athletic,0:1,1,Athletic,2012/2013
+26,Valencia,Levante,2:2,0,Empate,2012/2013
+26,Granada,Mallorca,1:2,1,Mallorca,2012/2013
+26,Espanyol,Valladolid,0:0,0,Empate,2012/2013
+26,Málaga,Atlético,0:0,0,Empate,2012/2013
+26,Real Sociedad,Betis,3:3,0,Empate,2012/2013
+26,Sevilla,Celta,4:1,3,Sevilla,2012/2013
+27,Betis,Osasuna,2:1,1,Betis,2012/2013
+27,Rayo,Espanyol,2:0,2,Rayo,2012/2013
+27,Valladolid,Málaga,1:1,0,Empate,2012/2013
+27,Barcelona,Deportivo,2:0,2,Barcelona,2012/2013
+27,Mallorca,Sevilla,2:1,1,Mallorca,2012/2013
+27,Athletic,Valencia,1:0,1,Athletic,2012/2013
+27,Levante,Getafe,0:0,0,Empate,2012/2013
+27,Celta,Real Madrid,1:2,1,Real Madrid,2012/2013
+27,Atlético,Real Sociedad,0:1,1,Real Sociedad,2012/2013
+27,Zaragoza,Granada,0:0,0,Empate,2012/2013
+28,Deportivo,Celta,3:1,2,Deportivo,2012/2013
+28,Real Sociedad,Valladolid,4:1,3,Real Sociedad,2012/2013
+28,Getafe,Athletic,1:0,1,Getafe,2012/2013
+28,Real Madrid,Mallorca,5:2,3,Real Madrid,2012/2013
+28,Valencia,Betis,3:0,3,Valencia,2012/2013
+28,Málaga,Espanyol,0:2,2,Espanyol,2012/2013
+28,Sevilla,Zaragoza,4:0,4,Sevilla,2012/2013
+28,Osasuna,Atlético,0:2,2,Atlético,2012/2013
+28,Granada,Levante,1:1,0,Empate,2012/2013
+28,Barcelona,Rayo,3:1,2,Barcelona,2012/2013
+29,Rayo,Málaga,1:3,2,Málaga,2012/2013
+29,Celta,Barcelona,2:2,0,Empate,2012/2013
+29,Zaragoza,Real Madrid,1:1,0,Empate,2012/2013
+29,Levante,Sevilla,1:0,1,Levante,2012/2013
+29,Valladolid,Osasuna,1:3,2,Osasuna,2012/2013
+29,Mallorca,Deportivo,2:3,1,Deportivo,2012/2013
+29,Espanyol,Real Sociedad,2:2,0,Empate,2012/2013
+29,Atlético,Valencia,1:1,0,Empate,2012/2013
+29,Athletic,Granada,1:0,1,Athletic,2012/2013
+29,Betis,Getafe,0:0,0,Empate,2012/2013
+30,Granada,Betis,1:5,4,Betis,2012/2013
+30,Real Sociedad,Málaga,4:2,2,Real Sociedad,2012/2013
+30,Real Madrid,Levante,5:1,4,Real Madrid,2012/2013
+30,Deportivo,Zaragoza,3:2,1,Deportivo,2012/2013
+30,Barcelona,Mallorca,5:0,5,Barcelona,2012/2013
+30,Celta,Rayo,0:2,2,Rayo,2012/2013
+30,Osasuna,Espanyol,0:2,2,Espanyol,2012/2013
+30,Getafe,Atlético,0:0,0,Empate,2012/2013
+30,Valencia,Valladolid,2:1,1,Valencia,2012/2013
+30,Sevilla,Athletic,2:1,1,Sevilla,2012/2013
+31,Betis,Sevilla,3:3,0,Empate,2012/2013
+31,Valladolid,Getafe,2:1,1,Valladolid,2012/2013
+31,Levante,Deportivo,0:4,4,Deportivo,2012/2013
+31,Espanyol,Valencia,3:3,0,Empate,2012/2013
+31,Málaga,Osasuna,1:0,1,Málaga,2012/2013
+31,Rayo,Real Sociedad,0:2,2,Real Sociedad,2012/2013
+31,Atlético,Granada,5:0,5,Atlético,2012/2013
+31,Zaragoza,Barcelona,0:3,3,Barcelona,2012/2013
+31,Athletic,Real Madrid,0:3,3,Real Madrid,2012/2013
+31,Mallorca,Celta,1:0,1,Mallorca,2012/2013
+32,Mallorca,Rayo,1:1,0,Empate,2012/2013
+32,Granada,Valladolid,1:1,0,Empate,2012/2013
+32,Real Madrid,Betis,3:1,2,Real Madrid,2012/2013
+32,Barcelona,Levante,1:0,1,Barcelona,2012/2013
+32,Valencia,Málaga,5:1,4,Valencia,2012/2013
+32,Getafe,Espanyol,0:2,2,Espanyol,2012/2013
+32,Deportivo,Athletic,1:1,0,Empate,2012/2013
+32,Osasuna,Real Sociedad,0:0,0,Empate,2012/2013
+32,Sevilla,Atlético,0:1,1,Atlético,2012/2013
+32,Celta,Zaragoza,2:1,1,Celta,2012/2013
+33,Rayo,Osasuna,2:2,0,Empate,2012/2013
+33,Levante,Celta,0:1,1,Celta,2012/2013
+33,Athletic,Barcelona,2:2,0,Empate,2012/2013
+33,Atlético,Real Madrid,1:2,1,Real Madrid,2012/2013
+33,Zaragoza,Mallorca,3:2,1,Zaragoza,2012/2013
+33,Espanyol,Granada,0:1,1,Granada,2012/2013
+33,Málaga,Getafe,2:1,1,Málaga,2012/2013
+33,Valladolid,Sevilla,1:1,0,Empate,2012/2013
+33,Real Sociedad,Valencia,4:2,2,Real Sociedad,2012/2013
+33,Betis,Deportivo,1:1,0,Empate,2012/2013
+34,Celta,Athletic,1:1,0,Empate,2012/2013
+34,Valencia,Osasuna,4:0,4,Valencia,2012/2013
+34,Granada,Málaga,1:0,1,Granada,2012/2013
+34,Real Madrid,Valladolid,4:3,1,Real Madrid,2012/2013
+34,Deportivo,Atlético,0:0,0,Empate,2012/2013
+34,Mallorca,Levante,1:1,0,Empate,2012/2013
+34,Zaragoza,Rayo,3:0,3,Zaragoza,2012/2013
+34,Sevilla,Espanyol,3:0,3,Sevilla,2012/2013
+34,Barcelona,Betis,4:2,2,Barcelona,2012/2013
+34,Getafe,Real Sociedad,2:1,1,Getafe,2012/2013
+35,Levante,Zaragoza,0:0,0,Empate,2012/2013
+35,Athletic,Mallorca,2:1,1,Athletic,2012/2013
+35,Valladolid,Deportivo,1:0,1,Valladolid,2012/2013
+35,Osasuna,Getafe,1:0,1,Osasuna,2012/2013
+35,Espanyol,Real Madrid,1:1,0,Empate,2012/2013
+35,Rayo,Valencia,0:4,4,Valencia,2012/2013
+35,Betis,Celta,1:0,1,Betis,2012/2013
+35,Atlético,Barcelona,1:2,1,Barcelona,2012/2013
+35,Málaga,Sevilla,0:0,0,Empate,2012/2013
+35,Real Sociedad,Granada,2:2,0,Empate,2012/2013
+36,Celta,Atlético,1:3,2,Atlético,2012/2013
+36,Real Madrid,Málaga,6:2,4,Real Madrid,2012/2013
+36,Getafe,Valencia,0:1,1,Valencia,2012/2013
+36,Granada,Osasuna,3:0,3,Granada,2012/2013
+36,Sevilla,Real Sociedad,1:2,1,Real Sociedad,2012/2013
+36,Levante,Rayo,2:3,1,Rayo,2012/2013
+36,Deportivo,Espanyol,2:0,2,Deportivo,2012/2013
+36,Zaragoza,Athletic,1:2,1,Athletic,2012/2013
+36,Barcelona,Valladolid,2:1,1,Barcelona,2012/2013
+36,Mallorca,Betis,1:0,1,Mallorca,2012/2013
+37,Getafe,Rayo,1:2,1,Rayo,2012/2013
+37,Valencia,Granada,1:0,1,Valencia,2012/2013
+37,Osasuna,Sevilla,2:1,1,Osasuna,2012/2013
+37,Real Sociedad,Real Madrid,3:3,0,Empate,2012/2013
+37,Málaga,Deportivo,3:1,2,Málaga,2012/2013
+37,Espanyol,Barcelona,0:2,2,Barcelona,2012/2013
+37,Valladolid,Celta,0:2,2,Celta,2012/2013
+37,Atlético,Mallorca,0:0,0,Empate,2012/2013
+37,Betis,Zaragoza,4:0,4,Betis,2012/2013
+37,Athletic,Levante,0:1,1,Levante,2012/2013
+38,Real Madrid,Osasuna,4:2,2,Real Madrid,2012/2013
+38,Barcelona,Málaga,4:1,3,Barcelona,2012/2013
+38,Granada,Getafe,2:0,2,Granada,2012/2013
+38,Sevilla,Valencia,4:3,1,Sevilla,2012/2013
+38,Deportivo,Real Sociedad,0:1,1,Real Sociedad,2012/2013
+38,Celta,Espanyol,1:0,1,Celta,2012/2013
+38,Mallorca,Valladolid,4:2,2,Mallorca,2012/2013
+38,Zaragoza,Atlético,1:3,2,Atlético,2012/2013
+38,Levante,Betis,1:1,0,Empate,2012/2013
+38,Rayo,Athletic,2:2,0,Empate,2012/2013

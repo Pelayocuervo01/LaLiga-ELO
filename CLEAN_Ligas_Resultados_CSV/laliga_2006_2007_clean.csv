@@ -1,0 +1,381 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Valencia,Betis,2:1,1,Valencia,2006/2007
+1,Deportivo,Zaragoza,3:2,1,Deportivo,2006/2007
+1,RC Recreativo,Mallorca,1:1,0,Empate,2006/2007
+1,Real Madrid,Villarreal,0:0,0,Empate,2006/2007
+1,Real Racing,Atlético,0:1,1,Atlético,2006/2007
+1,Osasuna,Getafe,0:2,2,Getafe,2006/2007
+1,Espanyol,Gimnàstic de Tarragona,0:1,1,Gimnàstic de Tarragona,2006/2007
+1,Athletic,Real Sociedad,1:1,0,Empate,2006/2007
+1,Celta,Barcelona,2:3,1,Barcelona,2006/2007
+1,Sevilla,Levante,4:0,4,Sevilla,2006/2007
+2,Barcelona,Osasuna,3:0,3,Barcelona,2006/2007
+2,Atlético,Valencia,0:1,1,Valencia,2006/2007
+2,Mallorca,Deportivo,0:0,0,Empate,2006/2007
+2,Villarreal,RC Recreativo,0:1,1,RC Recreativo,2006/2007
+2,Levante,Real Madrid,1:4,3,Real Madrid,2006/2007
+2,Real Sociedad,Sevilla,1:3,2,Sevilla,2006/2007
+2,Betis,Athletic,3:0,3,Betis,2006/2007
+2,Getafe,Real Racing,1:0,1,Getafe,2006/2007
+2,Gimnàstic de Tarragona,Celta,1:2,1,Celta,2006/2007
+2,Zaragoza,Espanyol,3:0,3,Zaragoza,2006/2007
+3,Deportivo,Villarreal,2:0,2,Deportivo,2006/2007
+3,Sevilla,Betis,3:2,1,Sevilla,2006/2007
+3,Zaragoza,Mallorca,2:0,2,Zaragoza,2006/2007
+3,RC Recreativo,Levante,0:1,1,Levante,2006/2007
+3,Athletic,Atlético,1:4,3,Atlético,2006/2007
+3,Valencia,Getafe,2:0,2,Valencia,2006/2007
+3,Real Racing,Barcelona,0:3,3,Barcelona,2006/2007
+3,Osasuna,Gimnàstic de Tarragona,2:0,2,Osasuna,2006/2007
+3,Espanyol,Celta,2:1,1,Espanyol,2006/2007
+3,Real Madrid,Real Sociedad,2:0,2,Real Madrid,2006/2007
+4,Betis,Real Madrid,0:1,1,Real Madrid,2006/2007
+4,Atlético,Sevilla,2:1,1,Atlético,2006/2007
+4,Mallorca,Espanyol,1:0,1,Mallorca,2006/2007
+4,Villarreal,Zaragoza,3:2,1,Villarreal,2006/2007
+4,Levante,Deportivo,2:0,2,Levante,2006/2007
+4,Real Sociedad,RC Recreativo,2:3,1,RC Recreativo,2006/2007
+4,Getafe,Athletic,0:0,0,Empate,2006/2007
+4,Gimnàstic de Tarragona,Real Racing,2:2,0,Empate,2006/2007
+4,Celta,Osasuna,0:2,2,Osasuna,2006/2007
+4,Barcelona,Valencia,1:1,0,Empate,2006/2007
+5,Athletic,Barcelona,1:3,2,Barcelona,2006/2007
+5,Mallorca,Villarreal,1:2,1,Villarreal,2006/2007
+5,Zaragoza,Levante,2:2,0,Empate,2006/2007
+5,Deportivo,Real Sociedad,2:0,2,Deportivo,2006/2007
+5,RC Recreativo,Betis,2:0,2,RC Recreativo,2006/2007
+5,Real Madrid,Atlético,1:1,0,Empate,2006/2007
+5,Sevilla,Getafe,1:0,1,Sevilla,2006/2007
+5,Real Racing,Celta,1:1,0,Empate,2006/2007
+5,Espanyol,Osasuna,0:0,0,Empate,2006/2007
+5,Valencia,Gimnàstic de Tarragona,4:0,4,Valencia,2006/2007
+6,Getafe,Real Madrid,1:0,1,Getafe,2006/2007
+6,Atlético,RC Recreativo,2:1,1,Atlético,2006/2007
+6,Villarreal,Espanyol,0:0,0,Empate,2006/2007
+6,Levante,Mallorca,0:1,1,Mallorca,2006/2007
+6,Real Sociedad,Zaragoza,1:3,2,Zaragoza,2006/2007
+6,Gimnàstic de Tarragona,Athletic,2:3,1,Athletic,2006/2007
+6,Celta,Valencia,3:2,1,Celta,2006/2007
+6,Osasuna,Real Racing,0:1,1,Real Racing,2006/2007
+6,Barcelona,Sevilla,3:1,2,Barcelona,2006/2007
+6,Betis,Deportivo,1:1,0,Empate,2006/2007
+7,Villarreal,Levante,1:1,0,Empate,2006/2007
+7,Zaragoza,Betis,2:1,1,Zaragoza,2006/2007
+7,Deportivo,Atlético,1:0,1,Deportivo,2006/2007
+7,Mallorca,Real Sociedad,0:0,0,Empate,2006/2007
+7,RC Recreativo,Getafe,1:2,1,Getafe,2006/2007
+7,Sevilla,Gimnàstic de Tarragona,2:1,1,Sevilla,2006/2007
+7,Athletic,Celta,0:1,1,Celta,2006/2007
+7,Valencia,Osasuna,1:0,1,Valencia,2006/2007
+7,Espanyol,Real Racing,2:2,0,Empate,2006/2007
+7,Real Madrid,Barcelona,2:0,2,Real Madrid,2006/2007
+8,Barcelona,RC Recreativo,3:0,3,Barcelona,2006/2007
+8,Real Racing,Valencia,1:0,1,Real Racing,2006/2007
+8,Gimnàstic de Tarragona,Real Madrid,1:3,2,Real Madrid,2006/2007
+8,Levante,Espanyol,0:0,0,Empate,2006/2007
+8,Real Sociedad,Villarreal,0:1,1,Villarreal,2006/2007
+8,Betis,Mallorca,0:1,1,Mallorca,2006/2007
+8,Getafe,Deportivo,2:0,2,Getafe,2006/2007
+8,Celta,Sevilla,1:2,1,Sevilla,2006/2007
+8,Osasuna,Athletic,1:1,0,Empate,2006/2007
+8,Atlético,Zaragoza,0:1,1,Zaragoza,2006/2007
+9,Levante,Real Sociedad,2:0,2,Levante,2006/2007
+9,Mallorca,Atlético,0:0,0,Empate,2006/2007
+9,Deportivo,Barcelona,1:1,0,Empate,2006/2007
+9,Villarreal,Betis,3:2,1,Villarreal,2006/2007
+9,Zaragoza,Getafe,3:1,2,Zaragoza,2006/2007
+9,RC Recreativo,Gimnàstic de Tarragona,2:1,1,RC Recreativo,2006/2007
+9,Sevilla,Osasuna,2:0,2,Sevilla,2006/2007
+9,Athletic,Real Racing,0:0,0,Empate,2006/2007
+9,Real Madrid,Celta,1:2,1,Celta,2006/2007
+9,Espanyol,Valencia,1:1,0,Empate,2006/2007
+10,Atlético,Villarreal,3:1,2,Atlético,2006/2007
+10,Valencia,Athletic,1:1,0,Empate,2006/2007
+10,Real Sociedad,Espanyol,1:1,0,Empate,2006/2007
+10,Betis,Levante,2:1,1,Betis,2006/2007
+10,Getafe,Mallorca,1:0,1,Getafe,2006/2007
+10,Gimnàstic de Tarragona,Deportivo,0:0,0,Empate,2006/2007
+10,Celta,RC Recreativo,1:2,1,RC Recreativo,2006/2007
+10,Real Racing,Sevilla,0:0,0,Empate,2006/2007
+10,Osasuna,Real Madrid,1:4,3,Real Madrid,2006/2007
+10,Barcelona,Zaragoza,3:1,2,Barcelona,2006/2007
+11,Real Madrid,Real Racing,3:1,2,Real Madrid,2006/2007
+11,Sevilla,Valencia,3:0,3,Sevilla,2006/2007
+11,Real Sociedad,Betis,0:0,0,Empate,2006/2007
+11,Levante,Atlético,0:3,3,Atlético,2006/2007
+11,Villarreal,Getafe,1:0,1,Villarreal,2006/2007
+11,Zaragoza,Gimnàstic de Tarragona,3:0,3,Zaragoza,2006/2007
+11,RC Recreativo,Osasuna,2:0,2,RC Recreativo,2006/2007
+11,Espanyol,Athletic,3:2,1,Espanyol,2006/2007
+11,Mallorca,Barcelona,1:4,3,Barcelona,2006/2007
+11,Deportivo,Celta,0:1,1,Celta,2006/2007
+12,Barcelona,Villarreal,4:0,4,Barcelona,2006/2007
+12,Atlético,Real Sociedad,1:1,0,Empate,2006/2007
+12,Betis,Espanyol,1:1,0,Empate,2006/2007
+12,Getafe,Levante,0:0,0,Empate,2006/2007
+12,Gimnàstic de Tarragona,Mallorca,2:3,1,Mallorca,2006/2007
+12,Celta,Zaragoza,1:1,0,Empate,2006/2007
+12,Osasuna,Deportivo,4:1,3,Osasuna,2006/2007
+12,Real Racing,RC Recreativo,4:3,1,Real Racing,2006/2007
+12,Valencia,Real Madrid,0:1,1,Real Madrid,2006/2007
+12,Athletic,Sevilla,1:3,2,Sevilla,2006/2007
+13,Levante,Barcelona,1:1,0,Empate,2006/2007
+13,RC Recreativo,Valencia,2:0,2,RC Recreativo,2006/2007
+13,Betis,Atlético,0:1,1,Atlético,2006/2007
+13,Real Sociedad,Getafe,0:0,0,Empate,2006/2007
+13,Villarreal,Gimnàstic de Tarragona,2:0,2,Villarreal,2006/2007
+13,Mallorca,Celta,2:2,0,Empate,2006/2007
+13,Deportivo,Real Racing,0:0,0,Empate,2006/2007
+13,Espanyol,Sevilla,2:1,1,Espanyol,2006/2007
+13,Real Madrid,Athletic,2:1,1,Real Madrid,2006/2007
+13,Zaragoza,Osasuna,1:2,1,Osasuna,2006/2007
+14,Barcelona,Real Sociedad,1:0,1,Barcelona,2006/2007
+14,Sevilla,Real Madrid,2:1,1,Sevilla,2006/2007
+14,Getafe,Betis,1:1,0,Empate,2006/2007
+14,Gimnàstic de Tarragona,Levante,2:1,1,Gimnàstic de Tarragona,2006/2007
+14,Celta,Villarreal,1:1,0,Empate,2006/2007
+14,Osasuna,Mallorca,3:0,3,Osasuna,2006/2007
+14,Real Racing,Zaragoza,0:2,2,Zaragoza,2006/2007
+14,Athletic,RC Recreativo,4:2,2,Athletic,2006/2007
+14,Atlético,Espanyol,1:2,1,Espanyol,2006/2007
+14,Valencia,Deportivo,4:0,4,Valencia,2006/2007
+15,Mallorca,Real Racing,1:2,1,Real Racing,2006/2007
+15,Deportivo,Athletic,0:2,2,Athletic,2006/2007
+15,Zaragoza,Valencia,0:1,1,Valencia,2006/2007
+15,Real Sociedad,Gimnàstic de Tarragona,3:2,1,Real Sociedad,2006/2007
+15,Levante,Celta,1:1,0,Empate,2006/2007
+15,Villarreal,Osasuna,1:4,3,Osasuna,2006/2007
+15,RC Recreativo,Sevilla,1:3,2,Sevilla,2006/2007
+15,Espanyol,Real Madrid,0:1,1,Real Madrid,2006/2007
+15,Atlético,Getafe,1:0,1,Atlético,2006/2007
+15,Betis,Barcelona,1:1,0,Empate,2006/2007
+16,Valencia,Mallorca,3:1,2,Valencia,2006/2007
+16,Athletic,Zaragoza,0:0,0,Empate,2006/2007
+16,Getafe,Espanyol,0:1,1,Espanyol,2006/2007
+16,Gimnàstic de Tarragona,Betis,0:1,1,Betis,2006/2007
+16,Celta,Real Sociedad,0:0,0,Empate,2006/2007
+16,Osasuna,Levante,2:1,1,Osasuna,2006/2007
+16,Real Racing,Villarreal,2:1,1,Real Racing,2006/2007
+16,Sevilla,Deportivo,4:0,4,Sevilla,2006/2007
+16,Real Madrid,RC Recreativo,0:3,3,RC Recreativo,2006/2007
+16,Barcelona,Atlético,1:1,0,Empate,2006/2007
+17,Atlético,Gimnàstic de Tarragona,0:0,0,Empate,2006/2007
+17,Real Sociedad,Osasuna,2:1,1,Real Sociedad,2006/2007
+17,Zaragoza,Sevilla,2:1,1,Zaragoza,2006/2007
+17,Getafe,Barcelona,1:1,0,Empate,2006/2007
+17,Betis,Celta,1:0,1,Betis,2006/2007
+17,Levante,Real Racing,2:0,2,Levante,2006/2007
+17,Mallorca,Athletic,1:3,2,Athletic,2006/2007
+17,Espanyol,RC Recreativo,0:1,1,RC Recreativo,2006/2007
+17,Deportivo,Real Madrid,2:0,2,Deportivo,2006/2007
+17,Villarreal,Valencia,0:1,1,Valencia,2006/2007
+18,Valencia,Levante,3:0,3,Valencia,2006/2007
+18,Espanyol,Barcelona,3:1,2,Espanyol,2006/2007
+18,Gimnàstic de Tarragona,Getafe,1:3,2,Getafe,2006/2007
+18,Osasuna,Betis,5:1,4,Osasuna,2006/2007
+18,Real Racing,Real Sociedad,1:0,1,Real Racing,2006/2007
+18,Athletic,Villarreal,0:1,1,Villarreal,2006/2007
+18,Sevilla,Mallorca,1:2,1,Mallorca,2006/2007
+18,RC Recreativo,Deportivo,1:1,0,Empate,2006/2007
+18,Celta,Atlético,1:3,2,Atlético,2006/2007
+18,Real Madrid,Zaragoza,1:0,1,Real Madrid,2006/2007
+19,Atlético,Osasuna,1:0,1,Atlético,2006/2007
+19,Villarreal,Sevilla,0:0,0,Empate,2006/2007
+19,Getafe,Celta,1:0,1,Getafe,2006/2007
+19,Betis,Real Racing,1:1,0,Empate,2006/2007
+19,Real Sociedad,Valencia,0:1,1,Valencia,2006/2007
+19,Levante,Athletic,0:0,0,Empate,2006/2007
+19,Zaragoza,RC Recreativo,0:0,0,Empate,2006/2007
+19,Deportivo,Espanyol,0:0,0,Empate,2006/2007
+19,Barcelona,Gimnàstic de Tarragona,3:0,3,Barcelona,2006/2007
+19,Mallorca,Real Madrid,0:1,1,Real Madrid,2006/2007
+20,Atlético,Real Racing,1:1,0,Empate,2006/2007
+20,Villarreal,Real Madrid,1:0,1,Villarreal,2006/2007
+20,Zaragoza,Deportivo,1:1,0,Empate,2006/2007
+20,Mallorca,RC Recreativo,2:1,1,Mallorca,2006/2007
+20,Levante,Sevilla,2:4,2,Sevilla,2006/2007
+20,Real Sociedad,Athletic,0:2,2,Athletic,2006/2007
+20,Getafe,Osasuna,2:0,2,Getafe,2006/2007
+20,Gimnàstic de Tarragona,Espanyol,4:0,4,Gimnàstic de Tarragona,2006/2007
+20,Barcelona,Celta,3:1,2,Barcelona,2006/2007
+20,Betis,Valencia,2:1,1,Betis,2006/2007
+21,Espanyol,Zaragoza,1:2,1,Zaragoza,2006/2007
+21,Deportivo,Mallorca,1:0,1,Deportivo,2006/2007
+21,Valencia,Atlético,3:1,2,Valencia,2006/2007
+21,RC Recreativo,Villarreal,2:1,1,RC Recreativo,2006/2007
+21,Sevilla,Real Sociedad,0:0,0,Empate,2006/2007
+21,Athletic,Betis,1:2,1,Betis,2006/2007
+21,Real Racing,Getafe,1:0,1,Real Racing,2006/2007
+21,Celta,Gimnàstic de Tarragona,1:1,0,Empate,2006/2007
+21,Real Madrid,Levante,0:1,1,Levante,2006/2007
+21,Osasuna,Barcelona,0:0,0,Empate,2006/2007
+22,Real Sociedad,Real Madrid,1:2,1,Real Madrid,2006/2007
+22,Betis,Sevilla,0:0,0,Empate,2006/2007
+22,Mallorca,Zaragoza,2:1,1,Mallorca,2006/2007
+22,Villarreal,Deportivo,0:2,2,Deportivo,2006/2007
+22,Levante,RC Recreativo,2:1,1,Levante,2006/2007
+22,Getafe,Valencia,3:0,3,Getafe,2006/2007
+22,Gimnàstic de Tarragona,Osasuna,2:3,1,Osasuna,2006/2007
+22,Celta,Espanyol,0:2,2,Espanyol,2006/2007
+22,Barcelona,Real Racing,2:0,2,Barcelona,2006/2007
+22,Atlético,Athletic,1:0,1,Atlético,2006/2007
+23,Real Madrid,Betis,0:0,0,Empate,2006/2007
+23,Zaragoza,Villarreal,1:0,1,Zaragoza,2006/2007
+23,Espanyol,Mallorca,3:1,2,Espanyol,2006/2007
+23,Deportivo,Levante,0:0,0,Empate,2006/2007
+23,RC Recreativo,Real Sociedad,1:0,1,RC Recreativo,2006/2007
+23,Athletic,Getafe,2:0,2,Athletic,2006/2007
+23,Real Racing,Gimnàstic de Tarragona,4:1,3,Real Racing,2006/2007
+23,Osasuna,Celta,0:1,1,Celta,2006/2007
+23,Valencia,Barcelona,2:1,1,Valencia,2006/2007
+23,Sevilla,Atlético,3:1,2,Sevilla,2006/2007
+24,Real Sociedad,Deportivo,0:1,1,Deportivo,2006/2007
+24,Atlético,Real Madrid,1:1,0,Empate,2006/2007
+24,Villarreal,Mallorca,2:1,1,Villarreal,2006/2007
+24,Levante,Zaragoza,0:0,0,Empate,2006/2007
+24,Betis,RC Recreativo,0:0,0,Empate,2006/2007
+24,Getafe,Sevilla,0:0,0,Empate,2006/2007
+24,Celta,Real Racing,2:2,0,Empate,2006/2007
+24,Osasuna,Espanyol,0:2,2,Espanyol,2006/2007
+24,Gimnàstic de Tarragona,Valencia,1:1,0,Empate,2006/2007
+24,Barcelona,Athletic,3:0,3,Barcelona,2006/2007
+25,Valencia,Celta,1:0,1,Valencia,2006/2007
+25,Sevilla,Barcelona,2:1,1,Sevilla,2006/2007
+25,Espanyol,Villarreal,1:1,0,Empate,2006/2007
+25,Mallorca,Levante,3:1,2,Mallorca,2006/2007
+25,Zaragoza,Real Sociedad,3:2,1,Zaragoza,2006/2007
+25,Deportivo,Betis,0:1,1,Betis,2006/2007
+25,Athletic,Gimnàstic de Tarragona,0:2,2,Gimnàstic de Tarragona,2006/2007
+25,Real Racing,Osasuna,1:0,1,Real Racing,2006/2007
+25,Real Madrid,Getafe,1:1,0,Empate,2006/2007
+25,RC Recreativo,Atlético,1:0,1,RC Recreativo,2006/2007
+26,Levante,Villarreal,0:2,2,Villarreal,2006/2007
+26,Barcelona,Real Madrid,3:3,0,Empate,2006/2007
+26,Real Sociedad,Mallorca,3:1,2,Real Sociedad,2006/2007
+26,Betis,Zaragoza,1:1,0,Empate,2006/2007
+26,Getafe,RC Recreativo,1:1,0,Empate,2006/2007
+26,Gimnàstic de Tarragona,Sevilla,1:0,1,Gimnàstic de Tarragona,2006/2007
+26,Celta,Athletic,1:1,0,Empate,2006/2007
+26,Real Racing,Espanyol,1:1,0,Empate,2006/2007
+26,Atlético,Deportivo,2:0,2,Atlético,2006/2007
+26,Osasuna,Valencia,1:1,0,Empate,2006/2007
+27,Valencia,Real Racing,0:2,2,Real Racing,2006/2007
+27,Mallorca,Betis,2:0,2,Mallorca,2006/2007
+27,RC Recreativo,Barcelona,0:4,4,Barcelona,2006/2007
+27,Athletic,Osasuna,0:3,3,Osasuna,2006/2007
+27,Espanyol,Levante,1:1,0,Empate,2006/2007
+27,Villarreal,Real Sociedad,1:1,0,Empate,2006/2007
+27,Zaragoza,Atlético,1:0,1,Zaragoza,2006/2007
+27,Deportivo,Getafe,1:0,1,Deportivo,2006/2007
+27,Real Madrid,Gimnàstic de Tarragona,2:0,2,Real Madrid,2006/2007
+27,Sevilla,Celta,2:0,2,Sevilla,2006/2007
+28,Betis,Villarreal,3:3,0,Empate,2006/2007
+28,Real Sociedad,Levante,1:0,1,Real Sociedad,2006/2007
+28,Valencia,Espanyol,3:2,1,Valencia,2006/2007
+28,Barcelona,Deportivo,2:1,1,Barcelona,2006/2007
+28,Atlético,Mallorca,1:1,0,Empate,2006/2007
+28,Getafe,Zaragoza,2:2,0,Empate,2006/2007
+28,Gimnàstic de Tarragona,RC Recreativo,1:1,0,Empate,2006/2007
+28,Real Racing,Athletic,5:4,1,Real Racing,2006/2007
+28,Celta,Real Madrid,1:2,1,Real Madrid,2006/2007
+28,Osasuna,Sevilla,0:0,0,Empate,2006/2007
+29,Zaragoza,Barcelona,1:0,1,Zaragoza,2006/2007
+29,Athletic,Valencia,1:0,1,Athletic,2006/2007
+29,Espanyol,Real Sociedad,1:0,1,Espanyol,2006/2007
+29,Levante,Betis,1:1,0,Empate,2006/2007
+29,Mallorca,Getafe,2:0,2,Mallorca,2006/2007
+29,Deportivo,Gimnàstic de Tarragona,1:0,1,Deportivo,2006/2007
+29,RC Recreativo,Celta,4:2,2,RC Recreativo,2006/2007
+29,Sevilla,Real Racing,0:0,0,Empate,2006/2007
+29,Real Madrid,Osasuna,2:0,2,Real Madrid,2006/2007
+29,Villarreal,Atlético,0:1,1,Atlético,2006/2007
+30,Real Racing,Real Madrid,2:1,1,Real Racing,2006/2007
+30,Betis,Real Sociedad,0:1,1,Real Sociedad,2006/2007
+30,Atlético,Levante,1:0,1,Atlético,2006/2007
+30,Getafe,Villarreal,3:0,3,Getafe,2006/2007
+30,Gimnàstic de Tarragona,Zaragoza,1:0,1,Gimnàstic de Tarragona,2006/2007
+30,Celta,Deportivo,1:0,1,Celta,2006/2007
+30,Osasuna,RC Recreativo,1:1,0,Empate,2006/2007
+30,Athletic,Espanyol,2:1,1,Athletic,2006/2007
+30,Barcelona,Mallorca,1:0,1,Barcelona,2006/2007
+30,Valencia,Sevilla,2:0,2,Valencia,2006/2007
+31,Real Sociedad,Atlético,2:0,2,Real Sociedad,2006/2007
+31,Real Madrid,Valencia,2:1,1,Real Madrid,2006/2007
+31,Espanyol,Betis,2:2,0,Empate,2006/2007
+31,Levante,Getafe,1:1,0,Empate,2006/2007
+31,Mallorca,Gimnàstic de Tarragona,1:0,1,Mallorca,2006/2007
+31,Zaragoza,Celta,2:0,2,Zaragoza,2006/2007
+31,Deportivo,Osasuna,1:0,1,Deportivo,2006/2007
+31,RC Recreativo,Real Racing,4:2,2,RC Recreativo,2006/2007
+31,Sevilla,Athletic,4:1,3,Sevilla,2006/2007
+31,Villarreal,Barcelona,2:0,2,Villarreal,2006/2007
+32,Atlético,Betis,0:0,0,Empate,2006/2007
+32,Valencia,RC Recreativo,2:0,2,Valencia,2006/2007
+32,Getafe,Real Sociedad,1:0,1,Getafe,2006/2007
+32,Gimnàstic de Tarragona,Villarreal,0:3,3,Villarreal,2006/2007
+32,Celta,Mallorca,0:3,3,Mallorca,2006/2007
+32,Osasuna,Zaragoza,2:2,0,Empate,2006/2007
+32,Real Racing,Deportivo,0:0,0,Empate,2006/2007
+32,Sevilla,Espanyol,3:1,2,Sevilla,2006/2007
+32,Barcelona,Levante,1:0,1,Barcelona,2006/2007
+32,Athletic,Real Madrid,1:4,3,Real Madrid,2006/2007
+33,Real Sociedad,Barcelona,0:2,2,Barcelona,2006/2007
+33,Deportivo,Valencia,1:2,1,Valencia,2006/2007
+33,Betis,Getafe,0:2,2,Getafe,2006/2007
+33,Levante,Gimnàstic de Tarragona,2:0,2,Levante,2006/2007
+33,Villarreal,Celta,1:0,1,Villarreal,2006/2007
+33,Mallorca,Osasuna,3:1,2,Mallorca,2006/2007
+33,Zaragoza,Real Racing,0:0,0,Empate,2006/2007
+33,RC Recreativo,Athletic,0:0,0,Empate,2006/2007
+33,Espanyol,Atlético,2:1,1,Espanyol,2006/2007
+33,Real Madrid,Sevilla,3:2,1,Real Madrid,2006/2007
+34,Real Madrid,Espanyol,4:3,1,Real Madrid,2006/2007
+34,Sevilla,RC Recreativo,2:1,1,Sevilla,2006/2007
+34,Getafe,Atlético,1:4,3,Atlético,2006/2007
+34,Gimnàstic de Tarragona,Real Sociedad,1:3,2,Real Sociedad,2006/2007
+34,Celta,Levante,1:2,1,Levante,2006/2007
+34,Osasuna,Villarreal,1:4,3,Villarreal,2006/2007
+34,Real Racing,Mallorca,0:2,2,Mallorca,2006/2007
+34,Athletic,Deportivo,1:1,0,Empate,2006/2007
+34,Barcelona,Betis,1:1,0,Empate,2006/2007
+34,Valencia,Zaragoza,2:0,2,Valencia,2006/2007
+35,Betis,Gimnàstic de Tarragona,1:1,0,Empate,2006/2007
+35,Mallorca,Valencia,0:1,1,Valencia,2006/2007
+35,Zaragoza,Athletic,4:3,1,Zaragoza,2006/2007
+35,Espanyol,Getafe,1:5,4,Getafe,2006/2007
+35,Real Sociedad,Celta,3:1,2,Real Sociedad,2006/2007
+35,Levante,Osasuna,1:4,3,Osasuna,2006/2007
+35,Villarreal,Real Racing,2:1,1,Villarreal,2006/2007
+35,Deportivo,Sevilla,1:2,1,Sevilla,2006/2007
+35,RC Recreativo,Real Madrid,2:3,1,Real Madrid,2006/2007
+35,Atlético,Barcelona,0:6,6,Barcelona,2006/2007
+36,Valencia,Villarreal,2:3,1,Villarreal,2006/2007
+36,Real Madrid,Deportivo,3:1,2,Real Madrid,2006/2007
+36,Barcelona,Getafe,1:0,1,Barcelona,2006/2007
+36,Celta,Betis,2:1,1,Celta,2006/2007
+36,Osasuna,Real Sociedad,2:0,2,Osasuna,2006/2007
+36,Real Racing,Levante,2:3,1,Levante,2006/2007
+36,Athletic,Mallorca,1:0,1,Athletic,2006/2007
+36,RC Recreativo,Espanyol,0:1,1,Espanyol,2006/2007
+36,Gimnàstic de Tarragona,Atlético,0:2,2,Atlético,2006/2007
+36,Sevilla,Zaragoza,3:1,2,Sevilla,2006/2007
+37,Barcelona,Espanyol,2:2,0,Empate,2006/2007
+37,Atlético,Celta,2:3,1,Celta,2006/2007
+37,Betis,Osasuna,0:5,5,Osasuna,2006/2007
+37,Real Sociedad,Real Racing,0:0,0,Empate,2006/2007
+37,Levante,Valencia,4:2,2,Levante,2006/2007
+37,Villarreal,Athletic,3:1,2,Villarreal,2006/2007
+37,Mallorca,Sevilla,0:0,0,Empate,2006/2007
+37,Zaragoza,Real Madrid,2:2,0,Empate,2006/2007
+37,Getafe,Gimnàstic de Tarragona,0:1,1,Gimnàstic de Tarragona,2006/2007
+37,Deportivo,RC Recreativo,2:5,3,RC Recreativo,2006/2007
+38,Celta,Getafe,2:1,1,Celta,2006/2007
+38,Real Racing,Betis,0:2,2,Betis,2006/2007
+38,Valencia,Real Sociedad,3:3,0,Empate,2006/2007
+38,Athletic,Levante,2:0,2,Athletic,2006/2007
+38,Espanyol,Deportivo,1:3,2,Deportivo,2006/2007
+38,Gimnàstic de Tarragona,Barcelona,1:5,4,Barcelona,2006/2007
+38,Osasuna,Atlético,1:2,1,Atlético,2006/2007
+38,Sevilla,Villarreal,0:1,1,Villarreal,2006/2007
+38,Real Madrid,Mallorca,3:1,2,Real Madrid,2006/2007
+38,RC Recreativo,Zaragoza,1:1,0,Empate,2006/2007

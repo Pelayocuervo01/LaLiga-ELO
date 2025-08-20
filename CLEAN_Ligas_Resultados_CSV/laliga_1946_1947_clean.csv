@@ -1,0 +1,183 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Athletic,Espanyol,4:1,3,Athletic,1946/1947
+1,Deportivo,Sevilla,0:0,0,Empate,1946/1947
+1,Barcelona,Celta,1:1,0,Empate,1946/1947
+1,Atlético,Sporting,2:2,0,Empate,1946/1947
+1,Valencia,CE Sabadell,1:0,1,Valencia,1946/1947
+1,Real Murcia,CD Castellón,2:0,2,Real Murcia,1946/1947
+1,Real Oviedo,Real Madrid,0:0,0,Empate,1946/1947
+2,Sporting,Real Oviedo,1:1,0,Empate,1946/1947
+2,Espanyol,Deportivo,3:1,2,Espanyol,1946/1947
+2,CE Sabadell,Atlético,1:1,0,Empate,1946/1947
+2,Celta,Valencia,1:2,1,Valencia,1946/1947
+2,CD Castellón,Athletic,2:2,0,Empate,1946/1947
+2,Sevilla,Barcelona,3:1,2,Sevilla,1946/1947
+2,Real Madrid,Real Murcia,5:0,5,Real Madrid,1946/1947
+3,Athletic,Real Madrid,2:0,2,Athletic,1946/1947
+3,Deportivo,Barcelona,3:2,1,Deportivo,1946/1947
+3,Valencia,Sevilla,4:1,3,Valencia,1946/1947
+3,Atlético,Celta,3:2,1,Atlético,1946/1947
+3,Real Murcia,Sporting,5:4,1,Real Murcia,1946/1947
+3,Real Oviedo,CE Sabadell,0:1,1,CE Sabadell,1946/1947
+3,Espanyol,CD Castellón,5:0,5,Espanyol,1946/1947
+4,Sporting,Athletic,1:0,1,Sporting,1946/1947
+4,Celta,Real Oviedo,3:3,0,Empate,1946/1947
+4,CE Sabadell,Real Murcia,1:1,0,Empate,1946/1947
+4,CD Castellón,Deportivo,1:1,0,Empate,1946/1947
+4,Real Madrid,Espanyol,2:0,2,Real Madrid,1946/1947
+4,Sevilla,Atlético,1:2,1,Atlético,1946/1947
+4,Barcelona,Valencia,2:1,1,Barcelona,1946/1947
+5,Athletic,CE Sabadell,2:1,1,Athletic,1946/1947
+5,CD Castellón,Real Madrid,2:3,1,Real Madrid,1946/1947
+5,Atlético,Barcelona,2:2,0,Empate,1946/1947
+5,Deportivo,Valencia,0:0,0,Empate,1946/1947
+5,Real Oviedo,Sevilla,4:2,2,Real Oviedo,1946/1947
+5,Real Murcia,Celta,0:2,2,Celta,1946/1947
+5,Espanyol,Sporting,2:1,1,Espanyol,1946/1947
+6,Sporting,CD Castellón,4:0,4,Sporting,1946/1947
+6,Sevilla,Real Murcia,1:1,0,Empate,1946/1947
+6,Real Madrid,Deportivo,5:0,5,Real Madrid,1946/1947
+6,Barcelona,Real Oviedo,2:0,2,Barcelona,1946/1947
+6,Valencia,Atlético,0:2,2,Atlético,1946/1947
+6,Celta,Athletic,3:2,1,Celta,1946/1947
+6,CE Sabadell,Espanyol,3:1,2,CE Sabadell,1946/1947
+7,Real Madrid,Sporting,4:0,4,Real Madrid,1946/1947
+7,Deportivo,Atlético,1:0,1,Deportivo,1946/1947
+7,CD Castellón,CE Sabadell,4:0,4,CD Castellón,1946/1947
+7,Real Murcia,Barcelona,0:1,1,Barcelona,1946/1947
+7,Espanyol,Celta,2:0,2,Espanyol,1946/1947
+7,Real Oviedo,Valencia,4:1,3,Real Oviedo,1946/1947
+7,Athletic,Sevilla,5:0,5,Athletic,1946/1947
+8,Valencia,Real Murcia,1:2,1,Real Murcia,1946/1947
+8,Celta,CD Castellón,0:0,0,Empate,1946/1947
+8,Sporting,Deportivo,2:0,2,Sporting,1946/1947
+8,Atlético,Real Oviedo,5:2,3,Atlético,1946/1947
+8,Sevilla,Espanyol,3:1,2,Sevilla,1946/1947
+8,Barcelona,Athletic,2:1,1,Barcelona,1946/1947
+8,CE Sabadell,Real Madrid,3:3,0,Empate,1946/1947
+9,Athletic,Valencia,0:1,1,Valencia,1946/1947
+9,Real Murcia,Atlético,1:2,1,Atlético,1946/1947
+9,CD Castellón,Sevilla,1:4,3,Sevilla,1946/1947
+9,Real Madrid,Celta,3:3,0,Empate,1946/1947
+9,Deportivo,Real Oviedo,2:2,0,Empate,1946/1947
+9,Sporting,CE Sabadell,3:1,2,Sporting,1946/1947
+9,Espanyol,Barcelona,0:1,1,Barcelona,1946/1947
+10,CE Sabadell,Deportivo,3:0,3,CE Sabadell,1946/1947
+10,Celta,Sporting,6:2,4,Celta,1946/1947
+10,Real Oviedo,Real Murcia,3:0,3,Real Oviedo,1946/1947
+10,Atlético,Athletic,4:0,4,Atlético,1946/1947
+10,Sevilla,Real Madrid,5:0,5,Sevilla,1946/1947
+10,Valencia,Espanyol,3:2,1,Valencia,1946/1947
+10,Barcelona,CD Castellón,3:3,0,Empate,1946/1947
+11,Real Madrid,Barcelona,2:1,1,Real Madrid,1946/1947
+11,CD Castellón,Valencia,2:4,2,Valencia,1946/1947
+11,Espanyol,Atlético,4:1,3,Espanyol,1946/1947
+11,Sporting,Sevilla,1:4,3,Sevilla,1946/1947
+11,CE Sabadell,Celta,2:0,2,CE Sabadell,1946/1947
+11,Athletic,Real Oviedo,4:1,3,Athletic,1946/1947
+11,Deportivo,Real Murcia,3:1,2,Deportivo,1946/1947
+12,Valencia,Real Madrid,4:1,3,Valencia,1946/1947
+12,Atlético,CD Castellón,3:2,1,Atlético,1946/1947
+12,Sevilla,CE Sabadell,4:0,4,Sevilla,1946/1947
+12,Barcelona,Sporting,4:1,3,Barcelona,1946/1947
+12,Deportivo,Celta,1:4,3,Celta,1946/1947
+12,Real Murcia,Athletic,2:4,2,Athletic,1946/1947
+12,Real Oviedo,Espanyol,4:0,4,Real Oviedo,1946/1947
+13,Espanyol,Real Murcia,2:3,1,Real Murcia,1946/1947
+13,CE Sabadell,Barcelona,1:4,3,Barcelona,1946/1947
+13,Sporting,Valencia,4:1,3,Sporting,1946/1947
+13,Real Madrid,Atlético,1:2,1,Atlético,1946/1947
+13,Celta,Sevilla,3:0,3,Celta,1946/1947
+13,CD Castellón,Real Oviedo,3:3,0,Empate,1946/1947
+13,Athletic,Deportivo,6:0,6,Athletic,1946/1947
+14,Espanyol,Athletic,0:3,3,Athletic,1946/1947
+14,CE Sabadell,Valencia,3:0,3,CE Sabadell,1946/1947
+14,Sporting,Atlético,1:2,1,Atlético,1946/1947
+14,Real Madrid,Real Oviedo,2:0,2,Real Madrid,1946/1947
+14,Sevilla,Deportivo,4:0,4,Sevilla,1946/1947
+14,CD Castellón,Real Murcia,1:0,1,CD Castellón,1946/1947
+14,Celta,Barcelona,2:1,1,Celta,1946/1947
+15,Athletic,CD Castellón,6:0,6,Athletic,1946/1947
+15,Valencia,Celta,2:1,1,Valencia,1946/1947
+15,Barcelona,Sevilla,5:1,4,Barcelona,1946/1947
+15,Deportivo,Espanyol,1:0,1,Deportivo,1946/1947
+15,Real Oviedo,Sporting,3:2,1,Real Oviedo,1946/1947
+15,Real Murcia,Real Madrid,1:1,0,Empate,1946/1947
+15,Atlético,CE Sabadell,1:3,2,CE Sabadell,1946/1947
+16,Real Madrid,Athletic,3:6,3,Athletic,1946/1947
+16,CD Castellón,Espanyol,4:3,1,CD Castellón,1946/1947
+16,Sevilla,Valencia,3:1,2,Sevilla,1946/1947
+16,Celta,Atlético,0:4,4,Atlético,1946/1947
+16,CE Sabadell,Real Oviedo,1:1,0,Empate,1946/1947
+16,Barcelona,Deportivo,5:0,5,Barcelona,1946/1947
+16,Sporting,Real Murcia,4:1,3,Sporting,1946/1947
+17,Espanyol,Real Madrid,4:2,2,Espanyol,1946/1947
+17,Athletic,Sporting,6:2,4,Athletic,1946/1947
+17,Deportivo,CD Castellón,8:1,7,Deportivo,1946/1947
+17,Real Murcia,CE Sabadell,0:0,0,Empate,1946/1947
+17,Valencia,Barcelona,4:0,4,Valencia,1946/1947
+17,Real Oviedo,Celta,2:0,2,Real Oviedo,1946/1947
+17,Atlético,Sevilla,1:1,0,Empate,1946/1947
+18,Real Madrid,CD Castellón,7:4,3,Real Madrid,1946/1947
+18,CE Sabadell,Athletic,1:1,0,Empate,1946/1947
+18,Sporting,Espanyol,1:1,0,Empate,1946/1947
+18,Barcelona,Atlético,3:2,1,Barcelona,1946/1947
+18,Sevilla,Real Oviedo,2:1,1,Sevilla,1946/1947
+18,Valencia,Deportivo,3:0,3,Valencia,1946/1947
+18,Celta,Real Murcia,6:0,6,Celta,1946/1947
+19,Espanyol,CE Sabadell,1:2,1,CE Sabadell,1946/1947
+19,CD Castellón,Sporting,0:2,2,Sporting,1946/1947
+19,Athletic,Celta,3:2,1,Athletic,1946/1947
+19,Real Murcia,Sevilla,1:1,0,Empate,1946/1947
+19,Atlético,Valencia,1:1,0,Empate,1946/1947
+19,Deportivo,Real Madrid,2:2,0,Empate,1946/1947
+19,Real Oviedo,Barcelona,2:3,1,Barcelona,1946/1947
+20,Celta,Espanyol,3:2,1,Celta,1946/1947
+20,CE Sabadell,CD Castellón,4:1,3,CE Sabadell,1946/1947
+20,Barcelona,Real Murcia,6:2,4,Barcelona,1946/1947
+20,Atlético,Deportivo,3:1,2,Atlético,1946/1947
+20,Sevilla,Athletic,2:2,0,Empate,1946/1947
+20,Sporting,Real Madrid,2:1,1,Sporting,1946/1947
+20,Valencia,Real Oviedo,4:1,3,Valencia,1946/1947
+21,Real Madrid,CE Sabadell,1:3,2,CE Sabadell,1946/1947
+21,Deportivo,Sporting,1:1,0,Empate,1946/1947
+21,Espanyol,Sevilla,4:0,4,Espanyol,1946/1947
+21,Real Oviedo,Atlético,4:0,4,Real Oviedo,1946/1947
+21,Real Murcia,Valencia,1:0,1,Real Murcia,1946/1947
+21,Athletic,Barcelona,1:0,1,Athletic,1946/1947
+21,CD Castellón,Celta,1:2,1,Celta,1946/1947
+22,Valencia,Athletic,1:0,1,Valencia,1946/1947
+22,Barcelona,Espanyol,5:0,5,Barcelona,1946/1947
+22,CE Sabadell,Sporting,2:2,0,Empate,1946/1947
+22,Real Oviedo,Deportivo,3:1,2,Real Oviedo,1946/1947
+22,Atlético,Real Murcia,2:2,0,Empate,1946/1947
+22,Sevilla,CD Castellón,4:2,2,Sevilla,1946/1947
+22,Celta,Real Madrid,3:4,1,Real Madrid,1946/1947
+23,Sporting,Celta,3:0,3,Sporting,1946/1947
+23,Real Madrid,Sevilla,3:0,3,Real Madrid,1946/1947
+23,Real Murcia,Real Oviedo,0:0,0,Empate,1946/1947
+23,Espanyol,Valencia,1:2,1,Valencia,1946/1947
+23,CD Castellón,Barcelona,4:1,3,CD Castellón,1946/1947
+23,Athletic,Atlético,3:1,2,Athletic,1946/1947
+23,Deportivo,CE Sabadell,1:1,0,Empate,1946/1947
+24,Barcelona,Real Madrid,3:2,1,Barcelona,1946/1947
+24,Real Oviedo,Athletic,3:0,3,Real Oviedo,1946/1947
+24,Atlético,Espanyol,8:3,5,Atlético,1946/1947
+24,Sevilla,Sporting,5:2,3,Sevilla,1946/1947
+24,Real Murcia,Deportivo,1:0,1,Real Murcia,1946/1947
+24,Valencia,CD Castellón,3:0,3,Valencia,1946/1947
+24,Celta,CE Sabadell,2:1,1,Celta,1946/1947
+25,Sporting,Barcelona,3:1,2,Sporting,1946/1947
+25,Athletic,Real Murcia,6:2,4,Athletic,1946/1947
+25,Celta,Deportivo,4:2,2,Celta,1946/1947
+25,Espanyol,Real Oviedo,2:1,1,Espanyol,1946/1947
+25,CE Sabadell,Sevilla,3:1,2,CE Sabadell,1946/1947
+25,Real Madrid,Valencia,2:4,2,Valencia,1946/1947
+25,CD Castellón,Atlético,0:2,2,Atlético,1946/1947
+26,Real Oviedo,CD Castellón,4:1,3,Real Oviedo,1946/1947
+26,Atlético,Real Madrid,2:3,1,Real Madrid,1946/1947
+26,Deportivo,Athletic,3:3,0,Empate,1946/1947
+26,Real Murcia,Espanyol,1:2,1,Espanyol,1946/1947
+26,Sevilla,Celta,2:0,2,Sevilla,1946/1947
+26,Valencia,Sporting,6:0,6,Valencia,1946/1947
+26,Barcelona,CE Sabadell,0:1,1,CE Sabadell,1946/1947

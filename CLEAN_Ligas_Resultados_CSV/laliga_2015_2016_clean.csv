@@ -1,0 +1,381 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Málaga,Sevilla,0:0,0,Empate,2015/2016
+1,Espanyol,Getafe,1:0,1,Espanyol,2015/2016
+1,Deportivo,Real Sociedad,0:0,0,Empate,2015/2016
+1,Atlético,Las Palmas,1:0,1,Atlético,2015/2016
+1,Rayo,Valencia,0:0,0,Empate,2015/2016
+1,Athletic,Barcelona,0:1,1,Barcelona,2015/2016
+1,Sporting,Real Madrid,0:0,0,Empate,2015/2016
+1,Levante,Celta,1:2,1,Celta,2015/2016
+1,Betis,Villarreal,1:1,0,Empate,2015/2016
+1,Granada,Eibar,1:3,2,Eibar,2015/2016
+2,Villarreal,Espanyol,3:1,2,Villarreal,2015/2016
+2,Real Sociedad,Sporting,0:0,0,Empate,2015/2016
+2,Barcelona,Málaga,1:0,1,Barcelona,2015/2016
+2,Celta,Rayo,3:0,3,Celta,2015/2016
+2,Real Madrid,Betis,5:0,5,Real Madrid,2015/2016
+2,Eibar,Athletic,2:0,2,Eibar,2015/2016
+2,Sevilla,Atlético,0:3,3,Atlético,2015/2016
+2,Valencia,Deportivo,1:1,0,Empate,2015/2016
+2,Las Palmas,Levante,0:0,0,Empate,2015/2016
+2,Getafe,Granada,1:2,1,Granada,2015/2016
+3,Levante,Sevilla,1:1,0,Empate,2015/2016
+3,Espanyol,Real Madrid,0:6,6,Real Madrid,2015/2016
+3,Sporting,Valencia,0:1,1,Valencia,2015/2016
+3,Atlético,Barcelona,1:2,1,Barcelona,2015/2016
+3,Betis,Real Sociedad,1:0,1,Betis,2015/2016
+3,Granada,Villarreal,1:3,2,Villarreal,2015/2016
+3,Athletic,Getafe,3:1,2,Athletic,2015/2016
+3,Celta,Las Palmas,3:3,0,Empate,2015/2016
+3,Málaga,Eibar,0:0,0,Empate,2015/2016
+3,Rayo,Deportivo,1:3,2,Deportivo,2015/2016
+4,Getafe,Málaga,1:0,1,Getafe,2015/2016
+4,Real Madrid,Granada,1:0,1,Real Madrid,2015/2016
+4,Valencia,Betis,0:0,0,Empate,2015/2016
+4,Eibar,Atlético,0:2,2,Atlético,2015/2016
+4,Real Sociedad,Espanyol,2:3,1,Espanyol,2015/2016
+4,Sevilla,Celta,1:2,1,Celta,2015/2016
+4,Deportivo,Sporting,2:3,1,Sporting,2015/2016
+4,Villarreal,Athletic,3:1,2,Villarreal,2015/2016
+4,Las Palmas,Rayo,0:1,1,Rayo,2015/2016
+4,Barcelona,Levante,4:1,3,Barcelona,2015/2016
+5,Atlético,Getafe,2:0,2,Atlético,2015/2016
+5,Espanyol,Valencia,1:0,1,Espanyol,2015/2016
+5,Granada,Real Sociedad,0:3,3,Real Sociedad,2015/2016
+5,Celta,Barcelona,4:1,3,Celta,2015/2016
+5,Levante,Eibar,2:2,0,Empate,2015/2016
+5,Rayo,Sporting,2:1,1,Rayo,2015/2016
+5,Athletic,Real Madrid,1:2,1,Real Madrid,2015/2016
+5,Las Palmas,Sevilla,2:0,2,Las Palmas,2015/2016
+5,Málaga,Villarreal,0:1,1,Villarreal,2015/2016
+5,Betis,Deportivo,1:2,1,Deportivo,2015/2016
+6,Valencia,Granada,1:0,1,Valencia,2015/2016
+6,Barcelona,Las Palmas,2:1,1,Barcelona,2015/2016
+6,Real Madrid,Málaga,0:0,0,Empate,2015/2016
+6,Sevilla,Rayo,3:2,1,Sevilla,2015/2016
+6,Villarreal,Atlético,1:0,1,Villarreal,2015/2016
+6,Eibar,Celta,1:1,0,Empate,2015/2016
+6,Sporting,Betis,1:2,1,Betis,2015/2016
+6,Deportivo,Espanyol,3:0,3,Deportivo,2015/2016
+6,Getafe,Levante,3:0,3,Getafe,2015/2016
+6,Real Sociedad,Athletic,0:0,0,Empate,2015/2016
+7,Celta,Getafe,0:0,0,Empate,2015/2016
+7,Sevilla,Barcelona,2:1,1,Sevilla,2015/2016
+7,Granada,Deportivo,1:1,0,Empate,2015/2016
+7,Espanyol,Sporting,1:2,1,Sporting,2015/2016
+7,Las Palmas,Eibar,0:2,2,Eibar,2015/2016
+7,Málaga,Real Sociedad,3:1,2,Málaga,2015/2016
+7,Rayo,Betis,0:2,2,Betis,2015/2016
+7,Athletic,Valencia,3:1,2,Athletic,2015/2016
+7,Levante,Villarreal,1:0,1,Levante,2015/2016
+7,Atlético,Real Madrid,1:1,0,Empate,2015/2016
+8,Real Madrid,Levante,3:0,3,Real Madrid,2015/2016
+8,Eibar,Sevilla,1:1,0,Empate,2015/2016
+8,Barcelona,Rayo,5:2,3,Barcelona,2015/2016
+8,Valencia,Málaga,3:0,3,Valencia,2015/2016
+8,Betis,Espanyol,1:3,2,Espanyol,2015/2016
+8,Villarreal,Celta,1:2,1,Celta,2015/2016
+8,Real Sociedad,Atlético,0:2,2,Atlético,2015/2016
+8,Getafe,Las Palmas,4:0,4,Getafe,2015/2016
+8,Deportivo,Athletic,2:2,0,Empate,2015/2016
+8,Sporting,Granada,3:3,0,Empate,2015/2016
+9,Rayo,Espanyol,3:0,3,Rayo,2015/2016
+9,Celta,Real Madrid,1:3,2,Real Madrid,2015/2016
+9,Granada,Betis,1:1,0,Empate,2015/2016
+9,Sevilla,Getafe,5:0,5,Sevilla,2015/2016
+9,Málaga,Deportivo,2:0,2,Málaga,2015/2016
+9,Levante,Real Sociedad,0:4,4,Real Sociedad,2015/2016
+9,Las Palmas,Villarreal,0:0,0,Empate,2015/2016
+9,Barcelona,Eibar,3:1,2,Barcelona,2015/2016
+9,Atlético,Valencia,2:1,1,Atlético,2015/2016
+9,Athletic,Sporting,3:0,3,Athletic,2015/2016
+10,Deportivo,Atlético,1:1,0,Empate,2015/2016
+10,Real Madrid,Las Palmas,3:1,2,Real Madrid,2015/2016
+10,Villarreal,Sevilla,2:1,1,Villarreal,2015/2016
+10,Valencia,Levante,3:0,3,Valencia,2015/2016
+10,Getafe,Barcelona,0:2,2,Barcelona,2015/2016
+10,Real Sociedad,Celta,2:3,1,Celta,2015/2016
+10,Eibar,Rayo,1:0,1,Eibar,2015/2016
+10,Espanyol,Granada,1:1,0,Empate,2015/2016
+10,Sporting,Málaga,1:0,1,Sporting,2015/2016
+10,Betis,Athletic,1:3,2,Athletic,2015/2016
+11,Las Palmas,Real Sociedad,2:0,2,Las Palmas,2015/2016
+11,Celta,Valencia,1:5,4,Valencia,2015/2016
+11,Levante,Deportivo,1:1,0,Empate,2015/2016
+11,Eibar,Getafe,3:1,2,Eibar,2015/2016
+11,Rayo,Granada,2:1,1,Rayo,2015/2016
+11,Málaga,Betis,0:1,1,Betis,2015/2016
+11,Athletic,Espanyol,2:1,1,Athletic,2015/2016
+11,Barcelona,Villarreal,3:0,3,Barcelona,2015/2016
+11,Atlético,Sporting,1:0,1,Atlético,2015/2016
+11,Sevilla,Real Madrid,3:2,1,Sevilla,2015/2016
+12,Real Sociedad,Sevilla,2:0,2,Real Sociedad,2015/2016
+12,Real Madrid,Barcelona,0:4,4,Barcelona,2015/2016
+12,Espanyol,Málaga,2:0,2,Espanyol,2015/2016
+12,Valencia,Las Palmas,1:1,0,Empate,2015/2016
+12,Deportivo,Celta,2:0,2,Deportivo,2015/2016
+12,Sporting,Levante,0:3,3,Levante,2015/2016
+12,Villarreal,Eibar,1:1,0,Empate,2015/2016
+12,Granada,Athletic,2:0,2,Granada,2015/2016
+12,Betis,Atlético,0:1,1,Atlético,2015/2016
+12,Getafe,Rayo,1:1,0,Empate,2015/2016
+13,Levante,Betis,0:1,1,Betis,2015/2016
+13,Barcelona,Real Sociedad,4:0,4,Barcelona,2015/2016
+13,Atlético,Espanyol,1:0,1,Atlético,2015/2016
+13,Málaga,Granada,2:2,0,Empate,2015/2016
+13,Las Palmas,Deportivo,0:2,2,Deportivo,2015/2016
+13,Celta,Sporting,2:1,1,Celta,2015/2016
+13,Getafe,Villarreal,2:0,2,Getafe,2015/2016
+13,Eibar,Real Madrid,0:2,2,Real Madrid,2015/2016
+13,Rayo,Athletic,0:3,3,Athletic,2015/2016
+13,Sevilla,Valencia,1:0,1,Sevilla,2015/2016
+14,Real Madrid,Getafe,4:1,3,Real Madrid,2015/2016
+14,Granada,Atlético,0:2,2,Atlético,2015/2016
+14,Valencia,Barcelona,1:1,0,Empate,2015/2016
+14,Deportivo,Sevilla,1:1,0,Empate,2015/2016
+14,Betis,Celta,1:1,0,Empate,2015/2016
+14,Real Sociedad,Eibar,2:1,1,Real Sociedad,2015/2016
+14,Villarreal,Rayo,2:1,1,Villarreal,2015/2016
+14,Sporting,Las Palmas,3:1,2,Sporting,2015/2016
+14,Athletic,Málaga,0:0,0,Empate,2015/2016
+14,Espanyol,Levante,1:1,0,Empate,2015/2016
+15,Getafe,Real Sociedad,1:1,0,Empate,2015/2016
+15,Barcelona,Deportivo,2:2,0,Empate,2015/2016
+15,Celta,Espanyol,1:0,1,Celta,2015/2016
+15,Levante,Granada,1:2,1,Granada,2015/2016
+15,Sevilla,Sporting,2:0,2,Sevilla,2015/2016
+15,Las Palmas,Betis,1:0,1,Las Palmas,2015/2016
+15,Rayo,Málaga,1:2,1,Málaga,2015/2016
+15,Eibar,Valencia,1:1,0,Empate,2015/2016
+15,Atlético,Athletic,2:1,1,Atlético,2015/2016
+15,Villarreal,Real Madrid,1:0,1,Villarreal,2015/2016
+16,Valencia,Getafe,2:2,0,Empate,2015/2016
+16,Espanyol,Las Palmas,1:0,1,Espanyol,2015/2016
+16,Betis,Sevilla,0:0,0,Empate,2015/2016
+16,Deportivo,Eibar,2:0,2,Deportivo,2015/2016
+16,Real Madrid,Rayo,10:2,8,Real Madrid,2015/2016
+16,Real Sociedad,Villarreal,0:2,2,Villarreal,2015/2016
+16,Granada,Celta,0:2,2,Celta,2015/2016
+16,Athletic,Levante,2:0,2,Athletic,2015/2016
+16,Málaga,Atlético,1:0,1,Málaga,2015/2016
+16,Sporting,Barcelona,1:3,2,Barcelona,2015/2016
+17,Real Madrid,Real Sociedad,3:1,2,Real Madrid,2015/2016
+17,Levante,Málaga,0:1,1,Málaga,2015/2016
+17,Sevilla,Espanyol,2:0,2,Sevilla,2015/2016
+17,Rayo,Atlético,0:2,2,Atlético,2015/2016
+17,Eibar,Sporting,2:0,2,Eibar,2015/2016
+17,Getafe,Deportivo,0:0,0,Empate,2015/2016
+17,Barcelona,Betis,4:0,4,Barcelona,2015/2016
+17,Celta,Athletic,0:1,1,Athletic,2015/2016
+17,Las Palmas,Granada,4:1,3,Las Palmas,2015/2016
+17,Villarreal,Valencia,1:0,1,Villarreal,2015/2016
+18,Espanyol,Barcelona,0:0,0,Empate,2015/2016
+18,Atlético,Levante,1:0,1,Atlético,2015/2016
+18,Málaga,Celta,2:0,2,Málaga,2015/2016
+18,Rayo,Real Sociedad,2:2,0,Empate,2015/2016
+18,Betis,Eibar,0:4,4,Eibar,2015/2016
+18,Granada,Sevilla,2:1,1,Granada,2015/2016
+18,Deportivo,Villarreal,1:2,1,Villarreal,2015/2016
+18,Athletic,Las Palmas,2:2,0,Empate,2015/2016
+18,Valencia,Real Madrid,2:2,0,Empate,2015/2016
+18,Sporting,Getafe,1:2,1,Getafe,2015/2016
+19,Barcelona,Granada,4:0,4,Barcelona,2015/2016
+19,Getafe,Betis,1:0,1,Getafe,2015/2016
+19,Sevilla,Athletic,2:0,2,Sevilla,2015/2016
+19,Real Madrid,Deportivo,5:0,5,Real Madrid,2015/2016
+19,Levante,Rayo,2:1,1,Levante,2015/2016
+19,Villarreal,Sporting,2:0,2,Villarreal,2015/2016
+19,Real Sociedad,Valencia,2:0,2,Real Sociedad,2015/2016
+19,Eibar,Espanyol,2:1,1,Eibar,2015/2016
+19,Las Palmas,Málaga,1:1,0,Empate,2015/2016
+19,Celta,Atlético,0:2,2,Atlético,2015/2016
+20,Sevilla,Málaga,2:1,1,Sevilla,2015/2016
+20,Celta,Levante,4:3,1,Celta,2015/2016
+20,Villarreal,Betis,0:0,0,Empate,2015/2016
+20,Real Sociedad,Deportivo,1:1,0,Empate,2015/2016
+20,Valencia,Rayo,2:2,0,Empate,2015/2016
+20,Real Madrid,Sporting,5:1,4,Real Madrid,2015/2016
+20,Getafe,Espanyol,3:1,2,Getafe,2015/2016
+20,Las Palmas,Atlético,0:3,3,Atlético,2015/2016
+20,Barcelona,Athletic,6:0,6,Barcelona,2015/2016
+20,Eibar,Granada,5:1,4,Eibar,2015/2016
+21,Sporting,Real Sociedad,5:1,4,Sporting,2015/2016
+21,Málaga,Barcelona,1:2,1,Barcelona,2015/2016
+21,Espanyol,Villarreal,2:2,0,Empate,2015/2016
+21,Granada,Getafe,3:2,1,Granada,2015/2016
+21,Rayo,Celta,3:0,3,Rayo,2015/2016
+21,Athletic,Eibar,5:2,3,Athletic,2015/2016
+21,Atlético,Sevilla,0:0,0,Empate,2015/2016
+21,Deportivo,Valencia,1:1,0,Empate,2015/2016
+21,Betis,Real Madrid,1:1,0,Empate,2015/2016
+21,Levante,Las Palmas,3:2,1,Levante,2015/2016
+22,Barcelona,Atlético,2:1,1,Barcelona,2015/2016
+22,Eibar,Málaga,1:2,1,Málaga,2015/2016
+22,Getafe,Athletic,0:1,1,Athletic,2015/2016
+22,Villarreal,Granada,1:0,1,Villarreal,2015/2016
+22,Real Sociedad,Betis,2:1,1,Real Sociedad,2015/2016
+22,Sevilla,Levante,3:1,2,Sevilla,2015/2016
+22,Valencia,Sporting,0:1,1,Sporting,2015/2016
+22,Las Palmas,Celta,2:1,1,Las Palmas,2015/2016
+22,Real Madrid,Espanyol,6:0,6,Real Madrid,2015/2016
+22,Deportivo,Rayo,2:2,0,Empate,2015/2016
+23,Málaga,Getafe,3:0,3,Málaga,2015/2016
+23,Atlético,Eibar,3:1,2,Atlético,2015/2016
+23,Rayo,Las Palmas,2:0,2,Rayo,2015/2016
+23,Athletic,Villarreal,0:0,0,Empate,2015/2016
+23,Sporting,Deportivo,1:1,0,Empate,2015/2016
+23,Levante,Barcelona,0:2,2,Barcelona,2015/2016
+23,Betis,Valencia,1:0,1,Betis,2015/2016
+23,Celta,Sevilla,1:1,0,Empate,2015/2016
+23,Granada,Real Madrid,1:2,1,Real Madrid,2015/2016
+23,Espanyol,Real Sociedad,0:5,5,Real Sociedad,2015/2016
+24,Sporting,Rayo,2:2,0,Empate,2015/2016
+24,Real Madrid,Athletic,4:2,2,Real Madrid,2015/2016
+24,Villarreal,Málaga,1:0,1,Villarreal,2015/2016
+24,Valencia,Espanyol,2:1,1,Valencia,2015/2016
+24,Deportivo,Betis,2:2,0,Empate,2015/2016
+24,Real Sociedad,Granada,3:0,3,Real Sociedad,2015/2016
+24,Sevilla,Las Palmas,2:0,2,Sevilla,2015/2016
+24,Eibar,Levante,2:0,2,Eibar,2015/2016
+24,Getafe,Atlético,0:1,1,Atlético,2015/2016
+24,Barcelona,Celta,6:1,5,Barcelona,2015/2016
+25,Levante,Getafe,3:0,3,Levante,2015/2016
+25,Las Palmas,Barcelona,1:2,1,Barcelona,2015/2016
+25,Espanyol,Deportivo,1:0,1,Espanyol,2015/2016
+25,Betis,Sporting,1:1,0,Empate,2015/2016
+25,Celta,Eibar,3:2,1,Celta,2015/2016
+25,Rayo,Sevilla,2:2,0,Empate,2015/2016
+25,Málaga,Real Madrid,1:1,0,Empate,2015/2016
+25,Athletic,Real Sociedad,0:1,1,Real Sociedad,2015/2016
+25,Granada,Valencia,1:2,1,Valencia,2015/2016
+25,Atlético,Villarreal,0:0,0,Empate,2015/2016
+26,Eibar,Las Palmas,0:1,1,Las Palmas,2015/2016
+26,Real Madrid,Atlético,0:1,1,Atlético,2015/2016
+26,Getafe,Celta,0:1,1,Celta,2015/2016
+26,Sporting,Espanyol,2:4,2,Espanyol,2015/2016
+26,Betis,Rayo,2:2,0,Empate,2015/2016
+26,Real Sociedad,Málaga,1:1,0,Empate,2015/2016
+26,Villarreal,Levante,3:0,3,Villarreal,2015/2016
+26,Valencia,Athletic,0:3,3,Athletic,2015/2016
+26,Deportivo,Granada,0:1,1,Granada,2015/2016
+26,Barcelona,Sevilla,2:1,1,Barcelona,2015/2016
+27,Atlético,Real Sociedad,3:0,3,Atlético,2015/2016
+27,Las Palmas,Getafe,4:0,4,Las Palmas,2015/2016
+27,Sevilla,Eibar,1:0,1,Sevilla,2015/2016
+27,Celta,Villarreal,0:0,0,Empate,2015/2016
+27,Málaga,Valencia,1:2,1,Valencia,2015/2016
+27,Athletic,Deportivo,4:1,3,Athletic,2015/2016
+27,Levante,Real Madrid,1:3,2,Real Madrid,2015/2016
+27,Granada,Sporting,2:0,2,Granada,2015/2016
+27,Espanyol,Betis,0:3,3,Betis,2015/2016
+27,Rayo,Barcelona,1:5,4,Barcelona,2015/2016
+28,Real Madrid,Celta,7:1,6,Real Madrid,2015/2016
+28,Villarreal,Las Palmas,0:1,1,Las Palmas,2015/2016
+28,Getafe,Sevilla,1:1,0,Empate,2015/2016
+28,Deportivo,Málaga,3:3,0,Empate,2015/2016
+28,Betis,Granada,2:0,2,Betis,2015/2016
+28,Eibar,Barcelona,0:4,4,Barcelona,2015/2016
+28,Real Sociedad,Levante,1:1,0,Empate,2015/2016
+28,Sporting,Athletic,0:2,2,Athletic,2015/2016
+28,Valencia,Atlético,1:3,2,Atlético,2015/2016
+28,Espanyol,Rayo,2:1,1,Espanyol,2015/2016
+29,Málaga,Sporting,1:0,1,Málaga,2015/2016
+29,Barcelona,Getafe,6:0,6,Barcelona,2015/2016
+29,Celta,Real Sociedad,1:0,1,Celta,2015/2016
+29,Atlético,Deportivo,3:0,3,Atlético,2015/2016
+29,Rayo,Eibar,1:1,0,Empate,2015/2016
+29,Levante,Valencia,1:0,1,Levante,2015/2016
+29,Sevilla,Villarreal,4:2,2,Sevilla,2015/2016
+29,Athletic,Betis,3:1,2,Athletic,2015/2016
+29,Las Palmas,Real Madrid,1:2,1,Real Madrid,2015/2016
+29,Granada,Espanyol,1:1,0,Empate,2015/2016
+30,Getafe,Eibar,1:1,0,Empate,2015/2016
+30,Sporting,Atlético,2:1,1,Sporting,2015/2016
+30,Real Sociedad,Las Palmas,0:1,1,Las Palmas,2015/2016
+30,Granada,Rayo,2:2,0,Empate,2015/2016
+30,Deportivo,Levante,2:1,1,Deportivo,2015/2016
+30,Betis,Málaga,0:1,1,Málaga,2015/2016
+30,Espanyol,Athletic,2:1,1,Espanyol,2015/2016
+30,Villarreal,Barcelona,2:2,0,Empate,2015/2016
+30,Valencia,Celta,0:2,2,Celta,2015/2016
+30,Real Madrid,Sevilla,4:0,4,Real Madrid,2015/2016
+31,Rayo,Getafe,2:0,2,Rayo,2015/2016
+31,Atlético,Betis,5:1,4,Atlético,2015/2016
+31,Las Palmas,Valencia,2:1,1,Las Palmas,2015/2016
+31,Barcelona,Real Madrid,1:2,1,Real Madrid,2015/2016
+31,Celta,Deportivo,1:1,0,Empate,2015/2016
+31,Athletic,Granada,1:1,0,Empate,2015/2016
+31,Málaga,Espanyol,1:1,0,Empate,2015/2016
+31,Eibar,Villarreal,1:2,1,Villarreal,2015/2016
+31,Sevilla,Real Sociedad,1:2,1,Real Sociedad,2015/2016
+31,Levante,Sporting,0:0,0,Empate,2015/2016
+32,Granada,Málaga,0:0,0,Empate,2015/2016
+32,Real Madrid,Eibar,4:0,4,Real Madrid,2015/2016
+32,Espanyol,Atlético,1:3,2,Atlético,2015/2016
+32,Real Sociedad,Barcelona,1:0,1,Real Sociedad,2015/2016
+32,Betis,Levante,1:0,1,Betis,2015/2016
+32,Sporting,Celta,0:1,1,Celta,2015/2016
+32,Valencia,Sevilla,2:1,1,Valencia,2015/2016
+32,Villarreal,Getafe,2:0,2,Villarreal,2015/2016
+32,Athletic,Rayo,1:0,1,Athletic,2015/2016
+32,Deportivo,Las Palmas,1:3,2,Las Palmas,2015/2016
+33,Levante,Espanyol,2:1,1,Levante,2015/2016
+33,Getafe,Real Madrid,1:5,4,Real Madrid,2015/2016
+33,Las Palmas,Sporting,1:1,0,Empate,2015/2016
+33,Eibar,Real Sociedad,2:1,1,Eibar,2015/2016
+33,Celta,Betis,1:1,0,Empate,2015/2016
+33,Málaga,Athletic,0:1,1,Athletic,2015/2016
+33,Sevilla,Deportivo,1:1,0,Empate,2015/2016
+33,Rayo,Villarreal,2:1,1,Rayo,2015/2016
+33,Atlético,Granada,3:0,3,Atlético,2015/2016
+33,Barcelona,Valencia,1:2,1,Valencia,2015/2016
+34,Espanyol,Celta,1:1,0,Empate,2015/2016
+34,Betis,Las Palmas,1:0,1,Betis,2015/2016
+34,Deportivo,Barcelona,0:8,8,Barcelona,2015/2016
+34,Valencia,Eibar,4:0,4,Valencia,2015/2016
+34,Sporting,Sevilla,2:1,1,Sporting,2015/2016
+34,Athletic,Atlético,0:1,1,Atlético,2015/2016
+34,Málaga,Rayo,1:1,0,Empate,2015/2016
+34,Real Madrid,Villarreal,3:0,3,Real Madrid,2015/2016
+34,Real Sociedad,Getafe,1:2,1,Getafe,2015/2016
+34,Granada,Levante,5:1,4,Granada,2015/2016
+35,Las Palmas,Espanyol,4:0,4,Las Palmas,2015/2016
+35,Rayo,Real Madrid,2:3,1,Real Madrid,2015/2016
+35,Atlético,Málaga,1:0,1,Atlético,2015/2016
+35,Barcelona,Sporting,6:0,6,Barcelona,2015/2016
+35,Eibar,Deportivo,1:1,0,Empate,2015/2016
+35,Levante,Athletic,2:2,0,Empate,2015/2016
+35,Sevilla,Betis,2:0,2,Sevilla,2015/2016
+35,Getafe,Valencia,2:2,0,Empate,2015/2016
+35,Villarreal,Real Sociedad,0:0,0,Empate,2015/2016
+35,Celta,Granada,2:1,1,Celta,2015/2016
+36,Sporting,Eibar,2:0,2,Sporting,2015/2016
+36,Real Sociedad,Real Madrid,0:1,1,Real Madrid,2015/2016
+36,Atlético,Rayo,1:0,1,Atlético,2015/2016
+36,Betis,Barcelona,0:2,2,Barcelona,2015/2016
+36,Granada,Las Palmas,3:2,1,Granada,2015/2016
+36,Athletic,Celta,2:1,1,Athletic,2015/2016
+36,Espanyol,Sevilla,1:0,1,Espanyol,2015/2016
+36,Deportivo,Getafe,0:2,2,Getafe,2015/2016
+36,Valencia,Villarreal,0:2,2,Villarreal,2015/2016
+36,Málaga,Levante,3:1,2,Málaga,2015/2016
+37,Real Sociedad,Rayo,2:1,1,Real Sociedad,2015/2016
+37,Real Madrid,Valencia,3:2,1,Real Madrid,2015/2016
+37,Villarreal,Deportivo,0:2,2,Deportivo,2015/2016
+37,Getafe,Sporting,1:1,0,Empate,2015/2016
+37,Eibar,Betis,1:1,0,Empate,2015/2016
+37,Barcelona,Espanyol,5:0,5,Barcelona,2015/2016
+37,Sevilla,Granada,1:4,3,Granada,2015/2016
+37,Las Palmas,Athletic,0:0,0,Empate,2015/2016
+37,Celta,Málaga,1:0,1,Celta,2015/2016
+37,Levante,Atlético,2:1,1,Levante,2015/2016
+38,Valencia,Real Sociedad,0:1,1,Real Sociedad,2015/2016
+38,Deportivo,Real Madrid,0:2,2,Real Madrid,2015/2016
+38,Granada,Barcelona,0:3,3,Barcelona,2015/2016
+38,Athletic,Sevilla,3:1,2,Athletic,2015/2016
+38,Atlético,Celta,2:0,2,Atlético,2015/2016
+38,Málaga,Las Palmas,4:1,3,Málaga,2015/2016
+38,Espanyol,Eibar,4:2,2,Espanyol,2015/2016
+38,Sporting,Villarreal,2:0,2,Sporting,2015/2016
+38,Betis,Getafe,2:1,1,Betis,2015/2016
+38,Rayo,Levante,3:1,2,Rayo,2015/2016

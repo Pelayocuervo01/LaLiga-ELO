@@ -1,0 +1,381 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Osasuna,Real Madrid,1:4,3,Real Madrid,1993/1994
+1,Barcelona,Real Sociedad,3:0,3,Barcelona,1993/1994
+1,Zaragoza,Sevilla,1:2,1,Sevilla,1993/1994
+1,Valladolid,Sporting,0:1,1,Sporting,1993/1994
+1,Deportivo,Celta,0:0,0,Empate,1993/1994
+1,Real Oviedo,Valencia,0:3,3,Valencia,1993/1994
+1,Atlético,CD Logroñés,1:0,1,Atlético,1993/1994
+1,Real Racing,Rayo,1:0,1,Real Racing,1993/1994
+1,Tenerife,UE Lleida,1:0,1,Tenerife,1993/1994
+1,Athletic,Albacete,4:1,3,Athletic,1993/1994
+2,Albacete,Barcelona,0:0,0,Empate,1993/1994
+2,Sporting,Deportivo,0:2,2,Deportivo,1993/1994
+2,Valencia,Atlético,2:2,0,Empate,1993/1994
+2,Celta,Real Oviedo,1:1,0,Empate,1993/1994
+2,Real Sociedad,Zaragoza,2:2,0,Empate,1993/1994
+2,Sevilla,Osasuna,1:1,0,Empate,1993/1994
+2,CD Logroñés,Real Racing,0:1,1,Real Racing,1993/1994
+2,Rayo,Tenerife,4:3,1,Rayo,1993/1994
+2,UE Lleida,Athletic,1:2,1,Athletic,1993/1994
+2,Real Madrid,Valladolid,1:3,2,Valladolid,1993/1994
+3,Deportivo,Real Madrid,4:0,4,Deportivo,1993/1994
+3,Valladolid,Sevilla,2:2,0,Empate,1993/1994
+3,Real Oviedo,Sporting,0:1,1,Sporting,1993/1994
+3,Athletic,Barcelona,0:0,0,Empate,1993/1994
+3,UE Lleida,Rayo,0:1,1,Rayo,1993/1994
+3,Tenerife,CD Logroñés,2:0,2,Tenerife,1993/1994
+3,Real Racing,Valencia,0:1,1,Valencia,1993/1994
+3,Atlético,Celta,3:2,1,Atlético,1993/1994
+3,Osasuna,Real Sociedad,0:2,2,Real Sociedad,1993/1994
+3,Zaragoza,Albacete,1:1,0,Empate,1993/1994
+4,CD Logroñés,UE Lleida,2:1,1,CD Logroñés,1993/1994
+4,Sevilla,Deportivo,0:0,0,Empate,1993/1994
+4,Sporting,Atlético,1:1,0,Empate,1993/1994
+4,Valencia,Tenerife,3:2,1,Valencia,1993/1994
+4,Barcelona,Zaragoza,4:1,3,Barcelona,1993/1994
+4,Albacete,Osasuna,2:1,1,Albacete,1993/1994
+4,Real Sociedad,Valladolid,1:0,1,Real Sociedad,1993/1994
+4,Real Madrid,Real Oviedo,0:1,1,Real Oviedo,1993/1994
+4,Celta,Real Racing,0:0,0,Empate,1993/1994
+4,Rayo,Athletic,1:2,1,Athletic,1993/1994
+5,Atlético,Real Madrid,0:0,0,Empate,1993/1994
+5,Osasuna,Barcelona,2:3,1,Barcelona,1993/1994
+5,Deportivo,Real Sociedad,0:1,1,Real Sociedad,1993/1994
+5,Athletic,Zaragoza,2:1,1,Athletic,1993/1994
+5,UE Lleida,Valencia,1:1,0,Empate,1993/1994
+5,Tenerife,Celta,0:0,0,Empate,1993/1994
+5,Real Racing,Sporting,2:0,2,Real Racing,1993/1994
+5,Real Oviedo,Sevilla,0:2,2,Sevilla,1993/1994
+5,Rayo,CD Logroñés,3:1,2,Rayo,1993/1994
+5,Valladolid,Albacete,1:0,1,Valladolid,1993/1994
+6,Zaragoza,Osasuna,2:1,1,Zaragoza,1993/1994
+6,Barcelona,Valladolid,3:0,3,Barcelona,1993/1994
+6,Albacete,Deportivo,0:0,0,Empate,1993/1994
+6,Real Sociedad,Real Oviedo,2:2,0,Empate,1993/1994
+6,Sevilla,Atlético,2:1,1,Sevilla,1993/1994
+6,Real Madrid,Real Racing,2:1,1,Real Madrid,1993/1994
+6,Sporting,Tenerife,1:2,1,Tenerife,1993/1994
+6,Celta,UE Lleida,1:0,1,Celta,1993/1994
+6,Valencia,Rayo,3:1,2,Valencia,1993/1994
+6,CD Logroñés,Athletic,4:2,2,CD Logroñés,1993/1994
+7,Atlético,Real Sociedad,1:2,1,Real Sociedad,1993/1994
+7,Tenerife,Real Madrid,0:0,0,Empate,1993/1994
+7,Deportivo,Barcelona,1:0,1,Deportivo,1993/1994
+7,Valladolid,Zaragoza,0:0,0,Empate,1993/1994
+7,Real Oviedo,Albacete,1:1,0,Empate,1993/1994
+7,Athletic,Osasuna,1:2,1,Osasuna,1993/1994
+7,Real Racing,Sevilla,1:0,1,Real Racing,1993/1994
+7,UE Lleida,Sporting,1:1,0,Empate,1993/1994
+7,Rayo,Celta,1:1,0,Empate,1993/1994
+7,CD Logroñés,Valencia,2:0,2,CD Logroñés,1993/1994
+8,Valencia,Athletic,1:0,1,Valencia,1993/1994
+8,Osasuna,Valladolid,2:0,2,Osasuna,1993/1994
+8,Zaragoza,Deportivo,0:1,1,Deportivo,1993/1994
+8,Barcelona,Real Oviedo,1:0,1,Barcelona,1993/1994
+8,Albacete,Atlético,2:2,0,Empate,1993/1994
+8,Real Sociedad,Real Racing,2:0,2,Real Sociedad,1993/1994
+8,Sevilla,Tenerife,4:0,4,Sevilla,1993/1994
+8,Real Madrid,UE Lleida,5:0,5,Real Madrid,1993/1994
+8,Sporting,Rayo,2:0,2,Sporting,1993/1994
+8,Celta,CD Logroñés,2:0,2,Celta,1993/1994
+9,Deportivo,Osasuna,3:1,2,Deportivo,1993/1994
+9,Atlético,Barcelona,4:3,1,Atlético,1993/1994
+9,Valencia,Celta,3:0,3,Valencia,1993/1994
+9,Rayo,Real Madrid,0:2,2,Real Madrid,1993/1994
+9,Athletic,Valladolid,3:0,3,Athletic,1993/1994
+9,CD Logroñés,Sporting,1:2,1,Sporting,1993/1994
+9,Real Racing,Albacete,1:1,0,Empate,1993/1994
+9,Tenerife,Real Sociedad,2:1,1,Tenerife,1993/1994
+9,Real Oviedo,Zaragoza,2:1,1,Real Oviedo,1993/1994
+9,UE Lleida,Sevilla,0:3,3,Sevilla,1993/1994
+10,Zaragoza,Atlético,2:1,1,Zaragoza,1993/1994
+10,Osasuna,Real Oviedo,2:0,2,Osasuna,1993/1994
+10,Celta,Athletic,1:1,0,Empate,1993/1994
+10,Barcelona,Real Racing,2:1,1,Barcelona,1993/1994
+10,Albacete,Tenerife,2:3,1,Tenerife,1993/1994
+10,Real Sociedad,UE Lleida,1:3,2,UE Lleida,1993/1994
+10,Sevilla,Rayo,3:1,2,Sevilla,1993/1994
+10,Real Madrid,CD Logroñés,2:1,1,Real Madrid,1993/1994
+10,Sporting,Valencia,2:0,2,Sporting,1993/1994
+10,Valladolid,Deportivo,0:0,0,Empate,1993/1994
+11,UE Lleida,Albacete,0:1,1,Albacete,1993/1994
+11,Real Oviedo,Valladolid,1:0,1,Real Oviedo,1993/1994
+11,Atlético,Osasuna,3:0,3,Atlético,1993/1994
+11,Tenerife,Barcelona,2:3,1,Barcelona,1993/1994
+11,Athletic,Deportivo,3:1,2,Athletic,1993/1994
+11,Rayo,Real Sociedad,4:1,3,Rayo,1993/1994
+11,CD Logroñés,Sevilla,1:1,0,Empate,1993/1994
+11,Celta,Sporting,0:2,2,Sporting,1993/1994
+11,Real Racing,Zaragoza,2:0,2,Real Racing,1993/1994
+11,Valencia,Real Madrid,0:3,3,Real Madrid,1993/1994
+12,Deportivo,Real Oviedo,4:0,4,Deportivo,1993/1994
+12,Zaragoza,Tenerife,6:2,4,Zaragoza,1993/1994
+12,Barcelona,UE Lleida,0:1,1,UE Lleida,1993/1994
+12,Sevilla,Valencia,0:1,1,Valencia,1993/1994
+12,Valladolid,Atlético,1:1,0,Empate,1993/1994
+12,Osasuna,Real Racing,0:0,0,Empate,1993/1994
+12,Albacete,Rayo,1:1,0,Empate,1993/1994
+12,Real Sociedad,CD Logroñés,2:2,0,Empate,1993/1994
+12,Sporting,Athletic,0:1,1,Athletic,1993/1994
+12,Real Madrid,Celta,2:1,1,Real Madrid,1993/1994
+13,Atlético,Deportivo,0:1,1,Deportivo,1993/1994
+13,Rayo,Barcelona,2:4,2,Barcelona,1993/1994
+13,Sporting,Real Madrid,2:1,1,Sporting,1993/1994
+13,Athletic,Real Oviedo,1:1,0,Empate,1993/1994
+13,Tenerife,Osasuna,1:0,1,Tenerife,1993/1994
+13,Real Racing,Valladolid,5:1,4,Real Racing,1993/1994
+13,UE Lleida,Zaragoza,0:1,1,Zaragoza,1993/1994
+13,CD Logroñés,Albacete,2:2,0,Empate,1993/1994
+13,Celta,Sevilla,2:1,1,Celta,1993/1994
+13,Valencia,Real Sociedad,0:0,0,Empate,1993/1994
+14,Real Oviedo,Atlético,1:1,0,Empate,1993/1994
+14,Deportivo,Real Racing,1:0,1,Deportivo,1993/1994
+14,Valladolid,Tenerife,2:0,2,Valladolid,1993/1994
+14,Barcelona,CD Logroñés,2:2,0,Empate,1993/1994
+14,Real Madrid,Athletic,2:1,1,Real Madrid,1993/1994
+14,Osasuna,UE Lleida,1:0,1,Osasuna,1993/1994
+14,Sevilla,Sporting,1:2,1,Sporting,1993/1994
+14,Zaragoza,Rayo,4:1,3,Zaragoza,1993/1994
+14,Albacete,Valencia,3:1,2,Albacete,1993/1994
+14,Real Sociedad,Celta,2:1,1,Real Sociedad,1993/1994
+15,Valencia,Barcelona,0:4,4,Barcelona,1993/1994
+15,Rayo,Osasuna,1:0,1,Rayo,1993/1994
+15,Athletic,Atlético,3:2,1,Athletic,1993/1994
+15,Real Racing,Real Oviedo,1:2,1,Real Oviedo,1993/1994
+15,UE Lleida,Valladolid,1:0,1,UE Lleida,1993/1994
+15,CD Logroñés,Zaragoza,2:2,0,Empate,1993/1994
+15,Celta,Albacete,1:4,3,Albacete,1993/1994
+15,Sporting,Real Sociedad,3:2,1,Sporting,1993/1994
+15,Real Madrid,Sevilla,0:0,0,Empate,1993/1994
+15,Tenerife,Deportivo,0:1,1,Deportivo,1993/1994
+16,Sevilla,Athletic,1:3,2,Athletic,1993/1994
+16,Zaragoza,Valencia,1:0,1,Zaragoza,1993/1994
+16,Real Oviedo,Tenerife,1:0,1,Real Oviedo,1993/1994
+16,Albacete,Sporting,3:1,2,Albacete,1993/1994
+16,Barcelona,Celta,1:0,1,Barcelona,1993/1994
+16,Atlético,Real Racing,4:0,4,Atlético,1993/1994
+16,Osasuna,CD Logroñés,1:3,2,CD Logroñés,1993/1994
+16,Deportivo,UE Lleida,2:0,2,Deportivo,1993/1994
+16,Valladolid,Rayo,1:3,2,Rayo,1993/1994
+16,Real Sociedad,Real Madrid,2:0,2,Real Sociedad,1993/1994
+17,Rayo,Deportivo,0:0,0,Empate,1993/1994
+17,Athletic,Real Racing,1:2,1,Real Racing,1993/1994
+17,Tenerife,Atlético,1:1,0,Empate,1993/1994
+17,UE Lleida,Real Oviedo,1:1,0,Empate,1993/1994
+17,Real Madrid,Albacete,2:0,2,Real Madrid,1993/1994
+17,CD Logroñés,Valladolid,0:0,0,Empate,1993/1994
+17,Valencia,Osasuna,0:0,0,Empate,1993/1994
+17,Celta,Zaragoza,1:0,1,Celta,1993/1994
+17,Sporting,Barcelona,2:0,2,Sporting,1993/1994
+17,Sevilla,Real Sociedad,1:0,1,Sevilla,1993/1994
+18,Barcelona,Real Madrid,5:0,5,Barcelona,1993/1994
+18,Valladolid,Valencia,1:1,0,Empate,1993/1994
+18,Real Racing,Tenerife,1:0,1,Real Racing,1993/1994
+18,Atlético,UE Lleida,0:0,0,Empate,1993/1994
+18,Deportivo,CD Logroñés,3:0,3,Deportivo,1993/1994
+18,Osasuna,Celta,0:1,1,Celta,1993/1994
+18,Zaragoza,Sporting,3:0,3,Zaragoza,1993/1994
+18,Albacete,Sevilla,2:2,0,Empate,1993/1994
+18,Athletic,Real Sociedad,0:0,0,Empate,1993/1994
+18,Real Oviedo,Rayo,5:0,5,Real Oviedo,1993/1994
+19,Valencia,Deportivo,1:3,2,Deportivo,1993/1994
+19,Tenerife,Athletic,2:1,1,Tenerife,1993/1994
+19,Real Sociedad,Albacete,1:1,0,Empate,1993/1994
+19,Sevilla,Barcelona,0:0,0,Empate,1993/1994
+19,Real Madrid,Zaragoza,3:2,1,Real Madrid,1993/1994
+19,Sporting,Osasuna,7:1,6,Sporting,1993/1994
+19,Celta,Valladolid,1:2,1,Valladolid,1993/1994
+19,CD Logroñés,Real Oviedo,2:2,0,Empate,1993/1994
+19,Rayo,Atlético,2:1,1,Rayo,1993/1994
+19,UE Lleida,Real Racing,0:0,0,Empate,1993/1994
+20,Real Sociedad,Barcelona,2:1,1,Real Sociedad,1993/1994
+20,Rayo,Real Racing,1:1,0,Empate,1993/1994
+20,Albacete,Athletic,1:0,1,Albacete,1993/1994
+20,Sevilla,Zaragoza,0:1,1,Zaragoza,1993/1994
+20,Real Madrid,Osasuna,0:0,0,Empate,1993/1994
+20,Sporting,Valladolid,2:0,2,Sporting,1993/1994
+20,Celta,Deportivo,0:0,0,Empate,1993/1994
+20,Valencia,Real Oviedo,2:2,0,Empate,1993/1994
+20,CD Logroñés,Atlético,1:0,1,CD Logroñés,1993/1994
+20,UE Lleida,Tenerife,1:1,0,Empate,1993/1994
+21,Atlético,Valencia,2:0,2,Atlético,1993/1994
+21,Athletic,UE Lleida,4:0,4,Athletic,1993/1994
+21,Tenerife,Rayo,3:1,2,Tenerife,1993/1994
+21,Barcelona,Albacete,2:1,1,Barcelona,1993/1994
+21,Zaragoza,Real Sociedad,3:0,3,Zaragoza,1993/1994
+21,Real Racing,CD Logroñés,0:0,0,Empate,1993/1994
+21,Osasuna,Sevilla,0:0,0,Empate,1993/1994
+21,Valladolid,Real Madrid,0:0,0,Empate,1993/1994
+21,Deportivo,Sporting,2:1,1,Deportivo,1993/1994
+21,Real Oviedo,Celta,1:0,1,Real Oviedo,1993/1994
+22,Real Madrid,Deportivo,2:0,2,Real Madrid,1993/1994
+22,Barcelona,Athletic,2:3,1,Athletic,1993/1994
+22,Albacete,Zaragoza,2:1,1,Albacete,1993/1994
+22,Rayo,UE Lleida,1:2,1,UE Lleida,1993/1994
+22,Real Sociedad,Osasuna,1:0,1,Real Sociedad,1993/1994
+22,Sevilla,Valladolid,3:3,0,Empate,1993/1994
+22,CD Logroñés,Tenerife,1:2,1,Tenerife,1993/1994
+22,Sporting,Real Oviedo,0:0,0,Empate,1993/1994
+22,Celta,Atlético,3:2,1,Celta,1993/1994
+22,Valencia,Real Racing,2:1,1,Valencia,1993/1994
+23,Deportivo,Sevilla,2:0,2,Deportivo,1993/1994
+23,Real Oviedo,Real Madrid,0:1,1,Real Madrid,1993/1994
+23,Zaragoza,Barcelona,6:3,3,Zaragoza,1993/1994
+23,Osasuna,Albacete,3:1,2,Osasuna,1993/1994
+23,Atlético,Sporting,2:0,2,Atlético,1993/1994
+23,Real Racing,Celta,2:1,1,Real Racing,1993/1994
+23,Tenerife,Valencia,1:0,1,Tenerife,1993/1994
+23,UE Lleida,CD Logroñés,1:1,0,Empate,1993/1994
+23,Athletic,Rayo,0:0,0,Empate,1993/1994
+23,Valladolid,Real Sociedad,0:0,0,Empate,1993/1994
+24,Barcelona,Osasuna,8:1,7,Barcelona,1993/1994
+24,Real Madrid,Atlético,1:0,1,Real Madrid,1993/1994
+24,Sevilla,Real Oviedo,2:0,2,Sevilla,1993/1994
+24,Valencia,UE Lleida,3:3,0,Empate,1993/1994
+24,CD Logroñés,Rayo,1:1,0,Empate,1993/1994
+24,Albacete,Valladolid,1:1,0,Empate,1993/1994
+24,Real Sociedad,Deportivo,0:1,1,Deportivo,1993/1994
+24,Zaragoza,Athletic,1:0,1,Zaragoza,1993/1994
+24,Celta,Tenerife,1:0,1,Celta,1993/1994
+24,Sporting,Real Racing,0:2,2,Real Racing,1993/1994
+25,Valladolid,Barcelona,1:3,2,Barcelona,1993/1994
+25,Osasuna,Zaragoza,0:0,0,Empate,1993/1994
+25,Deportivo,Albacete,5:1,4,Deportivo,1993/1994
+25,Real Oviedo,Real Sociedad,2:1,1,Real Oviedo,1993/1994
+25,Atlético,Sevilla,2:4,2,Sevilla,1993/1994
+25,Real Racing,Real Madrid,1:3,2,Real Madrid,1993/1994
+25,Tenerife,Sporting,3:0,3,Tenerife,1993/1994
+25,Athletic,CD Logroñés,0:0,0,Empate,1993/1994
+25,UE Lleida,Celta,0:0,0,Empate,1993/1994
+25,Rayo,Valencia,1:1,0,Empate,1993/1994
+26,Barcelona,Deportivo,3:0,3,Barcelona,1993/1994
+26,Real Sociedad,Atlético,2:1,1,Real Sociedad,1993/1994
+26,Osasuna,Athletic,0:0,0,Empate,1993/1994
+26,Zaragoza,Valladolid,2:0,2,Zaragoza,1993/1994
+26,Albacete,Real Oviedo,5:0,5,Albacete,1993/1994
+26,Sevilla,Real Racing,2:1,1,Sevilla,1993/1994
+26,Real Madrid,Tenerife,1:1,0,Empate,1993/1994
+26,Sporting,UE Lleida,1:1,0,Empate,1993/1994
+26,Celta,Rayo,0:0,0,Empate,1993/1994
+26,Valencia,CD Logroñés,3:1,2,Valencia,1993/1994
+27,Athletic,Valencia,2:1,1,Athletic,1993/1994
+27,Tenerife,Sevilla,2:1,1,Tenerife,1993/1994
+27,Valladolid,Osasuna,2:1,1,Valladolid,1993/1994
+27,Deportivo,Zaragoza,1:1,0,Empate,1993/1994
+27,Real Oviedo,Barcelona,1:3,2,Barcelona,1993/1994
+27,Atlético,Albacete,0:0,0,Empate,1993/1994
+27,Real Racing,Real Sociedad,4:1,3,Real Racing,1993/1994
+27,UE Lleida,Real Madrid,2:1,1,UE Lleida,1993/1994
+27,CD Logroñés,Celta,1:1,0,Empate,1993/1994
+27,Rayo,Sporting,2:1,1,Rayo,1993/1994
+28,Barcelona,Atlético,5:3,2,Barcelona,1993/1994
+28,Real Madrid,Rayo,5:2,3,Real Madrid,1993/1994
+28,Albacete,Real Racing,3:0,3,Albacete,1993/1994
+28,Celta,Valencia,1:2,1,Valencia,1993/1994
+28,Valladolid,Athletic,1:1,0,Empate,1993/1994
+28,Osasuna,Deportivo,0:0,0,Empate,1993/1994
+28,Zaragoza,Real Oviedo,2:1,1,Zaragoza,1993/1994
+28,Real Sociedad,Tenerife,2:1,1,Real Sociedad,1993/1994
+28,Sevilla,UE Lleida,2:1,1,Sevilla,1993/1994
+28,Sporting,CD Logroñés,1:2,1,CD Logroñés,1993/1994
+29,Real Racing,Barcelona,1:1,0,Empate,1993/1994
+29,Deportivo,Valladolid,0:0,0,Empate,1993/1994
+29,Real Oviedo,Osasuna,1:0,1,Real Oviedo,1993/1994
+29,Athletic,Celta,2:1,1,Athletic,1993/1994
+29,Atlético,Zaragoza,0:4,4,Zaragoza,1993/1994
+29,Valencia,Sporting,1:0,1,Valencia,1993/1994
+29,Tenerife,Albacete,2:1,1,Tenerife,1993/1994
+29,UE Lleida,Real Sociedad,1:0,1,UE Lleida,1993/1994
+29,Rayo,Sevilla,2:1,1,Rayo,1993/1994
+29,CD Logroñés,Real Madrid,3:4,1,Real Madrid,1993/1994
+30,Barcelona,Tenerife,2:1,1,Barcelona,1993/1994
+30,Sevilla,CD Logroñés,4:1,3,Sevilla,1993/1994
+30,Real Madrid,Valencia,3:2,1,Real Madrid,1993/1994
+30,Deportivo,Athletic,4:1,3,Deportivo,1993/1994
+30,Valladolid,Real Oviedo,0:0,0,Empate,1993/1994
+30,Zaragoza,Real Racing,2:0,2,Zaragoza,1993/1994
+30,Albacete,UE Lleida,2:1,1,Albacete,1993/1994
+30,Real Sociedad,Rayo,1:1,0,Empate,1993/1994
+30,Sporting,Celta,2:1,1,Sporting,1993/1994
+30,Osasuna,Atlético,0:1,1,Atlético,1993/1994
+31,Celta,Real Madrid,3:2,1,Celta,1993/1994
+31,UE Lleida,Barcelona,1:2,1,Barcelona,1993/1994
+31,Rayo,Albacete,0:0,0,Empate,1993/1994
+31,Atlético,Valladolid,2:0,2,Atlético,1993/1994
+31,Real Racing,Osasuna,3:1,2,Real Racing,1993/1994
+31,Athletic,Sporting,7:0,7,Athletic,1993/1994
+31,Tenerife,Zaragoza,5:3,2,Tenerife,1993/1994
+31,Real Oviedo,Deportivo,2:5,3,Deportivo,1993/1994
+31,Valencia,Sevilla,1:1,0,Empate,1993/1994
+31,CD Logroñés,Real Sociedad,2:0,2,CD Logroñés,1993/1994
+32,Real Oviedo,Athletic,3:0,3,Real Oviedo,1993/1994
+32,Valladolid,Real Racing,0:3,3,Real Racing,1993/1994
+32,Osasuna,Tenerife,1:0,1,Osasuna,1993/1994
+32,Zaragoza,UE Lleida,1:1,0,Empate,1993/1994
+32,Barcelona,Rayo,1:0,1,Barcelona,1993/1994
+32,Albacete,CD Logroñés,2:2,0,Empate,1993/1994
+32,Sevilla,Celta,4:1,3,Sevilla,1993/1994
+32,Real Madrid,Sporting,2:2,0,Empate,1993/1994
+32,Real Sociedad,Valencia,0:0,0,Empate,1993/1994
+32,Deportivo,Atlético,2:1,1,Deportivo,1993/1994
+33,CD Logroñés,Barcelona,0:0,0,Empate,1993/1994
+33,Sporting,Sevilla,0:1,1,Sevilla,1993/1994
+33,Athletic,Real Madrid,2:1,1,Athletic,1993/1994
+33,Rayo,Zaragoza,1:2,1,Zaragoza,1993/1994
+33,Atlético,Real Oviedo,0:3,3,Real Oviedo,1993/1994
+33,Real Racing,Deportivo,0:1,1,Deportivo,1993/1994
+33,UE Lleida,Osasuna,1:2,1,Osasuna,1993/1994
+33,Valencia,Albacete,4:0,4,Valencia,1993/1994
+33,Celta,Real Sociedad,3:2,1,Celta,1993/1994
+33,Tenerife,Valladolid,0:2,2,Valladolid,1993/1994
+34,Zaragoza,CD Logroñés,1:1,0,Empate,1993/1994
+34,Barcelona,Valencia,3:1,2,Barcelona,1993/1994
+34,Albacete,Celta,0:4,4,Celta,1993/1994
+34,Sevilla,Real Madrid,0:1,1,Real Madrid,1993/1994
+34,Atlético,Athletic,4:2,2,Atlético,1993/1994
+34,Real Oviedo,Real Racing,3:0,3,Real Oviedo,1993/1994
+34,Deportivo,Tenerife,2:0,2,Deportivo,1993/1994
+34,Valladolid,UE Lleida,0:2,2,UE Lleida,1993/1994
+34,Osasuna,Rayo,1:1,0,Empate,1993/1994
+34,Real Sociedad,Sporting,0:1,1,Sporting,1993/1994
+35,UE Lleida,Deportivo,0:0,0,Empate,1993/1994
+35,Celta,Barcelona,0:4,4,Barcelona,1993/1994
+35,Rayo,Valladolid,0:1,1,Valladolid,1993/1994
+35,Athletic,Sevilla,1:1,0,Empate,1993/1994
+35,Real Racing,Atlético,2:0,2,Real Racing,1993/1994
+35,Tenerife,Real Oviedo,2:2,0,Empate,1993/1994
+35,CD Logroñés,Osasuna,3:2,1,CD Logroñés,1993/1994
+35,Valencia,Zaragoza,3:0,3,Valencia,1993/1994
+35,Real Madrid,Real Sociedad,0:2,2,Real Sociedad,1993/1994
+35,Sporting,Albacete,1:0,1,Sporting,1993/1994
+36,Deportivo,Rayo,0:0,0,Empate,1993/1994
+36,Zaragoza,Celta,4:1,3,Zaragoza,1993/1994
+36,Real Oviedo,UE Lleida,0:0,0,Empate,1993/1994
+36,Albacete,Real Madrid,1:4,3,Real Madrid,1993/1994
+36,Barcelona,Sporting,4:0,4,Barcelona,1993/1994
+36,Real Sociedad,Sevilla,0:0,0,Empate,1993/1994
+36,Real Racing,Athletic,2:2,0,Empate,1993/1994
+36,Valladolid,CD Logroñés,2:0,2,Valladolid,1993/1994
+36,Atlético,Tenerife,2:0,2,Atlético,1993/1994
+36,Osasuna,Valencia,3:3,0,Empate,1993/1994
+37,Real Madrid,Barcelona,0:1,1,Barcelona,1993/1994
+37,Tenerife,Real Racing,1:0,1,Tenerife,1993/1994
+37,UE Lleida,Atlético,0:1,1,Atlético,1993/1994
+37,Real Sociedad,Athletic,0:0,0,Empate,1993/1994
+37,Rayo,Real Oviedo,0:0,0,Empate,1993/1994
+37,CD Logroñés,Deportivo,0:2,2,Deportivo,1993/1994
+37,Valencia,Valladolid,5:1,4,Valencia,1993/1994
+37,Sevilla,Albacete,2:0,2,Sevilla,1993/1994
+37,Celta,Osasuna,4:0,4,Celta,1993/1994
+37,Sporting,Zaragoza,0:3,3,Zaragoza,1993/1994
+38,Athletic,Tenerife,3:2,1,Athletic,1993/1994
+38,Deportivo,Valencia,0:0,0,Empate,1993/1994
+38,Barcelona,Sevilla,5:2,3,Barcelona,1993/1994
+38,Real Oviedo,CD Logroñés,1:2,1,CD Logroñés,1993/1994
+38,Atlético,Rayo,2:0,2,Atlético,1993/1994
+38,Valladolid,Celta,0:0,0,Empate,1993/1994
+38,Osasuna,Sporting,3:0,3,Osasuna,1993/1994
+38,Zaragoza,Real Madrid,4:1,3,Zaragoza,1993/1994
+38,Albacete,Real Sociedad,1:1,0,Empate,1993/1994
+38,Real Racing,UE Lleida,2:1,1,Real Racing,1993/1994

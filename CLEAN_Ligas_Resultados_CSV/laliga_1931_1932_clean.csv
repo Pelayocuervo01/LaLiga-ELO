@@ -1,0 +1,91 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Real Madrid,Athletic,1:1,0,Empate,1931/1932
+1,Espanyol,Valencia,3:0,3,Espanyol,1931/1932
+1,Arenas de Getxo,Donostia FC,2:1,1,Arenas de Getxo,1931/1932
+1,Alavés,Real Racing,1:2,1,Real Racing,1931/1932
+1,Real Unión,Barcelona,1:3,2,Barcelona,1931/1932
+2,Donostia FC,Real Madrid,1:2,1,Real Madrid,1931/1932
+2,Real Racing,Espanyol,2:1,1,Real Racing,1931/1932
+2,Barcelona,Arenas de Getxo,2:2,0,Empate,1931/1932
+2,Athletic,Alavés,3:2,1,Athletic,1931/1932
+2,Valencia,Real Unión,5:1,4,Valencia,1931/1932
+3,Valencia,Real Madrid,1:1,0,Empate,1931/1932
+3,Arenas de Getxo,Real Racing,3:1,2,Arenas de Getxo,1931/1932
+3,Alavés,Donostia FC,1:2,1,Donostia FC,1931/1932
+3,Espanyol,Barcelona,0:3,3,Barcelona,1931/1932
+3,Real Unión,Athletic,1:5,4,Athletic,1931/1932
+4,Athletic,Barcelona,3:0,3,Athletic,1931/1932
+4,Donostia FC,Valencia,7:1,6,Donostia FC,1931/1932
+4,Espanyol,Arenas de Getxo,4:2,2,Espanyol,1931/1932
+4,Real Madrid,Alavés,5:0,5,Real Madrid,1931/1932
+4,Real Racing,Real Unión,2:2,0,Empate,1931/1932
+5,Valencia,Athletic,0:0,0,Empate,1931/1932
+5,Arenas de Getxo,Real Madrid,2:2,0,Empate,1931/1932
+5,Donostia FC,Real Unión,5:0,5,Donostia FC,1931/1932
+5,Barcelona,Real Racing,4:2,2,Barcelona,1931/1932
+5,Alavés,Espanyol,4:1,3,Alavés,1931/1932
+6,Real Madrid,Espanyol,3:0,3,Real Madrid,1931/1932
+6,Real Racing,Valencia,4:1,3,Real Racing,1931/1932
+6,Athletic,Donostia FC,5:1,4,Athletic,1931/1932
+6,Real Unión,Arenas de Getxo,1:0,1,Real Unión,1931/1932
+6,Barcelona,Alavés,6:0,6,Barcelona,1931/1932
+7,Donostia FC,Real Racing,1:5,4,Real Racing,1931/1932
+7,Arenas de Getxo,Alavés,4:2,2,Arenas de Getxo,1931/1932
+7,Espanyol,Athletic,1:0,1,Espanyol,1931/1932
+7,Valencia,Barcelona,0:0,0,Empate,1931/1932
+7,Real Madrid,Real Unión,3:2,1,Real Madrid,1931/1932
+8,Real Racing,Real Madrid,0:0,0,Empate,1931/1932
+8,Real Unión,Espanyol,4:1,3,Real Unión,1931/1932
+8,Alavés,Valencia,2:1,1,Alavés,1931/1932
+8,Barcelona,Donostia FC,2:0,2,Barcelona,1931/1932
+8,Athletic,Arenas de Getxo,4:1,3,Athletic,1931/1932
+9,Real Unión,Alavés,0:2,2,Alavés,1931/1932
+9,Real Madrid,Barcelona,2:0,2,Real Madrid,1931/1932
+9,Espanyol,Donostia FC,2:0,2,Espanyol,1931/1932
+9,Athletic,Real Racing,3:2,1,Athletic,1931/1932
+9,Valencia,Arenas de Getxo,3:2,1,Valencia,1931/1932
+10,Valencia,Espanyol,3:1,2,Valencia,1931/1932
+10,Donostia FC,Arenas de Getxo,7:0,7,Donostia FC,1931/1932
+10,Real Racing,Alavés,1:1,0,Empate,1931/1932
+10,Barcelona,Real Unión,3:2,1,Barcelona,1931/1932
+10,Athletic,Real Madrid,3:3,0,Empate,1931/1932
+11,Arenas de Getxo,Barcelona,1:3,2,Barcelona,1931/1932
+11,Alavés,Athletic,0:1,1,Athletic,1931/1932
+11,Real Madrid,Donostia FC,1:0,1,Real Madrid,1931/1932
+11,Real Unión,Valencia,3:2,1,Real Unión,1931/1932
+11,Espanyol,Real Racing,6:1,5,Espanyol,1931/1932
+12,Barcelona,Espanyol,2:2,0,Empate,1931/1932
+12,Athletic,Real Unión,2:1,1,Athletic,1931/1932
+12,Donostia FC,Alavés,4:1,3,Donostia FC,1931/1932
+12,Real Madrid,Valencia,4:1,3,Real Madrid,1931/1932
+12,Real Racing,Arenas de Getxo,1:1,0,Empate,1931/1932
+13,Alavés,Real Madrid,0:1,1,Real Madrid,1931/1932
+13,Barcelona,Athletic,1:3,2,Athletic,1931/1932
+13,Arenas de Getxo,Espanyol,3:2,1,Arenas de Getxo,1931/1932
+13,Valencia,Donostia FC,4:0,4,Valencia,1931/1932
+13,Real Unión,Real Racing,2:2,0,Empate,1931/1932
+14,Athletic,Valencia,7:2,5,Athletic,1931/1932
+14,Espanyol,Alavés,4:0,4,Espanyol,1931/1932
+14,Real Madrid,Arenas de Getxo,4:0,4,Real Madrid,1931/1932
+14,Real Racing,Barcelona,3:2,1,Real Racing,1931/1932
+14,Real Unión,Donostia FC,2:0,2,Real Unión,1931/1932
+15,Espanyol,Real Madrid,1:2,1,Real Madrid,1931/1932
+15,Alavés,Barcelona,1:3,2,Barcelona,1931/1932
+15,Donostia FC,Athletic,3:2,1,Donostia FC,1931/1932
+15,Valencia,Real Racing,6:4,2,Valencia,1931/1932
+15,Arenas de Getxo,Real Unión,5:0,5,Arenas de Getxo,1931/1932
+16,Barcelona,Valencia,3:2,1,Barcelona,1931/1932
+16,Real Racing,Donostia FC,2:1,1,Real Racing,1931/1932
+16,Athletic,Espanyol,4:0,4,Athletic,1931/1932
+16,Real Unión,Real Madrid,1:1,0,Empate,1931/1932
+16,Alavés,Arenas de Getxo,3:1,2,Alavés,1931/1932
+17,Donostia FC,Barcelona,0:1,1,Barcelona,1931/1932
+17,Arenas de Getxo,Athletic,2:1,1,Arenas de Getxo,1931/1932
+17,Real Madrid,Real Racing,0:0,0,Empate,1931/1932
+17,Valencia,Alavés,5:1,4,Valencia,1931/1932
+17,Espanyol,Real Unión,3:1,2,Espanyol,1931/1932
+18,Alavés,Real Unión,1:0,1,Alavés,1931/1932
+18,Barcelona,Real Madrid,2:2,0,Empate,1931/1932
+18,Real Racing,Athletic,2:0,2,Real Racing,1931/1932
+18,Donostia FC,Espanyol,5:2,3,Donostia FC,1931/1932
+18,Arenas de Getxo,Valencia,4:1,3,Arenas de Getxo,1931/1932

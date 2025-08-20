@@ -1,0 +1,381 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Almería,Rayo,0:2,2,Rayo,2023/2024
+1,Sevilla,Valencia,1:2,1,Valencia,2023/2024
+1,Real Sociedad,Girona,1:1,0,Empate,2023/2024
+1,Las Palmas,Mallorca,1:1,0,Empate,2023/2024
+1,Athletic,Real Madrid,0:2,2,Real Madrid,2023/2024
+1,Celta,Osasuna,0:2,2,Osasuna,2023/2024
+1,Villarreal,Betis,1:2,1,Betis,2023/2024
+1,Getafe,Barcelona,0:0,0,Empate,2023/2024
+1,Cádiz CF,Alavés,1:0,1,Cádiz CF,2023/2024
+1,Atlético,Granada,3:1,2,Atlético,2023/2024
+2,Mallorca,Villarreal,0:1,1,Villarreal,2023/2024
+2,Valencia,Las Palmas,1:0,1,Valencia,2023/2024
+2,Real Sociedad,Celta,1:1,0,Empate,2023/2024
+2,Almería,Real Madrid,1:3,2,Real Madrid,2023/2024
+2,Osasuna,Athletic,0:2,2,Athletic,2023/2024
+2,Girona,Getafe,3:0,3,Girona,2023/2024
+2,Barcelona,Cádiz CF,2:0,2,Barcelona,2023/2024
+2,Betis,Atlético,0:0,0,Empate,2023/2024
+2,Alavés,Sevilla,4:3,1,Alavés,2023/2024
+2,Granada,Rayo,0:2,2,Rayo,2023/2024
+3,Las Palmas,Real Sociedad,0:0,0,Empate,2023/2024
+3,Celta,Real Madrid,0:1,1,Real Madrid,2023/2024
+3,Cádiz CF,Almería,1:1,0,Empate,2023/2024
+3,Granada,Mallorca,3:2,1,Granada,2023/2024
+3,Sevilla,Girona,1:2,1,Girona,2023/2024
+3,Villarreal,Barcelona,3:4,1,Barcelona,2023/2024
+3,Valencia,Osasuna,1:2,1,Osasuna,2023/2024
+3,Athletic,Betis,4:2,2,Athletic,2023/2024
+3,Getafe,Alavés,1:0,1,Getafe,2023/2024
+3,Rayo,Atlético,0:7,7,Atlético,2023/2024
+4,Cádiz CF,Villarreal,3:1,2,Cádiz CF,2023/2024
+4,Almería,Celta,2:3,1,Celta,2023/2024
+4,Real Sociedad,Granada,5:3,2,Real Sociedad,2023/2024
+4,Real Madrid,Getafe,2:1,1,Real Madrid,2023/2024
+4,Alavés,Valencia,1:0,1,Alavés,2023/2024
+4,Betis,Rayo,1:0,1,Betis,2023/2024
+4,Girona,Las Palmas,1:0,1,Girona,2023/2024
+4,Mallorca,Athletic,0:0,0,Empate,2023/2024
+4,Osasuna,Barcelona,1:2,1,Barcelona,2023/2024
+4,Atlético,Sevilla,1:0,1,Atlético,2023/2024
+5,Rayo,Alavés,2:0,2,Rayo,2023/2024
+5,Athletic,Cádiz CF,3:0,3,Athletic,2023/2024
+5,Valencia,Atlético,3:0,3,Valencia,2023/2024
+5,Celta,Mallorca,0:1,1,Mallorca,2023/2024
+5,Barcelona,Betis,5:0,5,Barcelona,2023/2024
+5,Getafe,Osasuna,3:2,1,Getafe,2023/2024
+5,Villarreal,Almería,2:1,1,Villarreal,2023/2024
+5,Sevilla,Las Palmas,1:0,1,Sevilla,2023/2024
+5,Real Madrid,Real Sociedad,2:1,1,Real Madrid,2023/2024
+5,Granada,Girona,2:4,2,Girona,2023/2024
+6,Alavés,Athletic,0:2,2,Athletic,2023/2024
+6,Girona,Mallorca,5:3,2,Girona,2023/2024
+6,Osasuna,Sevilla,0:0,0,Empate,2023/2024
+6,Barcelona,Celta,3:2,1,Barcelona,2023/2024
+6,Almería,Valencia,2:2,0,Empate,2023/2024
+6,Real Sociedad,Getafe,4:3,1,Real Sociedad,2023/2024
+6,Rayo,Villarreal,1:1,0,Empate,2023/2024
+6,Betis,Cádiz CF,1:1,0,Empate,2023/2024
+6,Las Palmas,Granada,1:0,1,Las Palmas,2023/2024
+6,Atlético,Real Madrid,3:1,2,Atlético,2023/2024
+7,Sevilla,Almería,5:1,4,Sevilla,2023/2024
+7,Mallorca,Barcelona,2:2,0,Empate,2023/2024
+7,Athletic,Getafe,2:2,0,Empate,2023/2024
+7,Villarreal,Girona,1:2,1,Girona,2023/2024
+7,Real Madrid,Las Palmas,2:0,2,Real Madrid,2023/2024
+7,Cádiz CF,Rayo,0:0,0,Empate,2023/2024
+7,Valencia,Real Sociedad,0:1,1,Real Sociedad,2023/2024
+7,Celta,Alavés,1:1,0,Empate,2023/2024
+7,Granada,Betis,1:1,0,Empate,2023/2024
+7,Osasuna,Atlético,0:2,2,Atlético,2023/2024
+8,Barcelona,Sevilla,1:0,1,Barcelona,2023/2024
+8,Getafe,Villarreal,0:0,0,Empate,2023/2024
+8,Rayo,Mallorca,2:2,0,Empate,2023/2024
+8,Girona,Real Madrid,0:3,3,Real Madrid,2023/2024
+8,Real Sociedad,Athletic,3:0,3,Real Sociedad,2023/2024
+8,Almería,Granada,3:3,0,Empate,2023/2024
+8,Alavés,Osasuna,0:2,2,Osasuna,2023/2024
+8,Atlético,Cádiz CF,3:2,1,Atlético,2023/2024
+8,Betis,Valencia,3:0,3,Betis,2023/2024
+8,Las Palmas,Celta,2:1,1,Las Palmas,2023/2024
+9,Athletic,Almería,3:0,3,Athletic,2023/2024
+9,Cádiz CF,Girona,0:1,1,Girona,2023/2024
+9,Real Madrid,Osasuna,4:0,4,Real Madrid,2023/2024
+9,Mallorca,Valencia,1:1,0,Empate,2023/2024
+9,Sevilla,Rayo,2:2,0,Empate,2023/2024
+9,Villarreal,Las Palmas,1:2,1,Las Palmas,2023/2024
+9,Atlético,Real Sociedad,2:1,1,Atlético,2023/2024
+9,Celta,Getafe,2:2,0,Empate,2023/2024
+9,Alavés,Betis,1:1,0,Empate,2023/2024
+9,Granada,Barcelona,2:2,0,Empate,2023/2024
+10,Osasuna,Granada,2:0,2,Osasuna,2023/2024
+10,Real Sociedad,Mallorca,1:0,1,Real Sociedad,2023/2024
+10,Getafe,Betis,1:1,0,Empate,2023/2024
+10,Sevilla,Real Madrid,1:1,0,Empate,2023/2024
+10,Celta,Atlético,0:3,3,Atlético,2023/2024
+10,Las Palmas,Rayo,0:1,1,Rayo,2023/2024
+10,Girona,Almería,5:2,3,Girona,2023/2024
+10,Villarreal,Alavés,1:1,0,Empate,2023/2024
+10,Barcelona,Athletic,1:0,1,Barcelona,2023/2024
+10,Valencia,Cádiz CF,2:0,2,Valencia,2023/2024
+11,Girona,Celta,1:0,1,Girona,2023/2024
+11,Almería,Las Palmas,1:2,1,Las Palmas,2023/2024
+11,Barcelona,Real Madrid,1:2,1,Real Madrid,2023/2024
+11,Mallorca,Getafe,0:0,0,Empate,2023/2024
+11,Cádiz CF,Sevilla,2:2,0,Empate,2023/2024
+11,Betis,Osasuna,2:1,1,Betis,2023/2024
+11,Rayo,Real Sociedad,2:2,0,Empate,2023/2024
+11,Athletic,Valencia,2:2,0,Empate,2023/2024
+11,Atlético,Alavés,2:1,1,Atlético,2023/2024
+11,Granada,Villarreal,2:3,1,Villarreal,2023/2024
+12,Las Palmas,Atlético,2:1,1,Las Palmas,2023/2024
+12,Osasuna,Girona,2:4,2,Girona,2023/2024
+12,Betis,Mallorca,2:0,2,Betis,2023/2024
+12,Celta,Sevilla,1:1,0,Empate,2023/2024
+12,Real Sociedad,Barcelona,0:1,1,Barcelona,2023/2024
+12,Alavés,Almería,1:0,1,Alavés,2023/2024
+12,Valencia,Granada,1:0,1,Valencia,2023/2024
+12,Villarreal,Athletic,2:3,1,Athletic,2023/2024
+12,Real Madrid,Rayo,0:0,0,Empate,2023/2024
+12,Getafe,Cádiz CF,1:0,1,Getafe,2023/2024
+13,Athletic,Celta,4:3,1,Athletic,2023/2024
+13,Rayo,Girona,1:2,1,Girona,2023/2024
+13,Almería,Real Sociedad,1:3,2,Real Sociedad,2023/2024
+13,Osasuna,Las Palmas,1:1,0,Empate,2023/2024
+13,Granada,Getafe,1:1,0,Empate,2023/2024
+13,Real Madrid,Valencia,5:1,4,Real Madrid,2023/2024
+13,Barcelona,Alavés,2:1,1,Barcelona,2023/2024
+13,Sevilla,Betis,1:1,0,Empate,2023/2024
+13,Atlético,Villarreal,3:1,2,Atlético,2023/2024
+13,Mallorca,Cádiz CF,1:1,0,Empate,2023/2024
+14,Alavés,Granada,3:1,2,Alavés,2023/2024
+14,Rayo,Barcelona,1:1,0,Empate,2023/2024
+14,Valencia,Celta,0:0,0,Empate,2023/2024
+14,Getafe,Almería,2:1,1,Getafe,2023/2024
+14,Atlético,Mallorca,1:0,1,Atlético,2023/2024
+14,Villarreal,Osasuna,3:1,2,Villarreal,2023/2024
+14,Real Sociedad,Sevilla,2:1,1,Real Sociedad,2023/2024
+14,Cádiz CF,Real Madrid,0:3,3,Real Madrid,2023/2024
+14,Betis,Las Palmas,1:0,1,Betis,2023/2024
+14,Girona,Athletic,1:1,0,Empate,2023/2024
+15,Las Palmas,Getafe,2:0,2,Las Palmas,2023/2024
+15,Girona,Valencia,2:1,1,Girona,2023/2024
+15,Athletic,Rayo,4:0,4,Athletic,2023/2024
+15,Real Madrid,Granada,2:0,2,Real Madrid,2023/2024
+15,Osasuna,Real Sociedad,1:1,0,Empate,2023/2024
+15,Mallorca,Alavés,0:0,0,Empate,2023/2024
+15,Almería,Betis,0:0,0,Empate,2023/2024
+15,Sevilla,Villarreal,1:1,0,Empate,2023/2024
+15,Barcelona,Atlético,1:0,1,Barcelona,2023/2024
+15,Celta,Cádiz CF,1:1,0,Empate,2023/2024
+16,Getafe,Valencia,1:0,1,Getafe,2023/2024
+16,Alavés,Las Palmas,0:1,1,Las Palmas,2023/2024
+16,Betis,Real Madrid,1:1,0,Empate,2023/2024
+16,Villarreal,Real Sociedad,0:3,3,Real Sociedad,2023/2024
+16,Mallorca,Sevilla,1:0,1,Mallorca,2023/2024
+16,Atlético,Almería,2:1,1,Atlético,2023/2024
+16,Cádiz CF,Osasuna,1:1,0,Empate,2023/2024
+16,Barcelona,Girona,2:4,2,Girona,2023/2024
+16,Granada,Athletic,1:1,0,Empate,2023/2024
+16,Rayo,Celta,0:0,0,Empate,2023/2024
+17,Osasuna,Rayo,1:0,1,Osasuna,2023/2024
+17,Celta,Granada,1:0,1,Celta,2023/2024
+17,Athletic,Atlético,2:0,2,Athletic,2023/2024
+17,Sevilla,Getafe,0:3,3,Getafe,2023/2024
+17,Valencia,Barcelona,1:1,0,Empate,2023/2024
+17,Almería,Mallorca,0:0,0,Empate,2023/2024
+17,Real Sociedad,Betis,0:0,0,Empate,2023/2024
+17,Las Palmas,Cádiz CF,1:1,0,Empate,2023/2024
+17,Real Madrid,Villarreal,4:1,3,Real Madrid,2023/2024
+17,Girona,Alavés,3:0,3,Girona,2023/2024
+18,Rayo,Valencia,0:1,1,Valencia,2023/2024
+18,Atlético,Getafe,3:3,0,Empate,2023/2024
+18,Granada,Sevilla,0:3,3,Sevilla,2023/2024
+18,Barcelona,Almería,3:2,1,Barcelona,2023/2024
+18,Athletic,Las Palmas,1:0,1,Athletic,2023/2024
+18,Villarreal,Celta,3:2,1,Villarreal,2023/2024
+18,Betis,Girona,1:1,0,Empate,2023/2024
+18,Cádiz CF,Real Sociedad,0:0,0,Empate,2023/2024
+18,Alavés,Real Madrid,0:1,1,Real Madrid,2023/2024
+18,Mallorca,Osasuna,3:2,1,Mallorca,2023/2024
+19,Getafe,Rayo,0:2,2,Rayo,2023/2024
+19,Real Sociedad,Alavés,1:1,0,Empate,2023/2024
+19,Valencia,Villarreal,3:1,2,Valencia,2023/2024
+19,Granada,Cádiz CF,2:0,2,Granada,2023/2024
+19,Celta,Betis,2:1,1,Celta,2023/2024
+19,Real Madrid,Mallorca,1:0,1,Real Madrid,2023/2024
+19,Girona,Atlético,4:3,1,Girona,2023/2024
+19,Osasuna,Almería,1:0,1,Osasuna,2023/2024
+19,Sevilla,Athletic,0:2,2,Athletic,2023/2024
+19,Las Palmas,Barcelona,1:2,1,Barcelona,2023/2024
+20,Sevilla,Alavés,2:3,1,Alavés,2023/2024
+20,Las Palmas,Villarreal,3:0,3,Las Palmas,2023/2024
+20,Mallorca,Celta,1:1,0,Empate,2023/2024
+20,Athletic,Real Sociedad,2:1,1,Athletic,2023/2024
+20,Betis,Granada,1:0,1,Betis,2023/2024
+20,Almería,Girona,0:0,0,Empate,2023/2024
+20,Cádiz CF,Valencia,1:4,3,Valencia,2023/2024
+20,Barcelona,Osasuna,1:0,1,Barcelona,2023/2024
+20,Atlético,Rayo,2:1,1,Atlético,2023/2024
+20,Getafe,Real Madrid,0:2,2,Real Madrid,2023/2024
+21,Alavés,Cádiz CF,1:0,1,Alavés,2023/2024
+21,Rayo,Las Palmas,0:2,2,Las Palmas,2023/2024
+21,Villarreal,Mallorca,1:1,0,Empate,2023/2024
+21,Valencia,Athletic,1:0,1,Valencia,2023/2024
+21,Celta,Real Sociedad,0:1,1,Real Sociedad,2023/2024
+21,Osasuna,Getafe,3:2,1,Osasuna,2023/2024
+21,Real Madrid,Almería,3:2,1,Real Madrid,2023/2024
+21,Betis,Barcelona,2:4,2,Barcelona,2023/2024
+21,Girona,Sevilla,5:1,4,Girona,2023/2024
+21,Granada,Atlético,0:1,1,Atlético,2023/2024
+22,Almería,Alavés,0:3,3,Alavés,2023/2024
+22,Real Sociedad,Rayo,0:0,0,Empate,2023/2024
+22,Las Palmas,Real Madrid,1:2,1,Real Madrid,2023/2024
+22,Barcelona,Villarreal,3:5,2,Villarreal,2023/2024
+22,Mallorca,Betis,0:1,1,Betis,2023/2024
+22,Celta,Girona,0:1,1,Girona,2023/2024
+22,Cádiz CF,Athletic,0:0,0,Empate,2023/2024
+22,Sevilla,Osasuna,1:1,0,Empate,2023/2024
+22,Atlético,Valencia,2:0,2,Atlético,2023/2024
+22,Getafe,Granada,2:0,2,Getafe,2023/2024
+23,Athletic,Mallorca,4:0,4,Athletic,2023/2024
+23,Valencia,Almería,2:1,1,Valencia,2023/2024
+23,Granada,Las Palmas,1:1,0,Empate,2023/2024
+23,Alavés,Barcelona,1:3,2,Barcelona,2023/2024
+23,Girona,Real Sociedad,0:0,0,Empate,2023/2024
+23,Villarreal,Cádiz CF,0:0,0,Empate,2023/2024
+23,Osasuna,Celta,0:3,3,Celta,2023/2024
+23,Betis,Getafe,1:1,0,Empate,2023/2024
+23,Real Madrid,Atlético,1:1,0,Empate,2023/2024
+23,Rayo,Sevilla,1:2,1,Sevilla,2023/2024
+24,Cádiz CF,Betis,0:2,2,Betis,2023/2024
+24,Alavés,Villarreal,1:1,0,Empate,2023/2024
+24,Real Sociedad,Osasuna,0:1,1,Osasuna,2023/2024
+24,Real Madrid,Girona,4:0,4,Real Madrid,2023/2024
+24,Las Palmas,Valencia,2:0,2,Las Palmas,2023/2024
+24,Getafe,Celta,3:2,1,Getafe,2023/2024
+24,Mallorca,Rayo,2:1,1,Mallorca,2023/2024
+24,Sevilla,Atlético,1:0,1,Sevilla,2023/2024
+24,Barcelona,Granada,3:3,0,Empate,2023/2024
+24,Almería,Athletic,0:0,0,Empate,2023/2024
+25,Villarreal,Getafe,1:1,0,Empate,2023/2024
+25,Atlético,Las Palmas,5:0,5,Atlético,2023/2024
+25,Osasuna,Cádiz CF,2:0,2,Osasuna,2023/2024
+25,Celta,Barcelona,1:2,1,Barcelona,2023/2024
+25,Valencia,Sevilla,0:0,0,Empate,2023/2024
+25,Rayo,Real Madrid,1:1,0,Empate,2023/2024
+25,Granada,Almería,1:1,0,Empate,2023/2024
+25,Mallorca,Real Sociedad,1:2,1,Real Sociedad,2023/2024
+25,Betis,Alavés,0:0,0,Empate,2023/2024
+25,Athletic,Girona,3:2,1,Athletic,2023/2024
+26,Real Sociedad,Villarreal,1:3,2,Villarreal,2023/2024
+26,Barcelona,Getafe,4:0,4,Barcelona,2023/2024
+26,Alavés,Mallorca,1:1,0,Empate,2023/2024
+26,Almería,Atlético,2:2,0,Empate,2023/2024
+26,Cádiz CF,Celta,2:2,0,Empate,2023/2024
+26,Betis,Athletic,3:1,2,Betis,2023/2024
+26,Las Palmas,Osasuna,1:1,0,Empate,2023/2024
+26,Real Madrid,Sevilla,1:0,1,Real Madrid,2023/2024
+26,Girona,Rayo,3:0,3,Girona,2023/2024
+26,Granada,Valencia,0:1,1,Valencia,2023/2024
+27,Celta,Almería,1:0,1,Celta,2023/2024
+27,Sevilla,Real Sociedad,3:2,1,Sevilla,2023/2024
+27,Rayo,Cádiz CF,1:1,0,Empate,2023/2024
+27,Getafe,Las Palmas,3:3,0,Empate,2023/2024
+27,Valencia,Real Madrid,2:2,0,Empate,2023/2024
+27,Villarreal,Granada,5:1,4,Villarreal,2023/2024
+27,Atlético,Betis,2:1,1,Atlético,2023/2024
+27,Mallorca,Girona,1:0,1,Mallorca,2023/2024
+27,Athletic,Barcelona,0:0,0,Empate,2023/2024
+27,Osasuna,Alavés,1:0,1,Osasuna,2023/2024
+28,Barcelona,Mallorca,1:0,1,Barcelona,2023/2024
+28,Valencia,Getafe,1:0,1,Valencia,2023/2024
+28,Cádiz CF,Atlético,2:0,2,Cádiz CF,2023/2024
+28,Granada,Real Sociedad,2:3,1,Real Sociedad,2023/2024
+28,Girona,Osasuna,2:0,2,Girona,2023/2024
+28,Alavés,Rayo,1:0,1,Alavés,2023/2024
+28,Las Palmas,Athletic,0:2,2,Athletic,2023/2024
+28,Real Madrid,Celta,4:0,4,Real Madrid,2023/2024
+28,Betis,Villarreal,2:3,1,Villarreal,2023/2024
+28,Almería,Sevilla,2:2,0,Empate,2023/2024
+29,Real Sociedad,Cádiz CF,2:0,2,Real Sociedad,2023/2024
+29,Mallorca,Granada,1:0,1,Mallorca,2023/2024
+29,Osasuna,Real Madrid,2:4,2,Real Madrid,2023/2024
+29,Getafe,Girona,1:0,1,Getafe,2023/2024
+29,Athletic,Alavés,2:0,2,Athletic,2023/2024
+29,Sevilla,Celta,1:2,1,Celta,2023/2024
+29,Villarreal,Valencia,1:0,1,Villarreal,2023/2024
+29,Las Palmas,Almería,0:1,1,Almería,2023/2024
+29,Rayo,Betis,2:0,2,Rayo,2023/2024
+29,Atlético,Barcelona,0:3,3,Barcelona,2023/2024
+30,Cádiz CF,Granada,1:0,1,Cádiz CF,2023/2024
+30,Getafe,Sevilla,0:1,1,Sevilla,2023/2024
+30,Almería,Osasuna,0:3,3,Osasuna,2023/2024
+30,Valencia,Mallorca,0:0,0,Empate,2023/2024
+30,Barcelona,Las Palmas,1:0,1,Barcelona,2023/2024
+30,Celta,Rayo,0:0,0,Empate,2023/2024
+30,Girona,Betis,3:2,1,Girona,2023/2024
+30,Alavés,Real Sociedad,0:1,1,Real Sociedad,2023/2024
+30,Real Madrid,Athletic,2:0,2,Real Madrid,2023/2024
+30,Villarreal,Atlético,1:2,1,Atlético,2023/2024
+31,Betis,Celta,2:1,1,Betis,2023/2024
+31,Atlético,Girona,3:1,2,Atlético,2023/2024
+31,Rayo,Getafe,0:0,0,Empate,2023/2024
+31,Mallorca,Real Madrid,0:1,1,Real Madrid,2023/2024
+31,Cádiz CF,Barcelona,0:1,1,Barcelona,2023/2024
+31,Las Palmas,Sevilla,0:2,2,Sevilla,2023/2024
+31,Granada,Alavés,2:0,2,Granada,2023/2024
+31,Athletic,Villarreal,1:1,0,Empate,2023/2024
+31,Real Sociedad,Almería,2:2,0,Empate,2023/2024
+31,Osasuna,Valencia,0:1,1,Valencia,2023/2024
+32,Athletic,Granada,1:1,0,Empate,2023/2024
+32,Celta,Las Palmas,4:1,3,Celta,2023/2024
+32,Rayo,Osasuna,2:1,1,Rayo,2023/2024
+32,Valencia,Betis,1:2,1,Betis,2023/2024
+32,Girona,Cádiz CF,4:1,3,Girona,2023/2024
+32,Getafe,Real Sociedad,1:1,0,Empate,2023/2024
+32,Almería,Villarreal,1:2,1,Villarreal,2023/2024
+32,Alavés,Atlético,2:0,2,Alavés,2023/2024
+32,Real Madrid,Barcelona,3:2,1,Real Madrid,2023/2024
+32,Sevilla,Mallorca,2:1,1,Sevilla,2023/2024
+33,Real Sociedad,Real Madrid,0:1,1,Real Madrid,2023/2024
+33,Las Palmas,Girona,0:2,2,Girona,2023/2024
+33,Almería,Getafe,1:3,2,Getafe,2023/2024
+33,Alavés,Celta,3:0,3,Alavés,2023/2024
+33,Atlético,Athletic,3:1,2,Atlético,2023/2024
+33,Cádiz CF,Mallorca,1:1,0,Empate,2023/2024
+33,Granada,Osasuna,3:0,3,Granada,2023/2024
+33,Villarreal,Rayo,3:0,3,Villarreal,2023/2024
+33,Betis,Sevilla,1:1,0,Empate,2023/2024
+33,Barcelona,Valencia,4:2,2,Barcelona,2023/2024
+34,Getafe,Athletic,0:2,2,Athletic,2023/2024
+34,Real Sociedad,Las Palmas,2:0,2,Real Sociedad,2023/2024
+34,Real Madrid,Cádiz CF,3:0,3,Real Madrid,2023/2024
+34,Girona,Barcelona,4:2,2,Girona,2023/2024
+34,Mallorca,Atlético,0:1,1,Atlético,2023/2024
+34,Osasuna,Betis,0:2,2,Betis,2023/2024
+34,Celta,Villarreal,3:2,1,Celta,2023/2024
+34,Valencia,Alavés,0:1,1,Alavés,2023/2024
+34,Sevilla,Granada,3:0,3,Sevilla,2023/2024
+34,Rayo,Almería,0:1,1,Almería,2023/2024
+35,Alavés,Girona,2:2,0,Empate,2023/2024
+35,Mallorca,Las Palmas,1:0,1,Mallorca,2023/2024
+35,Villarreal,Sevilla,3:2,1,Villarreal,2023/2024
+35,Granada,Real Madrid,0:4,4,Real Madrid,2023/2024
+35,Athletic,Osasuna,2:2,0,Empate,2023/2024
+35,Cádiz CF,Getafe,1:0,1,Cádiz CF,2023/2024
+35,Atlético,Celta,1:0,1,Atlético,2023/2024
+35,Valencia,Rayo,0:0,0,Empate,2023/2024
+35,Betis,Almería,3:2,1,Betis,2023/2024
+35,Barcelona,Real Sociedad,2:0,2,Barcelona,2023/2024
+36,Osasuna,Mallorca,1:1,0,Empate,2023/2024
+36,Real Madrid,Alavés,5:0,5,Real Madrid,2023/2024
+36,Girona,Villarreal,0:1,1,Villarreal,2023/2024
+36,Sevilla,Cádiz CF,0:1,1,Cádiz CF,2023/2024
+36,Rayo,Granada,2:1,1,Rayo,2023/2024
+36,Celta,Athletic,2:1,1,Celta,2023/2024
+36,Getafe,Atlético,0:3,3,Atlético,2023/2024
+36,Las Palmas,Betis,2:2,0,Empate,2023/2024
+36,Almería,Barcelona,0:2,2,Barcelona,2023/2024
+36,Real Sociedad,Valencia,1:0,1,Real Sociedad,2023/2024
+37,Alavés,Getafe,1:0,1,Alavés,2023/2024
+37,Athletic,Sevilla,2:0,2,Athletic,2023/2024
+37,Atlético,Osasuna,1:4,3,Osasuna,2023/2024
+37,Betis,Real Sociedad,0:2,2,Real Sociedad,2023/2024
+37,Barcelona,Rayo,3:0,3,Barcelona,2023/2024
+37,Cádiz CF,Las Palmas,0:0,0,Empate,2023/2024
+37,Granada,Celta,1:2,1,Celta,2023/2024
+37,Valencia,Girona,1:3,2,Girona,2023/2024
+37,Villarreal,Real Madrid,4:4,0,Empate,2023/2024
+37,Mallorca,Almería,2:2,0,Empate,2023/2024
+38,Girona,Granada,7:0,7,Girona,2023/2024
+38,Osasuna,Villarreal,1:1,0,Empate,2023/2024
+38,Real Sociedad,Atlético,0:2,2,Atlético,2023/2024
+38,Rayo,Athletic,0:1,1,Athletic,2023/2024
+38,Almería,Cádiz CF,6:1,5,Almería,2023/2024
+38,Real Madrid,Betis,0:0,0,Empate,2023/2024
+38,Getafe,Mallorca,1:2,1,Mallorca,2023/2024
+38,Celta,Valencia,2:2,0,Empate,2023/2024
+38,Las Palmas,Alavés,1:1,0,Empate,2023/2024
+38,Sevilla,Barcelona,1:2,1,Barcelona,2023/2024

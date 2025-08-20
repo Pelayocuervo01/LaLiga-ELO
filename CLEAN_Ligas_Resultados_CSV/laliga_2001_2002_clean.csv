@@ -1,0 +1,381 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Valencia,Real Madrid,1:0,1,Valencia,2001/2002
+1,Mallorca,Las Palmas,0:3,3,Las Palmas,2001/2002
+1,Deportivo,Valladolid,4:0,4,Deportivo,2001/2002
+1,Espanyol,Zaragoza,2:1,1,Espanyol,2001/2002
+1,Real Sociedad,Athletic,1:3,2,Athletic,2001/2002
+1,Sevilla,Barcelona,1:2,1,Barcelona,2001/2002
+1,Tenerife,Alavés,0:2,2,Alavés,2001/2002
+1,Osasuna,Celta,0:3,3,Celta,2001/2002
+1,Rayo,Villarreal,1:2,1,Villarreal,2001/2002
+1,Málaga,Betis,3:2,1,Málaga,2001/2002
+2,Athletic,Mallorca,0:1,1,Mallorca,2001/2002
+2,Real Madrid,Málaga,1:1,0,Empate,2001/2002
+2,Villarreal,Osasuna,3:0,3,Villarreal,2001/2002
+2,Las Palmas,Deportivo,0:1,1,Deportivo,2001/2002
+2,Celta,Tenerife,3:0,3,Celta,2001/2002
+2,Zaragoza,Sevilla,1:1,0,Empate,2001/2002
+2,Valladolid,Valencia,1:1,0,Empate,2001/2002
+2,Betis,Espanyol,2:0,2,Betis,2001/2002
+2,Barcelona,Rayo,1:1,0,Empate,2001/2002
+2,Alavés,Real Sociedad,2:0,2,Alavés,2001/2002
+3,Betis,Real Madrid,3:1,2,Betis,2001/2002
+3,Mallorca,Alavés,0:0,0,Empate,2001/2002
+3,Osasuna,Barcelona,0:0,0,Empate,2001/2002
+3,Deportivo,Athletic,1:2,1,Athletic,2001/2002
+3,Real Sociedad,Celta,0:0,0,Empate,2001/2002
+3,Tenerife,Villarreal,2:0,2,Tenerife,2001/2002
+3,Espanyol,Sevilla,2:3,1,Sevilla,2001/2002
+3,Málaga,Valladolid,1:2,1,Valladolid,2001/2002
+3,Valencia,Las Palmas,1:0,1,Valencia,2001/2002
+3,Rayo,Zaragoza,1:2,1,Zaragoza,2001/2002
+4,Barcelona,Tenerife,2:0,2,Barcelona,2001/2002
+4,Las Palmas,Málaga,0:0,0,Empate,2001/2002
+4,Real Madrid,Espanyol,5:1,4,Real Madrid,2001/2002
+4,Alavés,Deportivo,2:3,1,Deportivo,2001/2002
+4,Villarreal,Real Sociedad,1:0,1,Villarreal,2001/2002
+4,Athletic,Valencia,2:2,0,Empate,2001/2002
+4,Celta,Mallorca,2:0,2,Celta,2001/2002
+4,Zaragoza,Osasuna,0:1,1,Osasuna,2001/2002
+4,Valladolid,Betis,0:2,2,Betis,2001/2002
+4,Sevilla,Rayo,2:1,1,Sevilla,2001/2002
+5,Real Madrid,Valladolid,2:2,0,Empate,2001/2002
+5,Espanyol,Rayo,3:1,2,Espanyol,2001/2002
+5,Málaga,Athletic,1:2,1,Athletic,2001/2002
+5,Real Sociedad,Barcelona,0:2,2,Barcelona,2001/2002
+5,Valencia,Alavés,0:0,0,Empate,2001/2002
+5,Betis,Las Palmas,1:0,1,Betis,2001/2002
+5,Mallorca,Villarreal,0:1,1,Villarreal,2001/2002
+5,Osasuna,Sevilla,1:0,1,Osasuna,2001/2002
+5,Tenerife,Zaragoza,0:0,0,Empate,2001/2002
+5,Deportivo,Celta,2:2,0,Empate,2001/2002
+6,Athletic,Betis,0:0,0,Empate,2001/2002
+6,Rayo,Osasuna,0:1,1,Osasuna,2001/2002
+6,Zaragoza,Real Sociedad,3:2,1,Zaragoza,2001/2002
+6,Las Palmas,Real Madrid,4:2,2,Las Palmas,2001/2002
+6,Valladolid,Espanyol,0:1,1,Espanyol,2001/2002
+6,Barcelona,Mallorca,3:0,3,Barcelona,2001/2002
+6,Sevilla,Tenerife,2:0,2,Sevilla,2001/2002
+6,Alavés,Málaga,1:0,1,Alavés,2001/2002
+6,Villarreal,Deportivo,1:1,0,Empate,2001/2002
+6,Celta,Valencia,1:1,0,Empate,2001/2002
+7,Deportivo,Barcelona,2:1,1,Deportivo,2001/2002
+7,Real Madrid,Athletic,2:0,2,Real Madrid,2001/2002
+7,Betis,Alavés,1:0,1,Betis,2001/2002
+7,Mallorca,Zaragoza,0:1,1,Zaragoza,2001/2002
+7,Espanyol,Osasuna,1:1,0,Empate,2001/2002
+7,Valladolid,Las Palmas,1:0,1,Valladolid,2001/2002
+7,Real Sociedad,Sevilla,3:3,0,Empate,2001/2002
+7,Málaga,Celta,2:2,0,Empate,2001/2002
+7,Valencia,Villarreal,1:0,1,Valencia,2001/2002
+7,Tenerife,Rayo,3:1,2,Tenerife,2001/2002
+8,Zaragoza,Deportivo,1:2,1,Deportivo,2001/2002
+8,Sevilla,Mallorca,2:2,0,Empate,2001/2002
+8,Alavés,Real Madrid,0:0,0,Empate,2001/2002
+8,Las Palmas,Espanyol,2:0,2,Las Palmas,2001/2002
+8,Athletic,Valladolid,1:4,3,Valladolid,2001/2002
+8,Celta,Betis,3:1,2,Celta,2001/2002
+8,Villarreal,Málaga,1:2,1,Málaga,2001/2002
+8,Barcelona,Valencia,2:2,0,Empate,2001/2002
+8,Rayo,Real Sociedad,2:1,1,Rayo,2001/2002
+8,Osasuna,Tenerife,0:2,2,Tenerife,2001/2002
+9,Betis,Villarreal,1:1,0,Empate,2001/2002
+9,Las Palmas,Athletic,1:1,0,Empate,2001/2002
+9,Real Sociedad,Osasuna,2:1,1,Real Sociedad,2001/2002
+9,Málaga,Barcelona,1:1,0,Empate,2001/2002
+9,Deportivo,Sevilla,1:0,1,Deportivo,2001/2002
+9,Mallorca,Rayo,3:0,3,Mallorca,2001/2002
+9,Espanyol,Tenerife,2:0,2,Espanyol,2001/2002
+9,Valladolid,Alavés,1:3,2,Alavés,2001/2002
+9,Real Madrid,Celta,1:1,0,Empate,2001/2002
+9,Valencia,Zaragoza,2:0,2,Valencia,2001/2002
+10,Rayo,Deportivo,2:1,1,Rayo,2001/2002
+10,Barcelona,Betis,3:0,3,Barcelona,2001/2002
+10,Tenerife,Real Sociedad,0:1,1,Real Sociedad,2001/2002
+10,Osasuna,Mallorca,4:0,4,Osasuna,2001/2002
+10,Villarreal,Real Madrid,2:3,1,Real Madrid,2001/2002
+10,Athletic,Espanyol,1:1,0,Empate,2001/2002
+10,Celta,Valladolid,1:1,0,Empate,2001/2002
+10,Zaragoza,Málaga,0:2,2,Málaga,2001/2002
+10,Sevilla,Valencia,1:1,0,Empate,2001/2002
+10,Alavés,Las Palmas,1:0,1,Alavés,2001/2002
+11,Athletic,Alavés,2:1,1,Athletic,2001/2002
+11,Valladolid,Villarreal,1:0,1,Valladolid,2001/2002
+11,Mallorca,Tenerife,2:0,2,Mallorca,2001/2002
+11,Espanyol,Real Sociedad,1:2,1,Real Sociedad,2001/2002
+11,Las Palmas,Celta,4:2,2,Las Palmas,2001/2002
+11,Betis,Zaragoza,0:1,1,Zaragoza,2001/2002
+11,Real Madrid,Barcelona,2:0,2,Real Madrid,2001/2002
+11,Málaga,Sevilla,1:3,2,Sevilla,2001/2002
+11,Valencia,Rayo,2:1,1,Valencia,2001/2002
+11,Deportivo,Osasuna,5:1,4,Deportivo,2001/2002
+12,Sevilla,Betis,0:0,0,Empate,2001/2002
+12,Barcelona,Valladolid,4:0,4,Barcelona,2001/2002
+12,Rayo,Málaga,3:0,3,Rayo,2001/2002
+12,Celta,Athletic,2:3,1,Athletic,2001/2002
+12,Zaragoza,Real Madrid,2:1,1,Zaragoza,2001/2002
+12,Real Sociedad,Mallorca,1:2,1,Mallorca,2001/2002
+12,Tenerife,Deportivo,3:1,2,Tenerife,2001/2002
+12,Osasuna,Valencia,0:0,0,Empate,2001/2002
+12,Alavés,Espanyol,2:1,1,Alavés,2001/2002
+12,Villarreal,Las Palmas,2:0,2,Villarreal,2001/2002
+13,Las Palmas,Barcelona,0:0,0,Empate,2001/2002
+13,Real Madrid,Sevilla,2:1,1,Real Madrid,2001/2002
+13,Deportivo,Real Sociedad,3:1,2,Deportivo,2001/2002
+13,Valladolid,Zaragoza,2:0,2,Valladolid,2001/2002
+13,Valencia,Tenerife,0:0,0,Empate,2001/2002
+13,Athletic,Villarreal,0:0,0,Empate,2001/2002
+13,Espanyol,Mallorca,2:1,1,Espanyol,2001/2002
+13,Betis,Rayo,2:0,2,Betis,2001/2002
+13,Málaga,Osasuna,2:1,1,Málaga,2001/2002
+13,Alavés,Celta,1:0,1,Alavés,2001/2002
+14,Barcelona,Athletic,1:2,1,Athletic,2001/2002
+14,Tenerife,Málaga,1:0,1,Tenerife,2001/2002
+14,Celta,Espanyol,4:1,3,Celta,2001/2002
+14,Zaragoza,Las Palmas,2:1,1,Zaragoza,2001/2002
+14,Sevilla,Valladolid,4:0,4,Sevilla,2001/2002
+14,Real Sociedad,Valencia,2:0,2,Real Sociedad,2001/2002
+14,Mallorca,Deportivo,4:1,3,Mallorca,2001/2002
+14,Osasuna,Betis,1:2,1,Betis,2001/2002
+14,Rayo,Real Madrid,0:3,3,Real Madrid,2001/2002
+14,Villarreal,Alavés,1:0,1,Villarreal,2001/2002
+15,Espanyol,Deportivo,1:0,1,Espanyol,2001/2002
+15,Real Madrid,Osasuna,2:1,1,Real Madrid,2001/2002
+15,Valencia,Mallorca,1:1,0,Empate,2001/2002
+15,Alavés,Barcelona,2:0,2,Alavés,2001/2002
+15,Celta,Villarreal,3:1,2,Celta,2001/2002
+15,Athletic,Zaragoza,2:1,1,Athletic,2001/2002
+15,Las Palmas,Sevilla,1:0,1,Las Palmas,2001/2002
+15,Valladolid,Rayo,3:1,2,Valladolid,2001/2002
+15,Betis,Tenerife,1:0,1,Betis,2001/2002
+15,Málaga,Real Sociedad,1:0,1,Málaga,2001/2002
+16,Sevilla,Athletic,3:3,0,Empate,2001/2002
+16,Tenerife,Real Madrid,0:2,2,Real Madrid,2001/2002
+16,Real Sociedad,Betis,0:0,0,Empate,2001/2002
+16,Deportivo,Valencia,1:0,1,Deportivo,2001/2002
+16,Zaragoza,Alavés,0:2,2,Alavés,2001/2002
+16,Barcelona,Celta,2:2,0,Empate,2001/2002
+16,Mallorca,Málaga,1:1,0,Empate,2001/2002
+16,Osasuna,Valladolid,1:0,1,Osasuna,2001/2002
+16,Rayo,Las Palmas,0:0,0,Empate,2001/2002
+16,Villarreal,Espanyol,1:1,0,Empate,2001/2002
+17,Espanyol,Valencia,2:3,1,Valencia,2001/2002
+17,Real Madrid,Real Sociedad,3:1,2,Real Madrid,2001/2002
+17,Las Palmas,Osasuna,1:1,0,Empate,2001/2002
+17,Celta,Zaragoza,2:0,2,Celta,2001/2002
+17,Athletic,Rayo,1:1,0,Empate,2001/2002
+17,Betis,Mallorca,1:0,1,Betis,2001/2002
+17,Valladolid,Tenerife,0:0,0,Empate,2001/2002
+17,Málaga,Deportivo,1:1,0,Empate,2001/2002
+17,Alavés,Sevilla,0:1,1,Sevilla,2001/2002
+17,Villarreal,Barcelona,0:1,1,Barcelona,2001/2002
+18,Real Sociedad,Valladolid,6:0,6,Real Sociedad,2001/2002
+18,Tenerife,Las Palmas,1:3,2,Las Palmas,2001/2002
+18,Espanyol,Barcelona,2:0,2,Espanyol,2001/2002
+18,Sevilla,Celta,0:1,1,Celta,2001/2002
+18,Valencia,Málaga,2:1,1,Valencia,2001/2002
+18,Deportivo,Betis,2:0,2,Deportivo,2001/2002
+18,Zaragoza,Villarreal,3:2,1,Zaragoza,2001/2002
+18,Mallorca,Real Madrid,1:1,0,Empate,2001/2002
+18,Osasuna,Athletic,0:1,1,Athletic,2001/2002
+18,Rayo,Alavés,2:0,2,Rayo,2001/2002
+19,Celta,Rayo,2:2,0,Empate,2001/2002
+19,Las Palmas,Real Sociedad,0:0,0,Empate,2001/2002
+19,Real Madrid,Deportivo,3:1,2,Real Madrid,2001/2002
+19,Villarreal,Sevilla,0:2,2,Sevilla,2001/2002
+19,Valladolid,Mallorca,2:1,1,Valladolid,2001/2002
+19,Barcelona,Zaragoza,2:0,2,Barcelona,2001/2002
+19,Athletic,Tenerife,1:2,1,Tenerife,2001/2002
+19,Betis,Valencia,1:3,2,Valencia,2001/2002
+19,Málaga,Espanyol,2:0,2,Málaga,2001/2002
+19,Alavés,Osasuna,0:2,2,Osasuna,2001/2002
+20,Athletic,Real Sociedad,2:1,1,Athletic,2001/2002
+20,Villarreal,Rayo,1:1,0,Empate,2001/2002
+20,Las Palmas,Mallorca,3:1,2,Las Palmas,2001/2002
+20,Valladolid,Deportivo,3:0,3,Valladolid,2001/2002
+20,Zaragoza,Espanyol,0:0,0,Empate,2001/2002
+20,Barcelona,Sevilla,3:1,2,Barcelona,2001/2002
+20,Real Madrid,Valencia,1:0,1,Real Madrid,2001/2002
+20,Alavés,Tenerife,1:0,1,Alavés,2001/2002
+20,Celta,Osasuna,1:1,0,Empate,2001/2002
+20,Betis,Málaga,1:1,0,Empate,2001/2002
+21,Málaga,Real Madrid,1:1,0,Empate,2001/2002
+21,Real Sociedad,Alavés,1:2,1,Alavés,2001/2002
+21,Mallorca,Athletic,3:0,3,Mallorca,2001/2002
+21,Tenerife,Celta,1:1,0,Empate,2001/2002
+21,Sevilla,Zaragoza,4:2,2,Sevilla,2001/2002
+21,Osasuna,Villarreal,2:2,0,Empate,2001/2002
+21,Valencia,Valladolid,1:2,1,Valladolid,2001/2002
+21,Espanyol,Betis,1:1,0,Empate,2001/2002
+21,Deportivo,Las Palmas,1:0,1,Deportivo,2001/2002
+21,Rayo,Barcelona,2:1,1,Rayo,2001/2002
+22,Celta,Real Sociedad,3:1,2,Celta,2001/2002
+22,Las Palmas,Valencia,0:1,1,Valencia,2001/2002
+22,Villarreal,Tenerife,2:1,1,Villarreal,2001/2002
+22,Sevilla,Espanyol,3:0,3,Sevilla,2001/2002
+22,Real Madrid,Betis,1:1,0,Empate,2001/2002
+22,Valladolid,Málaga,0:0,0,Empate,2001/2002
+22,Alavés,Mallorca,0:4,4,Mallorca,2001/2002
+22,Barcelona,Osasuna,0:1,1,Osasuna,2001/2002
+22,Athletic,Deportivo,1:1,0,Empate,2001/2002
+22,Zaragoza,Rayo,3:2,1,Zaragoza,2001/2002
+23,Tenerife,Barcelona,0:6,6,Barcelona,2001/2002
+23,Mallorca,Celta,0:1,1,Celta,2001/2002
+23,Rayo,Sevilla,2:1,1,Rayo,2001/2002
+23,Deportivo,Alavés,0:1,1,Alavés,2001/2002
+23,Real Sociedad,Villarreal,2:1,1,Real Sociedad,2001/2002
+23,Valencia,Athletic,2:1,1,Valencia,2001/2002
+23,Osasuna,Zaragoza,0:0,0,Empate,2001/2002
+23,Málaga,Las Palmas,1:1,0,Empate,2001/2002
+23,Betis,Valladolid,2:0,2,Betis,2001/2002
+23,Espanyol,Real Madrid,2:1,1,Espanyol,2001/2002
+24,Celta,Deportivo,0:2,2,Deportivo,2001/2002
+24,Valladolid,Real Madrid,2:1,1,Valladolid,2001/2002
+24,Alavés,Valencia,1:2,1,Valencia,2001/2002
+24,Rayo,Espanyol,2:2,0,Empate,2001/2002
+24,Las Palmas,Betis,0:0,0,Empate,2001/2002
+24,Athletic,Málaga,3:2,1,Athletic,2001/2002
+24,Barcelona,Real Sociedad,2:0,2,Barcelona,2001/2002
+24,Villarreal,Mallorca,2:1,1,Villarreal,2001/2002
+24,Sevilla,Osasuna,0:0,0,Empate,2001/2002
+24,Zaragoza,Tenerife,1:1,0,Empate,2001/2002
+25,Valencia,Celta,0:0,0,Empate,2001/2002
+25,Mallorca,Barcelona,0:0,0,Empate,2001/2002
+25,Betis,Athletic,1:1,0,Empate,2001/2002
+25,Osasuna,Rayo,1:0,1,Osasuna,2001/2002
+25,Real Sociedad,Zaragoza,3:1,2,Real Sociedad,2001/2002
+25,Real Madrid,Las Palmas,7:0,7,Real Madrid,2001/2002
+25,Espanyol,Valladolid,1:0,1,Espanyol,2001/2002
+25,Tenerife,Sevilla,1:1,0,Empate,2001/2002
+25,Málaga,Alavés,1:0,1,Málaga,2001/2002
+25,Deportivo,Villarreal,0:0,0,Empate,2001/2002
+26,Barcelona,Deportivo,3:2,1,Barcelona,2001/2002
+26,Athletic,Real Madrid,2:1,1,Athletic,2001/2002
+26,Villarreal,Valencia,1:1,0,Empate,2001/2002
+26,Alavés,Betis,0:1,1,Betis,2001/2002
+26,Zaragoza,Mallorca,1:0,1,Zaragoza,2001/2002
+26,Osasuna,Espanyol,1:1,0,Empate,2001/2002
+26,Las Palmas,Valladolid,1:1,0,Empate,2001/2002
+26,Sevilla,Real Sociedad,0:1,1,Real Sociedad,2001/2002
+26,Celta,Málaga,0:0,0,Empate,2001/2002
+26,Rayo,Tenerife,2:0,2,Rayo,2001/2002
+27,Valencia,Barcelona,2:0,2,Valencia,2001/2002
+27,Deportivo,Zaragoza,1:0,1,Deportivo,2001/2002
+27,Real Madrid,Alavés,3:1,2,Real Madrid,2001/2002
+27,Espanyol,Las Palmas,3:1,2,Espanyol,2001/2002
+27,Valladolid,Athletic,2:0,2,Valladolid,2001/2002
+27,Betis,Celta,4:1,3,Betis,2001/2002
+27,Málaga,Villarreal,2:1,1,Málaga,2001/2002
+27,Mallorca,Sevilla,0:4,4,Sevilla,2001/2002
+27,Real Sociedad,Rayo,2:2,0,Empate,2001/2002
+27,Tenerife,Osasuna,3:1,2,Tenerife,2001/2002
+28,Villarreal,Betis,1:1,0,Empate,2001/2002
+28,Celta,Real Madrid,0:1,1,Real Madrid,2001/2002
+28,Sevilla,Deportivo,0:1,1,Deportivo,2001/2002
+28,Rayo,Mallorca,0:2,2,Mallorca,2001/2002
+28,Tenerife,Espanyol,1:1,0,Empate,2001/2002
+28,Alavés,Valladolid,3:1,2,Alavés,2001/2002
+28,Athletic,Las Palmas,3:1,2,Athletic,2001/2002
+28,Osasuna,Real Sociedad,1:1,0,Empate,2001/2002
+28,Barcelona,Málaga,5:1,4,Barcelona,2001/2002
+28,Zaragoza,Valencia,0:1,1,Valencia,2001/2002
+29,Deportivo,Rayo,1:1,0,Empate,2001/2002
+29,Betis,Barcelona,2:1,1,Betis,2001/2002
+29,Las Palmas,Alavés,2:1,1,Las Palmas,2001/2002
+29,Real Madrid,Villarreal,3:0,3,Real Madrid,2001/2002
+29,Espanyol,Athletic,2:0,2,Espanyol,2001/2002
+29,Valladolid,Celta,2:4,2,Celta,2001/2002
+29,Málaga,Zaragoza,2:1,1,Málaga,2001/2002
+29,Valencia,Sevilla,2:0,2,Valencia,2001/2002
+29,Real Sociedad,Tenerife,0:2,2,Tenerife,2001/2002
+29,Mallorca,Osasuna,4:2,2,Mallorca,2001/2002
+30,Barcelona,Real Madrid,1:1,0,Empate,2001/2002
+30,Osasuna,Deportivo,1:3,2,Deportivo,2001/2002
+30,Villarreal,Valladolid,2:2,0,Empate,2001/2002
+30,Tenerife,Mallorca,0:0,0,Empate,2001/2002
+30,Alavés,Athletic,2:3,1,Athletic,2001/2002
+30,Real Sociedad,Espanyol,1:0,1,Real Sociedad,2001/2002
+30,Celta,Las Palmas,3:2,1,Celta,2001/2002
+30,Zaragoza,Betis,1:1,0,Empate,2001/2002
+30,Sevilla,Málaga,0:2,2,Málaga,2001/2002
+30,Rayo,Valencia,2:1,1,Rayo,2001/2002
+31,Málaga,Rayo,0:0,0,Empate,2001/2002
+31,Betis,Sevilla,0:0,0,Empate,2001/2002
+31,Las Palmas,Villarreal,3:2,1,Las Palmas,2001/2002
+31,Valladolid,Barcelona,1:2,1,Barcelona,2001/2002
+31,Athletic,Celta,1:6,5,Celta,2001/2002
+31,Real Madrid,Zaragoza,3:1,2,Real Madrid,2001/2002
+31,Mallorca,Real Sociedad,0:2,2,Real Sociedad,2001/2002
+31,Deportivo,Tenerife,3:1,2,Deportivo,2001/2002
+31,Valencia,Osasuna,2:1,1,Valencia,2001/2002
+31,Espanyol,Alavés,1:2,1,Alavés,2001/2002
+32,Tenerife,Valencia,0:1,1,Valencia,2001/2002
+32,Barcelona,Las Palmas,1:1,0,Empate,2001/2002
+32,Sevilla,Real Madrid,0:1,1,Real Madrid,2001/2002
+32,Real Sociedad,Deportivo,1:1,0,Empate,2001/2002
+32,Celta,Alavés,3:1,2,Celta,2001/2002
+32,Zaragoza,Valladolid,0:0,0,Empate,2001/2002
+32,Villarreal,Athletic,5:2,3,Villarreal,2001/2002
+32,Mallorca,Espanyol,2:1,1,Mallorca,2001/2002
+32,Rayo,Betis,0:0,0,Empate,2001/2002
+32,Osasuna,Málaga,0:2,2,Málaga,2001/2002
+33,Athletic,Barcelona,0:2,2,Barcelona,2001/2002
+33,Las Palmas,Zaragoza,1:1,0,Empate,2001/2002
+33,Deportivo,Mallorca,5:0,5,Deportivo,2001/2002
+33,Real Madrid,Rayo,3:1,2,Real Madrid,2001/2002
+33,Málaga,Tenerife,2:0,2,Málaga,2001/2002
+33,Espanyol,Celta,2:0,2,Espanyol,2001/2002
+33,Valladolid,Sevilla,1:1,0,Empate,2001/2002
+33,Valencia,Real Sociedad,4:0,4,Valencia,2001/2002
+33,Betis,Osasuna,0:0,0,Empate,2001/2002
+33,Alavés,Villarreal,2:1,1,Alavés,2001/2002
+34,Mallorca,Valencia,1:1,0,Empate,2001/2002
+34,Deportivo,Espanyol,3:1,2,Deportivo,2001/2002
+34,Osasuna,Real Madrid,3:1,2,Osasuna,2001/2002
+34,Villarreal,Celta,2:1,1,Villarreal,2001/2002
+34,Zaragoza,Athletic,2:2,0,Empate,2001/2002
+34,Sevilla,Las Palmas,1:1,0,Empate,2001/2002
+34,Rayo,Valladolid,1:0,1,Rayo,2001/2002
+34,Tenerife,Betis,2:1,1,Tenerife,2001/2002
+34,Real Sociedad,Málaga,2:1,1,Real Sociedad,2001/2002
+34,Barcelona,Alavés,3:2,1,Barcelona,2001/2002
+35,Celta,Barcelona,2:1,1,Celta,2001/2002
+35,Real Madrid,Tenerife,4:1,3,Real Madrid,2001/2002
+35,Las Palmas,Rayo,0:2,2,Rayo,2001/2002
+35,Betis,Real Sociedad,3:0,3,Betis,2001/2002
+35,Valencia,Deportivo,1:0,1,Valencia,2001/2002
+35,Alavés,Zaragoza,2:1,1,Alavés,2001/2002
+35,Athletic,Sevilla,0:1,1,Sevilla,2001/2002
+35,Málaga,Mallorca,0:0,0,Empate,2001/2002
+35,Valladolid,Osasuna,1:0,1,Valladolid,2001/2002
+35,Espanyol,Villarreal,3:1,2,Espanyol,2001/2002
+36,Valencia,Espanyol,2:1,1,Valencia,2001/2002
+36,Real Sociedad,Real Madrid,3:0,3,Real Sociedad,2001/2002
+36,Barcelona,Villarreal,4:1,3,Barcelona,2001/2002
+36,Zaragoza,Celta,0:1,1,Celta,2001/2002
+36,Rayo,Athletic,4:2,2,Rayo,2001/2002
+36,Osasuna,Las Palmas,3:2,1,Osasuna,2001/2002
+36,Tenerife,Valladolid,1:5,4,Valladolid,2001/2002
+36,Mallorca,Betis,1:3,2,Betis,2001/2002
+36,Deportivo,Málaga,2:2,0,Empate,2001/2002
+36,Sevilla,Alavés,2:0,2,Sevilla,2001/2002
+37,Valladolid,Real Sociedad,1:3,2,Real Sociedad,2001/2002
+37,Las Palmas,Tenerife,0:1,1,Tenerife,2001/2002
+37,Villarreal,Zaragoza,2:1,1,Villarreal,2001/2002
+37,Barcelona,Espanyol,2:0,2,Barcelona,2001/2002
+37,Celta,Sevilla,1:2,1,Sevilla,2001/2002
+37,Real Madrid,Mallorca,0:0,0,Empate,2001/2002
+37,Málaga,Valencia,0:2,2,Valencia,2001/2002
+37,Athletic,Osasuna,1:1,0,Empate,2001/2002
+37,Betis,Deportivo,0:3,3,Deportivo,2001/2002
+37,Alavés,Rayo,0:1,1,Rayo,2001/2002
+38,Deportivo,Real Madrid,3:0,3,Deportivo,2001/2002
+38,Mallorca,Valladolid,2:1,1,Mallorca,2001/2002
+38,Zaragoza,Barcelona,1:1,0,Empate,2001/2002
+38,Rayo,Celta,1:0,1,Rayo,2001/2002
+38,Tenerife,Athletic,2:3,1,Athletic,2001/2002
+38,Real Sociedad,Las Palmas,1:1,0,Empate,2001/2002
+38,Valencia,Betis,2:0,2,Valencia,2001/2002
+38,Espanyol,Málaga,1:2,1,Málaga,2001/2002
+38,Osasuna,Alavés,0:1,1,Alavés,2001/2002
+38,Sevilla,Villarreal,1:0,1,Sevilla,2001/2002

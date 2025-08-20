@@ -1,0 +1,381 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Zaragoza,Espanyol,1:2,1,Espanyol,2000/2001
+1,Real Madrid,Valencia,2:1,1,Real Madrid,2000/2001
+1,Barcelona,Málaga,2:1,1,Barcelona,2000/2001
+1,Deportivo,Athletic,2:0,2,Deportivo,2000/2001
+1,Real Sociedad,Real Racing,2:2,0,Empate,2000/2001
+1,Villarreal,Rayo,1:5,4,Rayo,2000/2001
+1,Las Palmas,Alavés,0:3,3,Alavés,2000/2001
+1,Numancia,Real Oviedo,1:0,1,Numancia,2000/2001
+1,Mallorca,Valladolid,1:1,0,Empate,2000/2001
+1,Osasuna,Celta,0:2,2,Celta,2000/2001
+2,Real Racing,Deportivo,0:3,3,Deportivo,2000/2001
+2,Athletic,Barcelona,3:1,2,Athletic,2000/2001
+2,Málaga,Real Madrid,3:3,0,Empate,2000/2001
+2,Valencia,Mallorca,4:0,4,Valencia,2000/2001
+2,Valladolid,Numancia,2:0,2,Valladolid,2000/2001
+2,Espanyol,Osasuna,1:2,1,Osasuna,2000/2001
+2,Real Oviedo,Las Palmas,2:2,0,Empate,2000/2001
+2,Rayo,Zaragoza,0:0,0,Empate,2000/2001
+2,Celta,Real Sociedad,4:1,3,Celta,2000/2001
+2,Alavés,Villarreal,0:1,1,Villarreal,2000/2001
+3,Real Sociedad,Deportivo,1:1,0,Empate,2000/2001
+3,Barcelona,Real Racing,3:1,2,Barcelona,2000/2001
+3,Real Madrid,Athletic,4:1,3,Real Madrid,2000/2001
+3,Las Palmas,Valladolid,1:1,0,Empate,2000/2001
+3,Zaragoza,Alavés,2:2,0,Empate,2000/2001
+3,Mallorca,Málaga,0:1,1,Málaga,2000/2001
+3,Osasuna,Rayo,2:2,0,Empate,2000/2001
+3,Celta,Espanyol,1:0,1,Celta,2000/2001
+3,Numancia,Valencia,0:3,3,Valencia,2000/2001
+3,Villarreal,Real Oviedo,1:0,1,Villarreal,2000/2001
+4,Real Racing,Real Madrid,0:0,0,Empate,2000/2001
+4,Real Oviedo,Zaragoza,2:1,1,Real Oviedo,2000/2001
+4,Deportivo,Barcelona,2:0,2,Deportivo,2000/2001
+4,Athletic,Mallorca,2:1,1,Athletic,2000/2001
+4,Málaga,Numancia,1:3,2,Numancia,2000/2001
+4,Valladolid,Villarreal,0:0,0,Empate,2000/2001
+4,Alavés,Osasuna,2:0,2,Alavés,2000/2001
+4,Rayo,Celta,3:0,3,Rayo,2000/2001
+4,Valencia,Las Palmas,5:1,4,Valencia,2000/2001
+4,Espanyol,Real Sociedad,1:2,1,Real Sociedad,2000/2001
+5,Las Palmas,Málaga,2:1,1,Las Palmas,2000/2001
+5,Real Sociedad,Barcelona,0:6,6,Barcelona,2000/2001
+5,Espanyol,Rayo,0:0,0,Empate,2000/2001
+5,Real Madrid,Deportivo,3:0,3,Real Madrid,2000/2001
+5,Villarreal,Valencia,1:1,0,Empate,2000/2001
+5,Numancia,Athletic,0:0,0,Empate,2000/2001
+5,Mallorca,Real Racing,2:1,1,Mallorca,2000/2001
+5,Zaragoza,Valladolid,0:0,0,Empate,2000/2001
+5,Osasuna,Real Oviedo,0:0,0,Empate,2000/2001
+5,Celta,Alavés,1:1,0,Empate,2000/2001
+6,Barcelona,Real Madrid,2:0,2,Barcelona,2000/2001
+6,Deportivo,Mallorca,1:1,0,Empate,2000/2001
+6,Valencia,Zaragoza,1:0,1,Valencia,2000/2001
+6,Valladolid,Osasuna,1:1,0,Empate,2000/2001
+6,Real Racing,Numancia,4:2,2,Real Racing,2000/2001
+6,Athletic,Las Palmas,0:3,3,Las Palmas,2000/2001
+6,Real Oviedo,Celta,3:1,2,Real Oviedo,2000/2001
+6,Alavés,Espanyol,1:0,1,Alavés,2000/2001
+6,Rayo,Real Sociedad,4:1,3,Rayo,2000/2001
+6,Málaga,Villarreal,2:1,1,Málaga,2000/2001
+7,Villarreal,Athletic,0:0,0,Empate,2000/2001
+7,Mallorca,Barcelona,2:0,2,Mallorca,2000/2001
+7,Numancia,Deportivo,1:2,1,Deportivo,2000/2001
+7,Las Palmas,Real Racing,2:1,1,Las Palmas,2000/2001
+7,Zaragoza,Málaga,1:1,0,Empate,2000/2001
+7,Real Sociedad,Real Madrid,1:4,3,Real Madrid,2000/2001
+7,Osasuna,Valencia,1:2,1,Valencia,2000/2001
+7,Celta,Valladolid,2:1,1,Celta,2000/2001
+7,Espanyol,Real Oviedo,2:0,2,Espanyol,2000/2001
+7,Rayo,Alavés,0:1,1,Alavés,2000/2001
+8,Deportivo,Las Palmas,4:0,4,Deportivo,2000/2001
+8,Málaga,Osasuna,3:1,2,Málaga,2000/2001
+8,Alavés,Real Sociedad,0:1,1,Real Sociedad,2000/2001
+8,Barcelona,Numancia,1:1,0,Empate,2000/2001
+8,Athletic,Zaragoza,1:2,1,Zaragoza,2000/2001
+8,Real Madrid,Mallorca,0:2,2,Mallorca,2000/2001
+8,Valencia,Celta,1:0,1,Valencia,2000/2001
+8,Valladolid,Espanyol,1:1,0,Empate,2000/2001
+8,Real Oviedo,Rayo,4:1,3,Real Oviedo,2000/2001
+8,Real Racing,Villarreal,3:1,2,Real Racing,2000/2001
+9,Numancia,Real Madrid,3:1,2,Numancia,2000/2001
+9,Las Palmas,Barcelona,0:1,1,Barcelona,2000/2001
+9,Villarreal,Deportivo,3:2,1,Villarreal,2000/2001
+9,Celta,Málaga,1:0,1,Celta,2000/2001
+9,Espanyol,Valencia,1:0,1,Espanyol,2000/2001
+9,Zaragoza,Real Racing,2:0,2,Zaragoza,2000/2001
+9,Real Sociedad,Mallorca,0:1,1,Mallorca,2000/2001
+9,Osasuna,Athletic,1:1,0,Empate,2000/2001
+9,Alavés,Real Oviedo,4:0,4,Alavés,2000/2001
+9,Rayo,Valladolid,2:1,1,Rayo,2000/2001
+10,Deportivo,Zaragoza,2:0,2,Deportivo,2000/2001
+10,Real Racing,Osasuna,0:0,0,Empate,2000/2001
+10,Athletic,Celta,2:1,1,Athletic,2000/2001
+10,Mallorca,Numancia,2:1,1,Mallorca,2000/2001
+10,Real Madrid,Las Palmas,5:1,4,Real Madrid,2000/2001
+10,Barcelona,Villarreal,1:2,1,Villarreal,2000/2001
+10,Real Oviedo,Real Sociedad,1:0,1,Real Oviedo,2000/2001
+10,Málaga,Espanyol,0:0,0,Empate,2000/2001
+10,Valencia,Rayo,2:2,0,Empate,2000/2001
+10,Valladolid,Alavés,2:1,1,Valladolid,2000/2001
+11,Las Palmas,Mallorca,1:0,1,Las Palmas,2000/2001
+11,Villarreal,Real Madrid,0:1,1,Real Madrid,2000/2001
+11,Osasuna,Deportivo,1:1,0,Empate,2000/2001
+11,Alavés,Valencia,1:1,0,Empate,2000/2001
+11,Celta,Real Racing,1:1,0,Empate,2000/2001
+11,Real Sociedad,Numancia,4:1,3,Real Sociedad,2000/2001
+11,Espanyol,Athletic,2:1,1,Espanyol,2000/2001
+11,Rayo,Málaga,4:2,2,Rayo,2000/2001
+11,Real Oviedo,Valladolid,4:1,3,Real Oviedo,2000/2001
+11,Zaragoza,Barcelona,3:1,2,Zaragoza,2000/2001
+12,Mallorca,Villarreal,2:1,1,Mallorca,2000/2001
+12,Deportivo,Celta,1:0,1,Deportivo,2000/2001
+12,Numancia,Las Palmas,0:1,1,Las Palmas,2000/2001
+12,Barcelona,Osasuna,2:0,2,Barcelona,2000/2001
+12,Real Racing,Espanyol,1:2,1,Espanyol,2000/2001
+12,Athletic,Rayo,4:2,2,Athletic,2000/2001
+12,Málaga,Alavés,3:1,2,Málaga,2000/2001
+12,Valladolid,Real Sociedad,2:1,1,Valladolid,2000/2001
+12,Valencia,Real Oviedo,2:0,2,Valencia,2000/2001
+12,Real Madrid,Zaragoza,3:0,3,Real Madrid,2000/2001
+13,Celta,Barcelona,3:3,0,Empate,2000/2001
+13,Valladolid,Valencia,0:0,0,Empate,2000/2001
+13,Espanyol,Deportivo,0:2,2,Deportivo,2000/2001
+13,Rayo,Real Racing,4:1,3,Rayo,2000/2001
+13,Osasuna,Real Madrid,2:3,1,Real Madrid,2000/2001
+13,Real Sociedad,Las Palmas,1:1,0,Empate,2000/2001
+13,Villarreal,Numancia,0:0,0,Empate,2000/2001
+13,Zaragoza,Mallorca,1:1,0,Empate,2000/2001
+13,Real Oviedo,Málaga,3:2,1,Real Oviedo,2000/2001
+13,Alavés,Athletic,2:1,1,Alavés,2000/2001
+14,Las Palmas,Villarreal,1:5,4,Villarreal,2000/2001
+14,Numancia,Zaragoza,1:1,0,Empate,2000/2001
+14,Valencia,Real Sociedad,2:0,2,Valencia,2000/2001
+14,Barcelona,Espanyol,4:2,2,Barcelona,2000/2001
+14,Real Madrid,Celta,3:0,3,Real Madrid,2000/2001
+14,Deportivo,Rayo,1:1,0,Empate,2000/2001
+14,Real Racing,Alavés,2:1,1,Real Racing,2000/2001
+14,Athletic,Real Oviedo,4:0,4,Athletic,2000/2001
+14,Málaga,Valladolid,3:1,2,Málaga,2000/2001
+14,Mallorca,Osasuna,1:1,0,Empate,2000/2001
+15,Real Sociedad,Villarreal,0:2,2,Villarreal,2000/2001
+15,Zaragoza,Las Palmas,3:1,2,Zaragoza,2000/2001
+15,Alavés,Deportivo,3:1,2,Alavés,2000/2001
+15,Espanyol,Real Madrid,1:2,1,Real Madrid,2000/2001
+15,Rayo,Barcelona,2:2,0,Empate,2000/2001
+15,Celta,Mallorca,2:2,0,Empate,2000/2001
+15,Osasuna,Numancia,2:0,2,Osasuna,2000/2001
+15,Real Oviedo,Real Racing,1:0,1,Real Oviedo,2000/2001
+15,Valladolid,Athletic,0:0,0,Empate,2000/2001
+15,Valencia,Málaga,2:0,2,Valencia,2000/2001
+16,Real Madrid,Rayo,3:1,2,Real Madrid,2000/2001
+16,Barcelona,Alavés,3:2,1,Barcelona,2000/2001
+16,Villarreal,Zaragoza,1:1,0,Empate,2000/2001
+16,Las Palmas,Osasuna,3:2,1,Las Palmas,2000/2001
+16,Numancia,Celta,4:2,2,Numancia,2000/2001
+16,Deportivo,Real Oviedo,3:0,3,Deportivo,2000/2001
+16,Real Racing,Valladolid,2:2,0,Empate,2000/2001
+16,Athletic,Valencia,1:1,0,Empate,2000/2001
+16,Málaga,Real Sociedad,3:0,3,Málaga,2000/2001
+16,Mallorca,Espanyol,3:2,1,Mallorca,2000/2001
+17,Málaga,Athletic,2:1,1,Málaga,2000/2001
+17,Rayo,Mallorca,2:2,0,Empate,2000/2001
+17,Celta,Las Palmas,0:1,1,Las Palmas,2000/2001
+17,Osasuna,Villarreal,1:0,1,Osasuna,2000/2001
+17,Espanyol,Numancia,2:0,2,Espanyol,2000/2001
+17,Real Oviedo,Barcelona,2:3,1,Barcelona,2000/2001
+17,Valladolid,Deportivo,3:1,2,Valladolid,2000/2001
+17,Valencia,Real Racing,1:0,1,Valencia,2000/2001
+17,Real Sociedad,Zaragoza,1:1,0,Empate,2000/2001
+17,Alavés,Real Madrid,1:3,2,Real Madrid,2000/2001
+18,Barcelona,Valladolid,3:1,2,Barcelona,2000/2001
+18,Deportivo,Valencia,2:0,2,Deportivo,2000/2001
+18,Las Palmas,Espanyol,1:0,1,Las Palmas,2000/2001
+18,Villarreal,Celta,2:0,2,Villarreal,2000/2001
+18,Numancia,Rayo,0:2,2,Rayo,2000/2001
+18,Mallorca,Alavés,4:3,1,Mallorca,2000/2001
+18,Real Racing,Málaga,0:1,1,Málaga,2000/2001
+18,Real Sociedad,Athletic,0:2,2,Athletic,2000/2001
+18,Real Madrid,Real Oviedo,4:0,4,Real Madrid,2000/2001
+18,Zaragoza,Osasuna,4:2,2,Zaragoza,2000/2001
+19,Valencia,Barcelona,0:1,1,Barcelona,2000/2001
+19,Osasuna,Real Sociedad,1:1,0,Empate,2000/2001
+19,Celta,Zaragoza,1:1,0,Empate,2000/2001
+19,Espanyol,Villarreal,2:1,1,Espanyol,2000/2001
+19,Rayo,Las Palmas,1:1,0,Empate,2000/2001
+19,Alavés,Numancia,0:2,2,Numancia,2000/2001
+19,Valladolid,Real Madrid,2:2,0,Empate,2000/2001
+19,Málaga,Deportivo,1:3,2,Deportivo,2000/2001
+19,Athletic,Real Racing,3:1,2,Athletic,2000/2001
+19,Real Oviedo,Mallorca,1:1,0,Empate,2000/2001
+20,Espanyol,Zaragoza,5:0,5,Espanyol,2000/2001
+20,Málaga,Barcelona,0:0,0,Empate,2000/2001
+20,Athletic,Deportivo,2:2,0,Empate,2000/2001
+20,Rayo,Villarreal,0:1,1,Villarreal,2000/2001
+20,Alavés,Las Palmas,1:0,1,Alavés,2000/2001
+20,Real Oviedo,Numancia,3:0,3,Real Oviedo,2000/2001
+20,Valladolid,Mallorca,2:0,2,Valladolid,2000/2001
+20,Valencia,Real Madrid,0:1,1,Real Madrid,2000/2001
+20,Real Racing,Real Sociedad,1:4,3,Real Sociedad,2000/2001
+20,Celta,Osasuna,1:0,1,Celta,2000/2001
+21,Barcelona,Athletic,7:0,7,Barcelona,2000/2001
+21,Osasuna,Espanyol,1:3,2,Espanyol,2000/2001
+21,Deportivo,Real Racing,2:1,1,Deportivo,2000/2001
+21,Real Madrid,Málaga,4:3,1,Real Madrid,2000/2001
+21,Mallorca,Valencia,2:2,0,Empate,2000/2001
+21,Numancia,Valladolid,0:0,0,Empate,2000/2001
+21,Las Palmas,Real Oviedo,1:0,1,Las Palmas,2000/2001
+21,Zaragoza,Rayo,6:1,5,Zaragoza,2000/2001
+21,Real Sociedad,Celta,2:2,0,Empate,2000/2001
+21,Villarreal,Alavés,2:0,2,Villarreal,2000/2001
+22,Rayo,Osasuna,2:1,1,Rayo,2000/2001
+22,Deportivo,Real Sociedad,4:1,3,Deportivo,2000/2001
+22,Athletic,Real Madrid,1:0,1,Athletic,2000/2001
+22,Espanyol,Celta,0:1,1,Celta,2000/2001
+22,Valencia,Numancia,3:0,3,Valencia,2000/2001
+22,Málaga,Mallorca,0:1,1,Mallorca,2000/2001
+22,Real Racing,Barcelona,4:0,4,Real Racing,2000/2001
+22,Valladolid,Las Palmas,1:0,1,Valladolid,2000/2001
+22,Alavés,Zaragoza,1:0,1,Alavés,2000/2001
+22,Real Oviedo,Villarreal,1:3,2,Villarreal,2000/2001
+23,Barcelona,Deportivo,2:3,1,Deportivo,2000/2001
+23,Real Madrid,Real Racing,1:0,1,Real Madrid,2000/2001
+23,Las Palmas,Valencia,0:2,2,Valencia,2000/2001
+23,Zaragoza,Real Oviedo,5:2,3,Zaragoza,2000/2001
+23,Mallorca,Athletic,1:0,1,Mallorca,2000/2001
+23,Numancia,Málaga,3:2,1,Numancia,2000/2001
+23,Villarreal,Valladolid,2:1,1,Villarreal,2000/2001
+23,Osasuna,Alavés,0:1,1,Alavés,2000/2001
+23,Celta,Rayo,1:1,0,Empate,2000/2001
+23,Real Sociedad,Espanyol,2:1,1,Real Sociedad,2000/2001
+24,Deportivo,Real Madrid,2:2,0,Empate,2000/2001
+24,Athletic,Numancia,3:1,2,Athletic,2000/2001
+24,Málaga,Las Palmas,2:1,1,Málaga,2000/2001
+24,Barcelona,Real Sociedad,3:0,3,Barcelona,2000/2001
+24,Real Racing,Mallorca,2:1,1,Real Racing,2000/2001
+24,Valladolid,Zaragoza,2:0,2,Valladolid,2000/2001
+24,Rayo,Espanyol,1:1,0,Empate,2000/2001
+24,Real Oviedo,Osasuna,2:3,1,Osasuna,2000/2001
+24,Alavés,Celta,2:2,0,Empate,2000/2001
+24,Valencia,Villarreal,3:1,2,Valencia,2000/2001
+25,Real Madrid,Barcelona,2:2,0,Empate,2000/2001
+25,Mallorca,Deportivo,2:1,1,Mallorca,2000/2001
+25,Zaragoza,Valencia,1:1,0,Empate,2000/2001
+25,Real Sociedad,Rayo,2:0,2,Real Sociedad,2000/2001
+25,Osasuna,Valladolid,2:1,1,Osasuna,2000/2001
+25,Numancia,Real Racing,1:0,1,Numancia,2000/2001
+25,Las Palmas,Athletic,0:0,0,Empate,2000/2001
+25,Celta,Real Oviedo,1:0,1,Celta,2000/2001
+25,Espanyol,Alavés,0:0,0,Empate,2000/2001
+25,Villarreal,Málaga,1:2,1,Málaga,2000/2001
+26,Athletic,Villarreal,1:1,0,Empate,2000/2001
+26,Deportivo,Numancia,4:1,3,Deportivo,2000/2001
+26,Valencia,Osasuna,1:0,1,Valencia,2000/2001
+26,Barcelona,Mallorca,1:1,0,Empate,2000/2001
+26,Real Madrid,Real Sociedad,4:0,4,Real Madrid,2000/2001
+26,Real Racing,Las Palmas,2:1,1,Real Racing,2000/2001
+26,Valladolid,Celta,1:2,1,Celta,2000/2001
+26,Real Oviedo,Espanyol,2:2,0,Empate,2000/2001
+26,Alavés,Rayo,4:2,2,Alavés,2000/2001
+26,Málaga,Zaragoza,2:0,2,Málaga,2000/2001
+27,Las Palmas,Deportivo,2:0,2,Las Palmas,2000/2001
+27,Osasuna,Málaga,3:3,0,Empate,2000/2001
+27,Real Sociedad,Alavés,1:1,0,Empate,2000/2001
+27,Mallorca,Real Madrid,1:0,1,Mallorca,2000/2001
+27,Numancia,Barcelona,1:1,0,Empate,2000/2001
+27,Zaragoza,Athletic,2:2,0,Empate,2000/2001
+27,Villarreal,Real Racing,4:2,2,Villarreal,2000/2001
+27,Celta,Valencia,3:2,1,Celta,2000/2001
+27,Espanyol,Valladolid,1:0,1,Espanyol,2000/2001
+27,Rayo,Real Oviedo,0:2,2,Real Oviedo,2000/2001
+28,Real Madrid,Numancia,1:0,1,Real Madrid,2000/2001
+28,Deportivo,Villarreal,4:2,2,Deportivo,2000/2001
+28,Málaga,Celta,1:4,3,Celta,2000/2001
+28,Valencia,Espanyol,0:1,1,Espanyol,2000/2001
+28,Real Racing,Zaragoza,2:1,1,Real Racing,2000/2001
+28,Mallorca,Real Sociedad,1:1,0,Empate,2000/2001
+28,Barcelona,Las Palmas,4:1,3,Barcelona,2000/2001
+28,Athletic,Osasuna,0:1,1,Osasuna,2000/2001
+28,Real Oviedo,Alavés,3:3,0,Empate,2000/2001
+28,Valladolid,Rayo,1:3,2,Rayo,2000/2001
+29,Rayo,Valencia,1:4,3,Valencia,2000/2001
+29,Osasuna,Real Racing,1:1,0,Empate,2000/2001
+29,Numancia,Mallorca,0:2,2,Mallorca,2000/2001
+29,Las Palmas,Real Madrid,0:1,1,Real Madrid,2000/2001
+29,Villarreal,Barcelona,4:4,0,Empate,2000/2001
+29,Celta,Athletic,2:1,1,Celta,2000/2001
+29,Espanyol,Málaga,1:2,1,Málaga,2000/2001
+29,Alavés,Valladolid,4:2,2,Alavés,2000/2001
+29,Real Sociedad,Real Oviedo,3:0,3,Real Sociedad,2000/2001
+29,Zaragoza,Deportivo,2:1,1,Zaragoza,2000/2001
+30,Deportivo,Osasuna,2:1,1,Deportivo,2000/2001
+30,Valencia,Alavés,1:2,1,Alavés,2000/2001
+30,Barcelona,Zaragoza,4:4,0,Empate,2000/2001
+30,Real Madrid,Villarreal,4:0,4,Real Madrid,2000/2001
+30,Athletic,Espanyol,0:1,1,Espanyol,2000/2001
+30,Mallorca,Las Palmas,2:1,1,Mallorca,2000/2001
+30,Real Racing,Celta,3:0,3,Real Racing,2000/2001
+30,Numancia,Real Sociedad,3:3,0,Empate,2000/2001
+30,Málaga,Rayo,1:1,0,Empate,2000/2001
+30,Valladolid,Real Oviedo,1:0,1,Valladolid,2000/2001
+31,Celta,Deportivo,2:1,1,Celta,2000/2001
+31,Villarreal,Mallorca,2:2,0,Empate,2000/2001
+31,Zaragoza,Real Madrid,2:3,1,Real Madrid,2000/2001
+31,Osasuna,Barcelona,3:1,2,Osasuna,2000/2001
+31,Espanyol,Real Racing,3:0,3,Espanyol,2000/2001
+31,Rayo,Athletic,1:2,1,Athletic,2000/2001
+31,Alavés,Málaga,1:2,1,Málaga,2000/2001
+31,Real Sociedad,Valladolid,3:1,2,Real Sociedad,2000/2001
+31,Las Palmas,Numancia,1:1,0,Empate,2000/2001
+31,Real Oviedo,Valencia,0:0,0,Empate,2000/2001
+32,Real Madrid,Osasuna,1:1,0,Empate,2000/2001
+32,Valencia,Valladolid,1:0,1,Valencia,2000/2001
+32,Barcelona,Celta,1:1,0,Empate,2000/2001
+32,Las Palmas,Real Sociedad,2:1,1,Las Palmas,2000/2001
+32,Numancia,Villarreal,1:3,2,Villarreal,2000/2001
+32,Mallorca,Zaragoza,2:1,1,Mallorca,2000/2001
+32,Real Racing,Rayo,1:1,0,Empate,2000/2001
+32,Athletic,Alavés,2:0,2,Athletic,2000/2001
+32,Málaga,Real Oviedo,2:2,0,Empate,2000/2001
+32,Deportivo,Espanyol,1:0,1,Deportivo,2000/2001
+33,Espanyol,Barcelona,0:0,0,Empate,2000/2001
+33,Real Sociedad,Valencia,1:2,1,Valencia,2000/2001
+33,Celta,Real Madrid,3:0,3,Celta,2000/2001
+33,Rayo,Deportivo,1:1,0,Empate,2000/2001
+33,Villarreal,Las Palmas,2:1,1,Villarreal,2000/2001
+33,Zaragoza,Numancia,3:1,2,Zaragoza,2000/2001
+33,Osasuna,Mallorca,1:0,1,Osasuna,2000/2001
+33,Alavés,Real Racing,5:1,4,Alavés,2000/2001
+33,Real Oviedo,Athletic,5:0,5,Real Oviedo,2000/2001
+33,Valladolid,Málaga,0:0,0,Empate,2000/2001
+34,Deportivo,Alavés,2:1,1,Deportivo,2000/2001
+34,Villarreal,Real Sociedad,1:3,2,Real Sociedad,2000/2001
+34,Mallorca,Celta,2:0,2,Mallorca,2000/2001
+34,Las Palmas,Zaragoza,2:1,1,Las Palmas,2000/2001
+34,Numancia,Osasuna,1:0,1,Numancia,2000/2001
+34,Athletic,Valladolid,1:1,0,Empate,2000/2001
+34,Barcelona,Rayo,5:1,4,Barcelona,2000/2001
+34,Real Racing,Real Oviedo,2:0,2,Real Racing,2000/2001
+34,Real Madrid,Espanyol,2:2,0,Empate,2000/2001
+34,Málaga,Valencia,3:0,3,Málaga,2000/2001
+35,Valencia,Athletic,1:0,1,Valencia,2000/2001
+35,Alavés,Barcelona,0:1,1,Barcelona,2000/2001
+35,Real Oviedo,Deportivo,2:3,1,Deportivo,2000/2001
+35,Zaragoza,Villarreal,0:0,0,Empate,2000/2001
+35,Osasuna,Las Palmas,3:3,0,Empate,2000/2001
+35,Celta,Numancia,1:1,0,Empate,2000/2001
+35,Espanyol,Mallorca,0:1,1,Mallorca,2000/2001
+35,Valladolid,Real Racing,1:1,0,Empate,2000/2001
+35,Real Sociedad,Málaga,4:0,4,Real Sociedad,2000/2001
+35,Rayo,Real Madrid,0:1,1,Real Madrid,2000/2001
+36,Las Palmas,Celta,0:1,1,Celta,2000/2001
+36,Real Madrid,Alavés,5:0,5,Real Madrid,2000/2001
+36,Mallorca,Rayo,4:0,4,Mallorca,2000/2001
+36,Numancia,Espanyol,2:1,1,Numancia,2000/2001
+36,Zaragoza,Real Sociedad,1:1,0,Empate,2000/2001
+36,Barcelona,Real Oviedo,0:1,1,Real Oviedo,2000/2001
+36,Deportivo,Valladolid,1:2,1,Valladolid,2000/2001
+36,Real Racing,Valencia,1:1,0,Empate,2000/2001
+36,Athletic,Málaga,1:3,2,Málaga,2000/2001
+36,Villarreal,Osasuna,2:0,2,Villarreal,2000/2001
+37,Málaga,Real Racing,2:1,1,Málaga,2000/2001
+37,Celta,Villarreal,1:0,1,Celta,2000/2001
+37,Espanyol,Las Palmas,3:2,1,Espanyol,2000/2001
+37,Rayo,Numancia,2:1,1,Rayo,2000/2001
+37,Alavés,Mallorca,2:4,2,Mallorca,2000/2001
+37,Real Oviedo,Real Madrid,1:1,0,Empate,2000/2001
+37,Valencia,Deportivo,0:1,1,Deportivo,2000/2001
+37,Athletic,Real Sociedad,1:3,2,Real Sociedad,2000/2001
+37,Osasuna,Zaragoza,1:0,1,Osasuna,2000/2001
+37,Valladolid,Barcelona,2:2,0,Empate,2000/2001
+38,Las Palmas,Rayo,1:0,1,Las Palmas,2000/2001
+38,Villarreal,Espanyol,4:0,4,Villarreal,2000/2001
+38,Numancia,Alavés,2:1,1,Numancia,2000/2001
+38,Real Racing,Athletic,3:0,3,Real Racing,2000/2001
+38,Real Sociedad,Osasuna,0:1,1,Osasuna,2000/2001
+38,Real Madrid,Valladolid,2:1,1,Real Madrid,2000/2001
+38,Barcelona,Valencia,3:2,1,Barcelona,2000/2001
+38,Deportivo,Málaga,4:0,4,Deportivo,2000/2001
+38,Mallorca,Real Oviedo,4:2,2,Mallorca,2000/2001
+38,Zaragoza,Celta,1:1,0,Empate,2000/2001

@@ -1,0 +1,1863 @@
+Jornada,Equipo,ELO
+1,Sporting,1372.53
+1,Athletic,1517.3
+1,Valencia,1383.07
+1,Espanyol,1318.36
+1,Cádiz CF,1055.71
+1,Las Palmas,1363.3
+1,Zaragoza,1209.28
+1,Sevilla,1432.48
+1,Osasuna,1278.26
+1,Atlético,1693.2
+1,Betis,1347.2
+1,CE Sabadell,728.42
+1,Real Sociedad,1418.84
+1,Real Madrid,1801.51
+1,Real Murcia,1038.98
+1,Valladolid,1220.27
+1,Barcelona,1787.61
+1,Celta,1436.72
+1,CD Logroñés,795.9
+1,Mallorca,1256.03
+1,Real Oviedo,1057.85
+1,Málaga,1430.14
+1,Elche,1266.32
+1,CD Castellón,755.32
+1,Rayo,1344.78
+1,Tenerife,1153.42
+1,Real Burgos,779.99
+1,Deportivo,1361.08
+1,Albacete,1051.36
+1,Real Racing,1116.52
+1,UE Lleida,897.63
+1,SD Compostela,1068.16
+1,CP Mérida,969.72
+1,UD Salamanca,907.16
+1,Hércules CF,1105.2
+1,CF Extremadura,1019.9200000000001
+1,Alavés,1160.84
+1,Villarreal,1442.92
+1,Numancia,1104.12
+1,RC Recreativo,1120.07
+1,Getafe,1253.59
+1,Levante,1240.75
+1,Gimnàstic de Tarragona,1100.87
+1,Almería,1235.2
+1,Xerez CD,1239.14
+1,Granada,1373.24
+1,Eibar,1279.04
+1,Córdoba,1148.36
+1,Leganés,1512.32
+2,Sporting,1363.83
+2,Athletic,1512.28
+2,Valencia,1364.46
+2,Espanyol,1323.34
+2,Cádiz CF,1055.71
+2,Las Palmas,1397.73
+2,Zaragoza,1209.28
+2,Sevilla,1432.96
+2,Osasuna,1264.18
+2,Atlético,1685.55
+2,Betis,1347.84
+2,CE Sabadell,728.42
+2,Real Sociedad,1432.92
+2,Real Madrid,1804.66
+2,Real Murcia,1038.98
+2,Valladolid,1220.27
+2,Barcelona,1792.63
+2,Celta,1433.57
+2,CD Logroñés,795.9
+2,Mallorca,1256.03
+2,Real Oviedo,1057.85
+2,Málaga,1425.16
+2,Elche,1266.32
+2,CD Castellón,755.32
+2,Rayo,1344.78
+2,Tenerife,1153.42
+2,Real Burgos,779.99
+2,Deportivo,1360.44
+2,Albacete,1051.36
+2,Real Racing,1116.52
+2,UE Lleida,897.63
+2,SD Compostela,1068.16
+2,CP Mérida,969.72
+2,UD Salamanca,907.16
+2,Hércules CF,1105.2
+2,CF Extremadura,1019.9200000000001
+2,Alavés,1169.54
+2,Villarreal,1442.44
+2,Numancia,1104.12
+2,RC Recreativo,1120.07
+2,Getafe,1253.59
+2,Levante,1240.75
+2,Gimnàstic de Tarragona,1100.87
+2,Almería,1235.2
+2,Xerez CD,1239.14
+2,Granada,1338.81
+2,Eibar,1297.65
+2,Córdoba,1148.36
+2,Leganés,1519.97
+3,Sporting,1384.32
+3,Athletic,1520.77
+3,Valencia,1349.35
+3,Espanyol,1328.23
+3,Cádiz CF,1055.71
+3,Las Palmas,1384.77
+3,Zaragoza,1209.28
+3,Sevilla,1445.92
+3,Osasuna,1261.72
+3,Atlético,1698.27
+3,Betis,1362.95
+3,CE Sabadell,728.42
+3,Real Sociedad,1428.03
+3,Real Madrid,1807.12
+3,Real Murcia,1038.98
+3,Valladolid,1220.27
+3,Barcelona,1764.57
+3,Celta,1420.85
+3,CD Logroñés,795.9
+3,Mallorca,1256.03
+3,Real Oviedo,1057.85
+3,Málaga,1403.44
+3,Elche,1266.32
+3,CD Castellón,755.32
+3,Rayo,1344.78
+3,Tenerife,1153.42
+3,Real Burgos,779.99
+3,Deportivo,1351.95
+3,Albacete,1051.36
+3,Real Racing,1116.52
+3,UE Lleida,897.63
+3,SD Compostela,1068.16
+3,CP Mérida,969.72
+3,UD Salamanca,907.16
+3,Hércules CF,1105.2
+3,CF Extremadura,1019.9200000000001
+3,Alavés,1197.6
+3,Villarreal,1464.16
+3,Numancia,1104.12
+3,RC Recreativo,1120.07
+3,Getafe,1253.59
+3,Levante,1240.75
+3,Gimnàstic de Tarragona,1100.87
+3,Almería,1235.2
+3,Xerez CD,1239.14
+3,Granada,1322.69
+3,Eibar,1313.77
+3,Córdoba,1148.36
+3,Leganés,1499.48
+4,Sporting,1373.81
+4,Athletic,1528.6
+4,Valencia,1341.52
+4,Espanyol,1325.5
+4,Cádiz CF,1055.71
+4,Las Palmas,1399.96
+4,Zaragoza,1209.28
+4,Sevilla,1440.11
+4,Osasuna,1268.58
+4,Atlético,1708.78
+4,Betis,1361.1
+4,CE Sabadell,728.42
+4,Real Sociedad,1415.11
+4,Real Madrid,1809.85
+4,Real Murcia,1038.98
+4,Valladolid,1220.27
+4,Barcelona,1776.53
+4,Celta,1413.99
+4,CD Logroñés,795.9
+4,Mallorca,1256.03
+4,Real Oviedo,1057.85
+4,Málaga,1388.25
+4,Elche,1266.32
+4,CD Castellón,755.32
+4,Rayo,1344.78
+4,Tenerife,1153.42
+4,Real Burgos,779.99
+4,Deportivo,1345.28
+4,Albacete,1051.36
+4,Real Racing,1116.52
+4,UE Lleida,897.63
+4,SD Compostela,1068.16
+4,CP Mérida,969.72
+4,UD Salamanca,907.16
+4,Hércules CF,1105.2
+4,CF Extremadura,1019.9200000000001
+4,Alavés,1204.27
+4,Villarreal,1477.08
+4,Numancia,1104.12
+4,RC Recreativo,1120.07
+4,Getafe,1253.59
+4,Levante,1240.75
+4,Gimnàstic de Tarragona,1100.87
+4,Almería,1235.2
+4,Xerez CD,1239.14
+4,Granada,1324.54
+4,Eibar,1319.58
+4,Córdoba,1148.36
+4,Leganés,1487.52
+5,Sporting,1361.05
+5,Athletic,1535.41
+5,Valencia,1350.52
+5,Espanyol,1337.58
+5,Cádiz CF,1055.71
+5,Las Palmas,1372.38
+5,Zaragoza,1209.28
+5,Sevilla,1451.3
+5,Osasuna,1256.5
+5,Atlético,1711.86
+5,Betis,1349.91
+5,CE Sabadell,728.42
+5,Real Sociedad,1442.69
+5,Real Madrid,1797.96
+5,Real Murcia,1038.98
+5,Valladolid,1220.27
+5,Barcelona,1773.45
+5,Celta,1426.75
+5,CD Logroñés,795.9
+5,Mallorca,1256.03
+5,Real Oviedo,1057.85
+5,Málaga,1399.85
+5,Elche,1266.32
+5,CD Castellón,755.32
+5,Rayo,1344.78
+5,Tenerife,1153.42
+5,Real Burgos,779.99
+5,Deportivo,1336.46
+5,Albacete,1051.36
+5,Real Racing,1116.52
+5,UE Lleida,897.63
+5,SD Compostela,1068.16
+5,CP Mérida,969.72
+5,UD Salamanca,907.16
+5,Hércules CF,1105.2
+5,CF Extremadura,1019.9200000000001
+5,Alavés,1195.27
+5,Villarreal,1488.97
+5,Numancia,1104.12
+5,RC Recreativo,1120.07
+5,Getafe,1253.59
+5,Levante,1240.75
+5,Gimnàstic de Tarragona,1100.87
+5,Almería,1235.2
+5,Xerez CD,1239.14
+5,Granada,1317.73
+5,Eibar,1307.98
+5,Córdoba,1148.36
+5,Leganés,1496.34
+6,Sporting,1354.7
+6,Athletic,1552.83
+6,Valencia,1370.66
+6,Espanyol,1320.47
+6,Cádiz CF,1055.71
+6,Las Palmas,1385.84
+6,Zaragoza,1209.28
+6,Sevilla,1433.88
+6,Osasuna,1247.0
+6,Atlético,1714.84
+6,Betis,1366.39
+6,CE Sabadell,728.42
+6,Real Sociedad,1411.4
+6,Real Madrid,1784.5
+6,Real Murcia,1038.98
+6,Valladolid,1220.27
+6,Barcelona,1779.8
+6,Celta,1443.86
+6,CD Logroñés,795.9
+6,Mallorca,1256.03
+6,Real Oviedo,1057.85
+6,Málaga,1383.37
+6,Elche,1266.32
+6,CD Castellón,755.32
+6,Rayo,1344.78
+6,Tenerife,1153.42
+6,Real Burgos,779.99
+6,Deportivo,1333.48
+6,Albacete,1051.36
+6,Real Racing,1116.52
+6,UE Lleida,897.63
+6,SD Compostela,1068.16
+6,CP Mérida,969.72
+6,UD Salamanca,907.16
+6,Hércules CF,1105.2
+6,CF Extremadura,1019.9200000000001
+6,Alavés,1225.86
+6,Villarreal,1498.47
+6,Numancia,1104.12
+6,RC Recreativo,1120.07
+6,Getafe,1253.59
+6,Levante,1240.75
+6,Gimnàstic de Tarragona,1100.87
+6,Almería,1235.2
+6,Xerez CD,1239.14
+6,Granada,1287.14
+6,Eibar,1339.27
+6,Córdoba,1148.36
+6,Leganés,1476.2
+7,Sporting,1339.4
+7,Athletic,1531.89
+7,Valencia,1365.12
+7,Espanyol,1328.02
+7,Cádiz CF,1055.71
+7,Las Palmas,1379.77
+7,Zaragoza,1209.28
+7,Sevilla,1440.57
+7,Osasuna,1253.07
+7,Atlético,1720.38
+7,Betis,1353.83
+7,CE Sabadell,728.42
+7,Real Sociedad,1423.96
+7,Real Madrid,1770.79
+7,Real Murcia,1038.98
+7,Valladolid,1220.27
+7,Barcelona,1754.61
+7,Celta,1469.05
+7,CD Logroñés,795.9
+7,Mallorca,1256.03
+7,Real Oviedo,1057.85
+7,Málaga,1404.31
+7,Elche,1266.32
+7,CD Castellón,755.32
+7,Rayo,1344.78
+7,Tenerife,1153.42
+7,Real Burgos,779.99
+7,Deportivo,1348.78
+7,Albacete,1051.36
+7,Real Racing,1116.52
+7,UE Lleida,897.63
+7,SD Compostela,1068.16
+7,CP Mérida,969.72
+7,UD Salamanca,907.16
+7,Hércules CF,1105.2
+7,CF Extremadura,1019.9200000000001
+7,Alavés,1219.17
+7,Villarreal,1490.92
+7,Numancia,1104.12
+7,RC Recreativo,1120.07
+7,Getafe,1253.59
+7,Levante,1240.75
+7,Gimnàstic de Tarragona,1100.87
+7,Almería,1235.2
+7,Xerez CD,1239.14
+7,Granada,1279.88
+7,Eibar,1352.98
+7,Córdoba,1148.36
+7,Leganés,1483.46
+8,Sporting,1326.05
+8,Athletic,1541.97
+8,Valencia,1378.47
+8,Espanyol,1330.39
+8,Cádiz CF,1055.71
+8,Las Palmas,1377.4
+8,Zaragoza,1209.28
+8,Sevilla,1456.76
+8,Osasuna,1271.52
+8,Atlético,1726.32
+8,Betis,1347.63
+8,CE Sabadell,728.42
+8,Real Sociedad,1413.88
+8,Real Madrid,1776.99
+8,Real Murcia,1038.98
+8,Valladolid,1220.27
+8,Barcelona,1760.51
+8,Celta,1434.12
+8,CD Logroñés,795.9
+8,Mallorca,1256.03
+8,Real Oviedo,1057.85
+8,Málaga,1396.51
+8,Elche,1266.32
+8,CD Castellón,755.32
+8,Rayo,1344.78
+8,Tenerife,1153.42
+8,Real Burgos,779.99
+8,Deportivo,1342.88
+8,Albacete,1051.36
+8,Real Racing,1116.52
+8,UE Lleida,897.63
+8,SD Compostela,1068.16
+8,CP Mérida,969.72
+8,UD Salamanca,907.16
+8,Hércules CF,1105.2
+8,CF Extremadura,1019.9200000000001
+8,Alavés,1226.97
+8,Villarreal,1525.85
+8,Numancia,1104.12
+8,RC Recreativo,1120.07
+8,Getafe,1253.59
+8,Levante,1240.75
+8,Gimnàstic de Tarragona,1100.87
+8,Almería,1235.2
+8,Xerez CD,1239.14
+8,Granada,1273.94
+8,Eibar,1334.53
+8,Córdoba,1148.36
+8,Leganés,1467.27
+9,Sporting,1323.67
+9,Athletic,1536.05
+9,Valencia,1375.59
+9,Espanyol,1330.58
+9,Cádiz CF,1055.71
+9,Las Palmas,1368.79
+9,Zaragoza,1209.28
+9,Sevilla,1480.55
+9,Osasuna,1260.21
+9,Atlético,1702.53
+9,Betis,1358.94
+9,CE Sabadell,728.42
+9,Real Sociedad,1428.54
+9,Real Madrid,1782.91
+9,Real Murcia,1038.98
+9,Valladolid,1220.27
+9,Barcelona,1763.39
+9,Celta,1455.55
+9,CD Logroñés,795.9
+9,Mallorca,1256.03
+9,Real Oviedo,1057.85
+9,Málaga,1436.71
+9,Elche,1266.32
+9,CD Castellón,755.32
+9,Rayo,1344.78
+9,Tenerife,1153.42
+9,Real Burgos,779.99
+9,Deportivo,1321.45
+9,Albacete,1051.36
+9,Real Racing,1116.52
+9,UE Lleida,897.63
+9,SD Compostela,1068.16
+9,CP Mérida,969.72
+9,UD Salamanca,907.16
+9,Hércules CF,1105.2
+9,CF Extremadura,1019.9200000000001
+9,Alavés,1212.31
+9,Villarreal,1534.46
+9,Numancia,1104.12
+9,RC Recreativo,1120.07
+9,Getafe,1253.59
+9,Levante,1240.75
+9,Gimnàstic de Tarragona,1100.87
+9,Almería,1235.2
+9,Xerez CD,1239.14
+9,Granada,1276.32
+9,Eibar,1334.34
+9,Córdoba,1148.36
+9,Leganés,1427.07
+10,Sporting,1330.44
+10,Athletic,1525.48
+10,Valencia,1373.12
+10,Espanyol,1346.17
+10,Cádiz CF,1055.71
+10,Las Palmas,1372.7
+10,Zaragoza,1209.28
+10,Sevilla,1473.78
+10,Osasuna,1270.78
+10,Atlético,1710.66
+10,Betis,1343.35
+10,CE Sabadell,728.42
+10,Real Sociedad,1451.29
+10,Real Madrid,1784.99
+10,Real Murcia,1038.98
+10,Valladolid,1220.27
+10,Barcelona,1765.04
+10,Celta,1451.64
+10,CD Logroñés,795.9
+10,Mallorca,1256.03
+10,Real Oviedo,1057.85
+10,Málaga,1428.58
+10,Elche,1266.32
+10,CD Castellón,755.32
+10,Rayo,1344.78
+10,Tenerife,1153.42
+10,Real Burgos,779.99
+10,Deportivo,1323.92
+10,Albacete,1051.36
+10,Real Racing,1116.52
+10,UE Lleida,897.63
+10,SD Compostela,1068.16
+10,CP Mérida,969.72
+10,UD Salamanca,907.16
+10,Hércules CF,1105.2
+10,CF Extremadura,1019.9200000000001
+10,Alavés,1210.23
+10,Villarreal,1512.55
+10,Numancia,1104.12
+10,RC Recreativo,1120.07
+10,Getafe,1253.59
+10,Levante,1240.75
+10,Gimnàstic de Tarragona,1100.87
+10,Almería,1235.2
+10,Xerez CD,1239.14
+10,Granada,1274.67
+10,Eibar,1356.25
+10,Córdoba,1148.36
+10,Leganés,1404.32
+11,Sporting,1319.99
+11,Athletic,1517.89
+11,Valencia,1361.91
+11,Espanyol,1353.76
+11,Cádiz CF,1055.71
+11,Las Palmas,1386.44
+11,Zaragoza,1209.28
+11,Sevilla,1469.24
+11,Osasuna,1253.88
+11,Atlético,1673.34
+11,Betis,1330.82
+11,CE Sabadell,728.42
+11,Real Sociedad,1488.61
+11,Real Madrid,1790.79
+11,Real Murcia,1038.98
+11,Valladolid,1220.27
+11,Barcelona,1769.58
+11,Celta,1462.85
+11,CD Logroñés,795.9
+11,Mallorca,1256.03
+11,Real Oviedo,1057.85
+11,Málaga,1439.03
+11,Elche,1266.32
+11,CD Castellón,755.32
+11,Rayo,1344.78
+11,Tenerife,1153.42
+11,Real Burgos,779.99
+11,Deportivo,1321.67
+11,Albacete,1051.36
+11,Real Racing,1116.52
+11,UE Lleida,897.63
+11,SD Compostela,1068.16
+11,CP Mérida,969.72
+11,UD Salamanca,907.16
+11,Hércules CF,1105.2
+11,CF Extremadura,1019.9200000000001
+11,Alavés,1227.13
+11,Villarreal,1525.08
+11,Numancia,1104.12
+11,RC Recreativo,1120.07
+11,Getafe,1253.59
+11,Levante,1240.75
+11,Gimnàstic de Tarragona,1100.87
+11,Almería,1235.2
+11,Xerez CD,1239.14
+11,Granada,1276.92
+11,Eibar,1342.51
+11,Córdoba,1148.36
+11,Leganés,1398.52
+12,Sporting,1307.43
+12,Athletic,1532.61
+12,Valencia,1358.07
+12,Espanyol,1363.14
+12,Cádiz CF,1055.71
+12,Las Palmas,1359.96
+12,Zaragoza,1209.28
+12,Sevilla,1477.88
+12,Osasuna,1240.03
+12,Atlético,1653.9
+12,Betis,1357.3
+12,CE Sabadell,728.42
+12,Real Sociedad,1501.17
+12,Real Madrid,1810.23
+12,Real Murcia,1038.98
+12,Valladolid,1220.27
+12,Barcelona,1757.73
+12,Celta,1443.63
+12,CD Logroñés,795.9
+12,Mallorca,1256.03
+12,Real Oviedo,1057.85
+12,Málaga,1450.88
+12,Elche,1266.32
+12,CD Castellón,755.32
+12,Rayo,1344.78
+12,Tenerife,1153.42
+12,Real Burgos,779.99
+12,Deportivo,1313.03
+12,Albacete,1051.36
+12,Real Racing,1116.52
+12,UE Lleida,897.63
+12,SD Compostela,1068.16
+12,CP Mérida,969.72
+12,UD Salamanca,907.16
+12,Hércules CF,1105.2
+12,CF Extremadura,1019.9200000000001
+12,Alavés,1217.75
+12,Villarreal,1510.36
+12,Numancia,1104.12
+12,RC Recreativo,1120.07
+12,Getafe,1253.59
+12,Levante,1240.75
+12,Gimnàstic de Tarragona,1100.87
+12,Almería,1235.2
+12,Xerez CD,1239.14
+12,Granada,1280.76
+12,Eibar,1361.73
+12,Córdoba,1148.36
+12,Leganés,1412.37
+13,Sporting,1305.92
+13,Athletic,1499.25
+13,Valencia,1348.44
+13,Espanyol,1396.03
+13,Cádiz CF,1055.71
+13,Las Palmas,1393.32
+13,Zaragoza,1209.28
+13,Sevilla,1487.51
+13,Osasuna,1235.16
+13,Atlético,1658.77
+13,Betis,1334.74
+13,CE Sabadell,728.42
+13,Real Sociedad,1511.22
+13,Real Madrid,1811.74
+13,Real Murcia,1038.98
+13,Valladolid,1220.27
+13,Barcelona,1747.68
+13,Celta,1456.49
+13,CD Logroñés,795.9
+13,Mallorca,1256.03
+13,Real Oviedo,1057.85
+13,Málaga,1459.86
+13,Elche,1266.32
+13,CD Castellón,755.32
+13,Rayo,1344.78
+13,Tenerife,1153.42
+13,Real Burgos,779.99
+13,Deportivo,1304.05
+13,Albacete,1051.36
+13,Real Racing,1116.52
+13,UE Lleida,897.63
+13,SD Compostela,1068.16
+13,CP Mérida,969.72
+13,UD Salamanca,907.16
+13,Hércules CF,1105.2
+13,CF Extremadura,1019.9200000000001
+13,Alavés,1256.3
+13,Villarreal,1471.81
+13,Numancia,1104.12
+13,RC Recreativo,1120.07
+13,Getafe,1253.59
+13,Levante,1240.75
+13,Gimnàstic de Tarragona,1100.87
+13,Almería,1235.2
+13,Xerez CD,1239.14
+13,Granada,1267.9
+13,Eibar,1384.29
+13,Córdoba,1148.36
+13,Leganés,1379.48
+14,Sporting,1324.18
+14,Athletic,1514.8
+14,Valencia,1353.4
+14,Espanyol,1406.25
+14,Cádiz CF,1055.71
+14,Las Palmas,1387.32
+14,Zaragoza,1209.28
+14,Sevilla,1465.03
+14,Osasuna,1216.9
+14,Atlético,1648.55
+14,Betis,1340.13
+14,CE Sabadell,728.42
+14,Real Sociedad,1459.85
+14,Real Madrid,1808.82
+14,Real Murcia,1038.98
+14,Valladolid,1220.27
+14,Barcelona,1750.6
+14,Celta,1451.1
+14,CD Logroñés,795.9
+14,Mallorca,1256.03
+14,Real Oviedo,1057.85
+14,Málaga,1454.9
+14,Elche,1266.32
+14,CD Castellón,755.32
+14,Rayo,1344.78
+14,Tenerife,1153.42
+14,Real Burgos,779.99
+14,Deportivo,1355.42
+14,Albacete,1051.36
+14,Real Racing,1116.52
+14,UE Lleida,897.63
+14,SD Compostela,1068.16
+14,CP Mérida,969.72
+14,UD Salamanca,907.16
+14,Hércules CF,1105.2
+14,CF Extremadura,1019.9200000000001
+14,Alavés,1262.3
+14,Villarreal,1467.66
+14,Numancia,1104.12
+14,RC Recreativo,1120.07
+14,Getafe,1253.59
+14,Levante,1240.75
+14,Gimnàstic de Tarragona,1100.87
+14,Almería,1235.2
+14,Xerez CD,1239.14
+14,Granada,1290.38
+14,Eibar,1368.74
+14,Córdoba,1148.36
+14,Leganés,1383.63
+15,Sporting,1313.11
+15,Athletic,1493.69
+15,Valencia,1343.27
+15,Espanyol,1417.32
+15,Cádiz CF,1055.71
+15,Las Palmas,1387.15
+15,Zaragoza,1209.28
+15,Sevilla,1492.71
+15,Osasuna,1214.35
+15,Atlético,1605.93
+15,Betis,1361.24
+15,CE Sabadell,728.42
+15,Real Sociedad,1469.98
+15,Real Madrid,1810.8
+15,Real Murcia,1038.98
+15,Valladolid,1220.27
+15,Barcelona,1753.15
+15,Celta,1423.42
+15,CD Logroñés,795.9
+15,Mallorca,1256.03
+15,Real Oviedo,1057.85
+15,Málaga,1447.84
+15,Elche,1266.32
+15,CD Castellón,755.32
+15,Rayo,1344.78
+15,Tenerife,1153.42
+15,Real Burgos,779.99
+15,Deportivo,1353.44
+15,Albacete,1051.36
+15,Real Racing,1116.52
+15,UE Lleida,897.63
+15,SD Compostela,1068.16
+15,CP Mérida,969.72
+15,UD Salamanca,907.16
+15,Hércules CF,1105.2
+15,CF Extremadura,1019.9200000000001
+15,Alavés,1267.05
+15,Villarreal,1510.28
+15,Numancia,1104.12
+15,RC Recreativo,1120.07
+15,Getafe,1253.59
+15,Levante,1240.75
+15,Gimnàstic de Tarragona,1100.87
+15,Almería,1235.2
+15,Xerez CD,1239.14
+15,Granada,1297.44
+15,Eibar,1363.99
+15,Córdoba,1148.36
+15,Leganés,1383.8
+16,Sporting,1301.99
+16,Athletic,1505.23
+16,Valencia,1370.27
+16,Espanyol,1410.03
+16,Cádiz CF,1055.71
+16,Las Palmas,1380.78
+16,Zaragoza,1209.28
+16,Sevilla,1517.84
+16,Osasuna,1200.19
+16,Atlético,1612.3
+16,Betis,1343.01
+16,CE Sabadell,728.42
+16,Real Sociedad,1482.33
+16,Real Madrid,1783.8
+16,Real Murcia,1038.98
+16,Valladolid,1220.27
+16,Barcelona,1760.44
+16,Celta,1411.88
+16,CD Logroñés,795.9
+16,Mallorca,1256.03
+16,Real Oviedo,1057.85
+16,Málaga,1422.71
+16,Elche,1266.32
+16,CD Castellón,755.32
+16,Rayo,1344.78
+16,Tenerife,1153.42
+16,Real Burgos,779.99
+16,Deportivo,1367.6
+16,Albacete,1051.36
+16,Real Racing,1116.52
+16,UE Lleida,897.63
+16,SD Compostela,1068.16
+16,CP Mérida,969.72
+16,UD Salamanca,907.16
+16,Hércules CF,1105.2
+16,CF Extremadura,1019.9200000000001
+16,Alavés,1285.28
+16,Villarreal,1521.4
+16,Numancia,1104.12
+16,RC Recreativo,1120.07
+16,Getafe,1253.59
+16,Levante,1240.75
+16,Gimnàstic de Tarragona,1100.87
+16,Almería,1235.2
+16,Xerez CD,1239.14
+16,Granada,1285.09
+16,Eibar,1364.9
+16,Córdoba,1148.36
+16,Leganés,1382.89
+17,Sporting,1290.79
+17,Athletic,1496.27
+17,Valencia,1363.01
+17,Espanyol,1408.09
+17,Cádiz CF,1055.71
+17,Las Palmas,1391.98
+17,Zaragoza,1209.28
+17,Sevilla,1547.91
+17,Osasuna,1207.45
+17,Atlético,1621.17
+17,Betis,1368.47
+17,CE Sabadell,728.42
+17,Real Sociedad,1452.26
+17,Real Madrid,1787.8
+17,Real Murcia,1038.98
+17,Valladolid,1220.27
+17,Barcelona,1750.89
+17,Celta,1435.44
+17,CD Logroñés,795.9
+17,Mallorca,1256.03
+17,Real Oviedo,1057.85
+17,Málaga,1399.15
+17,Elche,1266.32
+17,CD Castellón,755.32
+17,Rayo,1344.78
+17,Tenerife,1153.42
+17,Real Burgos,779.99
+17,Deportivo,1369.54
+17,Albacete,1051.36
+17,Real Racing,1116.52
+17,UE Lleida,897.63
+17,SD Compostela,1068.16
+17,CP Mérida,969.72
+17,UD Salamanca,907.16
+17,Hércules CF,1105.2
+17,CF Extremadura,1019.9200000000001
+17,Alavés,1294.24
+17,Villarreal,1530.95
+17,Numancia,1104.12
+17,RC Recreativo,1120.07
+17,Getafe,1253.59
+17,Levante,1240.75
+17,Gimnàstic de Tarragona,1100.87
+17,Almería,1235.2
+17,Xerez CD,1239.14
+17,Granada,1281.09
+17,Eibar,1356.03
+17,Córdoba,1148.36
+17,Leganés,1357.43
+18,Sporting,1279.05
+18,Athletic,1490.2
+18,Valencia,1379.29
+18,Espanyol,1391.81
+18,Cádiz CF,1055.71
+18,Las Palmas,1383.6
+18,Zaragoza,1209.28
+18,Sevilla,1570.95
+18,Osasuna,1210.79
+18,Atlético,1626.63
+18,Betis,1363.01
+18,CE Sabadell,728.42
+18,Real Sociedad,1471.65
+18,Real Madrid,1764.76
+18,Real Murcia,1038.98
+18,Valladolid,1220.27
+18,Barcelona,1759.27
+18,Celta,1444.3
+18,CD Logroñés,795.9
+18,Mallorca,1256.03
+18,Real Oviedo,1057.85
+18,Málaga,1379.76
+18,Elche,1266.32
+18,CD Castellón,755.32
+18,Rayo,1344.78
+18,Tenerife,1153.42
+18,Real Burgos,779.99
+18,Deportivo,1376.48
+18,Albacete,1051.36
+18,Real Racing,1116.52
+18,UE Lleida,897.63
+18,SD Compostela,1068.16
+18,CP Mérida,969.72
+18,UD Salamanca,907.16
+18,Hércules CF,1105.2
+18,CF Extremadura,1019.9200000000001
+18,Alavés,1285.38
+18,Villarreal,1524.01
+18,Numancia,1104.12
+18,RC Recreativo,1120.07
+18,Getafe,1253.59
+18,Levante,1240.75
+18,Gimnàstic de Tarragona,1100.87
+18,Almería,1235.2
+18,Xerez CD,1239.14
+18,Granada,1277.75
+18,Eibar,1367.77
+18,Córdoba,1148.36
+18,Leganés,1363.5
+19,Sporting,1282.84
+19,Athletic,1496.18
+19,Valencia,1411.14
+19,Espanyol,1407.42
+19,Cádiz CF,1055.71
+19,Las Palmas,1383.27
+19,Zaragoza,1209.28
+19,Sevilla,1574.17
+19,Osasuna,1207.57
+19,Atlético,1620.65
+19,Betis,1359.22
+19,CE Sabadell,728.42
+19,Real Sociedad,1484.93
+19,Real Madrid,1767.59
+19,Real Murcia,1038.98
+19,Valladolid,1220.27
+19,Barcelona,1765.63
+19,Celta,1431.02
+19,CD Logroñés,795.9
+19,Mallorca,1256.03
+19,Real Oviedo,1057.85
+19,Málaga,1376.93
+19,Elche,1266.32
+19,CD Castellón,755.32
+19,Rayo,1344.78
+19,Tenerife,1153.42
+19,Real Burgos,779.99
+19,Deportivo,1376.81
+19,Albacete,1051.36
+19,Real Racing,1116.52
+19,UE Lleida,897.63
+19,SD Compostela,1068.16
+19,CP Mérida,969.72
+19,UD Salamanca,907.16
+19,Hércules CF,1105.2
+19,CF Extremadura,1019.9200000000001
+19,Alavés,1288.92
+19,Villarreal,1492.16
+19,Numancia,1104.12
+19,RC Recreativo,1120.07
+19,Getafe,1253.59
+19,Levante,1240.75
+19,Gimnàstic de Tarragona,1100.87
+19,Almería,1235.2
+19,Xerez CD,1239.14
+19,Granada,1262.14
+19,Eibar,1361.41
+19,Córdoba,1148.36
+19,Leganés,1359.96
+20,Sporting,1276.31
+20,Athletic,1502.71
+20,Valencia,1386.46
+20,Espanyol,1440.47
+20,Cádiz CF,1055.71
+20,Las Palmas,1407.95
+20,Zaragoza,1209.28
+20,Sevilla,1541.12
+20,Osasuna,1214.81
+20,Atlético,1608.78
+20,Betis,1372.41
+20,CE Sabadell,728.42
+20,Real Sociedad,1475.46
+20,Real Madrid,1777.06
+20,Real Murcia,1038.98
+20,Valladolid,1220.27
+20,Barcelona,1752.44
+20,Celta,1449.26
+20,CD Logroñés,795.9
+20,Mallorca,1256.03
+20,Real Oviedo,1057.85
+20,Málaga,1369.69
+20,Elche,1266.32
+20,CD Castellón,755.32
+20,Rayo,1344.78
+20,Tenerife,1153.42
+20,Real Burgos,779.99
+20,Deportivo,1352.95
+20,Albacete,1051.36
+20,Real Racing,1116.52
+20,UE Lleida,897.63
+20,SD Compostela,1068.16
+20,CP Mérida,969.72
+20,UD Salamanca,907.16
+20,Hércules CF,1105.2
+20,CF Extremadura,1019.9200000000001
+20,Alavés,1300.79
+20,Villarreal,1501.76
+20,Numancia,1104.12
+20,RC Recreativo,1120.07
+20,Getafe,1253.59
+20,Levante,1240.75
+20,Gimnàstic de Tarragona,1100.87
+20,Almería,1235.2
+20,Xerez CD,1239.14
+20,Granada,1252.54
+20,Eibar,1385.27
+20,Córdoba,1148.36
+20,Leganés,1341.72
+21,Sporting,1255.07
+21,Athletic,1491.64
+21,Valencia,1352.87
+21,Espanyol,1451.99
+21,Cádiz CF,1055.71
+21,Las Palmas,1387.48
+21,Zaragoza,1209.28
+21,Sevilla,1539.32
+21,Osasuna,1209.55
+21,Atlético,1616.87
+21,Betis,1371.51
+21,CE Sabadell,728.42
+21,Real Sociedad,1480.72
+21,Real Madrid,1784.65
+21,Real Murcia,1038.98
+21,Valladolid,1220.27
+21,Barcelona,1763.51
+21,Celta,1441.67
+21,CD Logroñés,795.9
+21,Mallorca,1256.03
+21,Real Oviedo,1057.85
+21,Málaga,1358.17
+21,Elche,1266.32
+21,CD Castellón,755.32
+21,Rayo,1344.78
+21,Tenerife,1153.42
+21,Real Burgos,779.99
+21,Deportivo,1353.85
+21,Albacete,1051.36
+21,Real Racing,1116.52
+21,UE Lleida,897.63
+21,SD Compostela,1068.16
+21,CP Mérida,969.72
+21,UD Salamanca,907.16
+21,Hércules CF,1105.2
+21,CF Extremadura,1019.9200000000001
+21,Alavés,1322.03
+21,Villarreal,1503.56
+21,Numancia,1104.12
+21,RC Recreativo,1120.07
+21,Getafe,1253.59
+21,Levante,1240.75
+21,Gimnàstic de Tarragona,1100.87
+21,Almería,1235.2
+21,Xerez CD,1239.14
+21,Granada,1273.01
+21,Eibar,1418.86
+21,Córdoba,1148.36
+21,Leganés,1333.63
+22,Sporting,1283.0
+22,Athletic,1500.62
+22,Valencia,1353.73
+22,Espanyol,1438.76
+22,Cádiz CF,1055.71
+22,Las Palmas,1378.99
+22,Zaragoza,1209.28
+22,Sevilla,1547.81
+22,Osasuna,1207.94
+22,Atlético,1624.58
+22,Betis,1370.65
+22,CE Sabadell,728.42
+22,Real Sociedad,1493.95
+22,Real Madrid,1786.26
+22,Real Murcia,1038.98
+22,Valladolid,1220.27
+22,Barcelona,1769.42
+22,Celta,1433.96
+22,CD Logroñés,795.9
+22,Mallorca,1256.03
+22,Real Oviedo,1057.85
+22,Málaga,1364.5
+22,Elche,1266.32
+22,CD Castellón,755.32
+22,Rayo,1344.78
+22,Tenerife,1153.42
+22,Real Burgos,779.99
+22,Deportivo,1344.87
+22,Albacete,1051.36
+22,Real Racing,1116.52
+22,UE Lleida,897.63
+22,SD Compostela,1068.16
+22,CP Mérida,969.72
+22,UD Salamanca,907.16
+22,Hércules CF,1105.2
+22,CF Extremadura,1019.9200000000001
+22,Alavés,1316.12
+22,Villarreal,1497.23
+22,Numancia,1104.12
+22,RC Recreativo,1120.07
+22,Getafe,1253.59
+22,Levante,1240.75
+22,Gimnàstic de Tarragona,1100.87
+22,Almería,1235.2
+22,Xerez CD,1239.14
+22,Granada,1252.82
+22,Eibar,1439.05
+22,Córdoba,1148.36
+22,Leganés,1305.7
+23,Sporting,1275.92
+23,Athletic,1468.65
+23,Valencia,1385.7
+23,Espanyol,1433.31
+23,Cádiz CF,1055.71
+23,Las Palmas,1363.97
+23,Zaragoza,1209.28
+23,Sevilla,1563.73
+23,Osasuna,1195.6
+23,Atlético,1631.66
+23,Betis,1332.39
+23,CE Sabadell,728.42
+23,Real Sociedad,1479.67
+23,Real Madrid,1791.71
+23,Real Murcia,1038.98
+23,Valladolid,1220.27
+23,Barcelona,1771.29
+23,Celta,1446.3
+23,CD Logroñés,795.9
+23,Mallorca,1256.03
+23,Real Oviedo,1057.85
+23,Málaga,1379.52
+23,Elche,1266.32
+23,CD Castellón,755.32
+23,Rayo,1344.78
+23,Tenerife,1153.42
+23,Real Burgos,779.99
+23,Deportivo,1329.26
+23,Albacete,1051.36
+23,Real Racing,1116.52
+23,UE Lleida,897.63
+23,SD Compostela,1068.16
+23,CP Mérida,969.72
+23,UD Salamanca,907.16
+23,Hércules CF,1105.2
+23,CF Extremadura,1019.9200000000001
+23,Alavés,1331.73
+23,Villarreal,1511.51
+23,Numancia,1104.12
+23,RC Recreativo,1120.07
+23,Getafe,1253.59
+23,Levante,1240.75
+23,Gimnàstic de Tarragona,1100.87
+23,Almería,1235.2
+23,Xerez CD,1239.14
+23,Granada,1291.08
+23,Eibar,1423.13
+23,Córdoba,1148.36
+23,Leganés,1303.83
+24,Sporting,1283.19
+24,Athletic,1480.74
+24,Valencia,1369.06
+24,Espanyol,1445.01
+24,Cádiz CF,1055.71
+24,Las Palmas,1354.18
+24,Zaragoza,1209.28
+24,Sevilla,1569.75
+24,Osasuna,1183.9
+24,Atlético,1622.74
+24,Betis,1326.37
+24,CE Sabadell,728.42
+24,Real Sociedad,1489.46
+24,Real Madrid,1796.5
+24,Real Murcia,1038.98
+24,Valladolid,1220.27
+24,Barcelona,1780.21
+24,Celta,1439.03
+24,CD Logroñés,795.9
+24,Mallorca,1256.03
+24,Real Oviedo,1057.85
+24,Málaga,1354.29
+24,Elche,1266.32
+24,CD Castellón,755.32
+24,Rayo,1344.78
+24,Tenerife,1153.42
+24,Real Burgos,779.99
+24,Deportivo,1293.34
+24,Albacete,1051.36
+24,Real Racing,1116.52
+24,UE Lleida,897.63
+24,SD Compostela,1068.16
+24,CP Mérida,969.72
+24,UD Salamanca,907.16
+24,Hércules CF,1105.2
+24,CF Extremadura,1019.9200000000001
+24,Alavés,1348.37
+24,Villarreal,1506.72
+24,Numancia,1104.12
+24,RC Recreativo,1120.07
+24,Getafe,1253.59
+24,Levante,1240.75
+24,Gimnàstic de Tarragona,1100.87
+24,Almería,1235.2
+24,Xerez CD,1239.14
+24,Granada,1278.99
+24,Eibar,1448.36
+24,Córdoba,1148.36
+24,Leganés,1339.75
+25,Sporting,1279.16
+25,Athletic,1469.94
+25,Valencia,1382.26
+25,Espanyol,1444.73
+25,Cádiz CF,1055.71
+25,Las Palmas,1367.85
+25,Zaragoza,1209.28
+25,Sevilla,1580.55
+25,Osasuna,1176.12
+25,Atlético,1610.92
+25,Betis,1341.94
+25,CE Sabadell,728.42
+25,Real Sociedad,1487.58
+25,Real Madrid,1782.83
+25,Real Murcia,1038.98
+25,Valladolid,1220.27
+25,Barcelona,1784.24
+25,Celta,1439.31
+25,CD Logroñés,795.9
+25,Mallorca,1256.03
+25,Real Oviedo,1057.85
+25,Málaga,1338.72
+25,Elche,1266.32
+25,CD Castellón,755.32
+25,Rayo,1344.78
+25,Tenerife,1153.42
+25,Real Burgos,779.99
+25,Deportivo,1305.16
+25,Albacete,1051.36
+25,Real Racing,1116.52
+25,UE Lleida,897.63
+25,SD Compostela,1068.16
+25,CP Mérida,969.72
+25,UD Salamanca,907.16
+25,Hércules CF,1105.2
+25,CF Extremadura,1019.9200000000001
+25,Alavés,1331.11
+25,Villarreal,1514.5
+25,Numancia,1104.12
+25,RC Recreativo,1120.07
+25,Getafe,1253.59
+25,Levante,1240.75
+25,Gimnàstic de Tarragona,1100.87
+25,Almería,1235.2
+25,Xerez CD,1239.14
+25,Granada,1296.25
+25,Eibar,1450.24
+25,Córdoba,1148.36
+25,Leganés,1326.55
+26,Sporting,1265.82
+26,Athletic,1479.16
+26,Valencia,1370.07
+26,Espanyol,1426.41
+26,Cádiz CF,1055.71
+26,Las Palmas,1382.21
+26,Zaragoza,1209.28
+26,Sevilla,1570.7
+26,Osasuna,1161.76
+26,Atlético,1623.11
+26,Betis,1333.24
+26,CE Sabadell,728.42
+26,Real Sociedad,1496.28
+26,Real Madrid,1790.24
+26,Real Murcia,1038.98
+26,Valladolid,1220.27
+26,Barcelona,1793.24
+26,Celta,1430.31
+26,CD Logroñés,795.9
+26,Mallorca,1256.03
+26,Real Oviedo,1057.85
+26,Málaga,1329.5
+26,Elche,1266.32
+26,CD Castellón,755.32
+26,Rayo,1344.78
+26,Tenerife,1153.42
+26,Real Burgos,779.99
+26,Deportivo,1318.5
+26,Albacete,1051.36
+26,Real Racing,1116.52
+26,UE Lleida,897.63
+26,SD Compostela,1068.16
+26,CP Mérida,969.72
+26,UD Salamanca,907.16
+26,Hércules CF,1105.2
+26,CF Extremadura,1019.9200000000001
+26,Alavés,1340.96
+26,Villarreal,1532.82
+26,Numancia,1104.12
+26,RC Recreativo,1120.07
+26,Getafe,1253.59
+26,Levante,1240.75
+26,Gimnàstic de Tarragona,1100.87
+26,Almería,1235.2
+26,Xerez CD,1239.14
+26,Granada,1283.09
+26,Eibar,1442.83
+26,Córdoba,1148.36
+26,Leganés,1339.71
+27,Sporting,1270.48
+27,Athletic,1503.14
+27,Valencia,1365.41
+27,Espanyol,1439.0
+27,Cádiz CF,1055.71
+27,Las Palmas,1369.62
+27,Zaragoza,1209.28
+27,Sevilla,1561.39
+27,Osasuna,1172.46
+27,Atlético,1626.68
+27,Betis,1331.3
+27,CE Sabadell,728.42
+27,Real Sociedad,1472.3
+27,Real Madrid,1792.18
+27,Real Murcia,1038.98
+27,Valladolid,1220.27
+27,Barcelona,1766.17
+27,Celta,1420.03
+27,CD Logroñés,795.9
+27,Mallorca,1256.03
+27,Real Oviedo,1057.85
+27,Málaga,1315.56
+27,Elche,1266.32
+27,CD Castellón,755.32
+27,Rayo,1344.78
+27,Tenerife,1153.42
+27,Real Burgos,779.99
+27,Deportivo,1345.57
+27,Albacete,1051.36
+27,Real Racing,1116.52
+27,UE Lleida,897.63
+27,SD Compostela,1068.16
+27,CP Mérida,969.72
+27,UD Salamanca,907.16
+27,Hércules CF,1105.2
+27,CF Extremadura,1019.9200000000001
+27,Alavés,1354.9
+27,Villarreal,1543.1
+27,Numancia,1104.12
+27,RC Recreativo,1120.07
+27,Getafe,1253.59
+27,Levante,1240.75
+27,Gimnàstic de Tarragona,1100.87
+27,Almería,1235.2
+27,Xerez CD,1239.14
+27,Granada,1279.52
+27,Eibar,1432.13
+27,Córdoba,1148.36
+27,Leganés,1349.02
+28,Sporting,1293.93
+28,Athletic,1498.55
+28,Valencia,1361.27
+28,Espanyol,1438.68
+28,Cádiz CF,1055.71
+28,Las Palmas,1390.69
+28,Zaragoza,1209.28
+28,Sevilla,1542.78
+28,Osasuna,1159.38
+28,Atlético,1645.29
+28,Betis,1344.38
+28,CE Sabadell,728.42
+28,Real Sociedad,1453.19
+28,Real Madrid,1796.77
+28,Real Murcia,1038.98
+28,Valladolid,1220.27
+28,Barcelona,1770.31
+28,Celta,1431.4
+28,CD Logroñés,795.9
+28,Mallorca,1256.03
+28,Real Oviedo,1057.85
+28,Málaga,1317.1
+28,Elche,1266.32
+28,CD Castellón,755.32
+28,Rayo,1344.78
+28,Tenerife,1153.42
+28,Real Burgos,779.99
+28,Deportivo,1334.2
+28,Albacete,1051.36
+28,Real Racing,1116.52
+28,UE Lleida,897.63
+28,SD Compostela,1068.16
+28,CP Mérida,969.72
+28,UD Salamanca,907.16
+28,Hércules CF,1105.2
+28,CF Extremadura,1019.9200000000001
+28,Alavés,1374.01
+28,Villarreal,1522.03
+28,Numancia,1104.12
+28,RC Recreativo,1120.07
+28,Getafe,1253.59
+28,Levante,1240.75
+28,Gimnàstic de Tarragona,1100.87
+28,Almería,1235.2
+28,Xerez CD,1239.14
+28,Granada,1256.07
+28,Eibar,1432.45
+28,Córdoba,1148.36
+28,Leganés,1347.48
+29,Sporting,1303.76
+29,Athletic,1502.13
+29,Valencia,1387.86
+29,Espanyol,1449.28
+29,Cádiz CF,1055.71
+29,Las Palmas,1370.5
+29,Zaragoza,1209.28
+29,Sevilla,1532.95
+29,Osasuna,1155.8
+29,Atlético,1651.29
+29,Betis,1333.78
+29,CE Sabadell,728.42
+29,Real Sociedad,1448.47
+29,Real Madrid,1801.42
+29,Real Murcia,1038.98
+29,Valladolid,1220.27
+29,Barcelona,1773.15
+29,Celta,1451.59
+29,CD Logroñés,795.9
+29,Mallorca,1256.03
+29,Real Oviedo,1057.85
+29,Málaga,1311.1
+29,Elche,1266.32
+29,CD Castellón,755.32
+29,Rayo,1344.78
+29,Tenerife,1153.42
+29,Real Burgos,779.99
+29,Deportivo,1307.61
+29,Albacete,1051.36
+29,Real Racing,1116.52
+29,UE Lleida,897.63
+29,SD Compostela,1068.16
+29,CP Mérida,969.72
+29,UD Salamanca,907.16
+29,Hércules CF,1105.2
+29,CF Extremadura,1019.9200000000001
+29,Alavés,1369.36
+29,Villarreal,1503.98
+29,Numancia,1104.12
+29,RC Recreativo,1120.07
+29,Getafe,1253.59
+29,Levante,1240.75
+29,Gimnàstic de Tarragona,1100.87
+29,Almería,1235.2
+29,Xerez CD,1239.14
+29,Granada,1253.23
+29,Eibar,1450.5
+29,Córdoba,1148.36
+29,Leganés,1352.2
+30,Sporting,1289.65
+30,Athletic,1521.53
+30,Valencia,1404.89
+30,Espanyol,1429.88
+30,Cádiz CF,1055.71
+30,Las Palmas,1352.82
+30,Zaragoza,1209.28
+30,Sevilla,1521.38
+30,Osasuna,1178.11
+30,Atlético,1658.13
+30,Betis,1325.91
+30,CE Sabadell,728.42
+30,Real Sociedad,1441.63
+30,Real Madrid,1804.62
+30,Real Murcia,1038.98
+30,Valladolid,1220.27
+30,Barcelona,1784.72
+30,Celta,1434.56
+30,CD Logroñés,795.9
+30,Mallorca,1256.03
+30,Real Oviedo,1057.85
+30,Málaga,1325.21
+30,Elche,1266.32
+30,CD Castellón,755.32
+30,Rayo,1344.78
+30,Tenerife,1153.42
+30,Real Burgos,779.99
+30,Deportivo,1305.13
+30,Albacete,1051.36
+30,Real Racing,1116.52
+30,UE Lleida,897.63
+30,SD Compostela,1068.16
+30,CP Mérida,969.72
+30,UD Salamanca,907.16
+30,Hércules CF,1105.2
+30,CF Extremadura,1019.9200000000001
+30,Alavés,1347.05
+30,Villarreal,1511.85
+30,Numancia,1104.12
+30,RC Recreativo,1120.07
+30,Getafe,1253.59
+30,Levante,1240.75
+30,Gimnàstic de Tarragona,1100.87
+30,Almería,1235.2
+30,Xerez CD,1239.14
+30,Granada,1255.71
+30,Eibar,1468.18
+30,Córdoba,1148.36
+30,Leganés,1349.0
+31,Sporting,1276.2
+31,Athletic,1498.04
+31,Valencia,1418.49
+31,Espanyol,1440.92
+31,Cádiz CF,1055.71
+31,Las Palmas,1379.43
+31,Zaragoza,1209.28
+31,Sevilla,1531.6
+31,Osasuna,1199.1
+31,Atlético,1664.5
+31,Betis,1299.3
+31,CE Sabadell,728.42
+31,Real Sociedad,1455.08
+31,Real Madrid,1798.25
+31,Real Murcia,1038.98
+31,Valladolid,1220.27
+31,Barcelona,1742.05
+31,Celta,1413.91
+31,CD Logroñés,795.9
+31,Mallorca,1256.03
+31,Real Oviedo,1057.85
+31,Málaga,1367.88
+31,Elche,1266.32
+31,CD Castellón,755.32
+31,Rayo,1344.78
+31,Tenerife,1153.42
+31,Real Burgos,779.99
+31,Deportivo,1294.91
+31,Albacete,1051.36
+31,Real Racing,1116.52
+31,UE Lleida,897.63
+31,SD Compostela,1068.16
+31,CP Mérida,969.72
+31,UD Salamanca,907.16
+31,Hércules CF,1105.2
+31,CF Extremadura,1019.9200000000001
+31,Alavés,1336.01
+31,Villarreal,1535.34
+31,Numancia,1104.12
+31,RC Recreativo,1120.07
+31,Getafe,1253.59
+31,Levante,1240.75
+31,Gimnàstic de Tarragona,1100.87
+31,Almería,1235.2
+31,Xerez CD,1239.14
+31,Granada,1242.11
+31,Eibar,1488.83
+31,Córdoba,1148.36
+31,Leganés,1328.01
+32,Sporting,1274.84
+32,Athletic,1520.51
+32,Valencia,1423.52
+32,Espanyol,1450.81
+32,Cádiz CF,1055.71
+32,Las Palmas,1356.96
+32,Zaragoza,1209.28
+32,Sevilla,1526.57
+32,Osasuna,1195.4
+32,Atlético,1668.2
+32,Betis,1333.51
+32,CE Sabadell,728.42
+32,Real Sociedad,1450.44
+32,Real Madrid,1799.61
+32,Real Murcia,1038.98
+32,Valladolid,1220.27
+32,Barcelona,1746.69
+32,Celta,1429.55
+32,CD Logroñés,795.9
+32,Mallorca,1256.03
+32,Real Oviedo,1057.85
+32,Málaga,1340.3
+32,Elche,1266.32
+32,CD Castellón,755.32
+32,Rayo,1344.78
+32,Tenerife,1153.42
+32,Real Burgos,779.99
+32,Deportivo,1322.49
+32,Albacete,1051.36
+32,Real Racing,1116.52
+32,UE Lleida,897.63
+32,SD Compostela,1068.16
+32,CP Mérida,969.72
+32,UD Salamanca,907.16
+32,Hércules CF,1105.2
+32,CF Extremadura,1019.9200000000001
+32,Alavés,1357.9
+32,Villarreal,1513.45
+32,Numancia,1104.12
+32,RC Recreativo,1120.07
+32,Getafe,1253.59
+32,Levante,1240.75
+32,Gimnàstic de Tarragona,1100.87
+32,Almería,1235.2
+32,Xerez CD,1239.14
+32,Granada,1226.47
+32,Eibar,1454.62
+32,Córdoba,1148.36
+32,Leganés,1318.12
+33,Sporting,1271.24
+33,Athletic,1532.23
+33,Valencia,1395.3
+33,Espanyol,1444.4
+33,Cádiz CF,1055.71
+33,Las Palmas,1357.0
+33,Zaragoza,1209.28
+33,Sevilla,1533.47
+33,Osasuna,1199.0
+33,Atlético,1674.61
+33,Betis,1351.81
+33,CE Sabadell,728.42
+33,Real Sociedad,1459.78
+33,Real Madrid,1783.01
+33,Real Murcia,1038.98
+33,Valladolid,1220.27
+33,Barcelona,1763.29
+33,Celta,1411.25
+33,CD Logroñés,795.9
+33,Mallorca,1256.03
+33,Real Oviedo,1057.85
+33,Málaga,1368.52
+33,Elche,1266.32
+33,CD Castellón,755.32
+33,Rayo,1344.78
+33,Tenerife,1153.42
+33,Real Burgos,779.99
+33,Deportivo,1313.15
+33,Albacete,1051.36
+33,Real Racing,1116.52
+33,UE Lleida,897.63
+33,SD Compostela,1068.16
+33,CP Mérida,969.72
+33,UD Salamanca,907.16
+33,Hércules CF,1105.2
+33,CF Extremadura,1019.9200000000001
+33,Alavés,1357.86
+33,Villarreal,1520.52
+33,Numancia,1104.12
+33,RC Recreativo,1120.07
+33,Getafe,1253.59
+33,Levante,1240.75
+33,Gimnàstic de Tarragona,1100.87
+33,Almería,1235.2
+33,Xerez CD,1239.14
+33,Granada,1219.57
+33,Eibar,1442.9
+33,Córdoba,1148.36
+33,Leganés,1311.05
+34,Sporting,1278.61
+34,Athletic,1539.77
+34,Valencia,1383.53
+34,Espanyol,1437.03
+34,Cádiz CF,1055.71
+34,Las Palmas,1324.37
+34,Zaragoza,1209.28
+34,Sevilla,1543.02
+34,Osasuna,1195.97
+34,Atlético,1654.19
+34,Betis,1344.27
+34,CE Sabadell,728.42
+34,Real Sociedad,1471.55
+34,Real Madrid,1787.21
+34,Real Murcia,1038.98
+34,Valladolid,1220.27
+34,Barcelona,1766.32
+34,Celta,1401.7
+34,CD Logroñés,795.9
+34,Mallorca,1256.03
+34,Real Oviedo,1057.85
+34,Málaga,1382.13
+34,Elche,1266.32
+34,CD Castellón,755.32
+34,Rayo,1344.78
+34,Tenerife,1153.42
+34,Real Burgos,779.99
+34,Deportivo,1308.95
+34,Albacete,1051.36
+34,Real Racing,1116.52
+34,UE Lleida,897.63
+34,SD Compostela,1068.16
+34,CP Mérida,969.72
+34,UD Salamanca,907.16
+34,Hércules CF,1105.2
+34,CF Extremadura,1019.9200000000001
+34,Alavés,1361.7
+34,Villarreal,1540.94
+34,Numancia,1104.12
+34,RC Recreativo,1120.07
+34,Getafe,1253.59
+34,Levante,1240.75
+34,Gimnàstic de Tarragona,1100.87
+34,Almería,1235.2
+34,Xerez CD,1239.14
+34,Granada,1205.96
+34,Eibar,1439.06
+34,Córdoba,1148.36
+34,Leganés,1343.68
+35,Sporting,1270.34
+35,Athletic,1557.71
+35,Valencia,1380.96
+35,Espanyol,1429.5
+35,Cádiz CF,1055.71
+35,Las Palmas,1314.66
+35,Zaragoza,1209.28
+35,Sevilla,1510.28
+35,Osasuna,1201.0
+35,Atlético,1663.9
+35,Betis,1316.88
+35,CE Sabadell,728.42
+35,Real Sociedad,1476.69
+35,Real Madrid,1789.78
+35,Real Murcia,1038.98
+35,Valladolid,1220.27
+35,Barcelona,1773.85
+35,Celta,1383.76
+35,CD Logroñés,795.9
+35,Mallorca,1256.03
+35,Real Oviedo,1057.85
+35,Málaga,1414.87
+35,Elche,1266.32
+35,CD Castellón,755.32
+35,Rayo,1344.78
+35,Tenerife,1153.42
+35,Real Burgos,779.99
+35,Deportivo,1303.92
+35,Albacete,1051.36
+35,Real Racing,1116.52
+35,UE Lleida,897.63
+35,SD Compostela,1068.16
+35,CP Mérida,969.72
+35,UD Salamanca,907.16
+35,Hércules CF,1105.2
+35,CF Extremadura,1019.9200000000001
+35,Alavés,1389.09
+35,Villarreal,1549.21
+35,Numancia,1104.12
+35,RC Recreativo,1120.07
+35,Getafe,1253.59
+35,Levante,1240.75
+35,Gimnàstic de Tarragona,1100.87
+35,Almería,1235.2
+35,Xerez CD,1239.14
+35,Granada,1200.82
+35,Eibar,1455.79
+35,Córdoba,1148.36
+35,Leganés,1326.95
+36,Sporting,1286.59
+36,Athletic,1536.8
+36,Valencia,1396.07
+36,Espanyol,1438.92
+36,Cádiz CF,1055.71
+36,Las Palmas,1298.41
+36,Zaragoza,1209.28
+36,Sevilla,1508.74
+36,Osasuna,1185.89
+36,Atlético,1670.58
+36,Betis,1284.37
+36,CE Sabadell,728.42
+36,Real Sociedad,1478.23
+36,Real Madrid,1791.96
+36,Real Murcia,1038.98
+36,Valladolid,1220.27
+36,Barcelona,1786.27
+36,Celta,1357.5
+36,CD Logroñés,795.9
+36,Mallorca,1256.03
+36,Real Oviedo,1057.85
+36,Málaga,1441.13
+36,Elche,1266.32
+36,CD Castellón,755.32
+36,Rayo,1344.78
+36,Tenerife,1153.42
+36,Real Burgos,779.99
+36,Deportivo,1294.5
+36,Albacete,1051.36
+36,Real Racing,1116.52
+36,UE Lleida,897.63
+36,SD Compostela,1068.16
+36,CP Mérida,969.72
+36,UD Salamanca,907.16
+36,Hércules CF,1105.2
+36,CF Extremadura,1019.9200000000001
+36,Alavés,1410.0
+36,Villarreal,1536.79
+36,Numancia,1104.12
+36,RC Recreativo,1120.07
+36,Getafe,1253.59
+36,Levante,1240.75
+36,Gimnàstic de Tarragona,1100.87
+36,Almería,1235.2
+36,Xerez CD,1239.14
+36,Granada,1198.64
+36,Eibar,1449.11
+36,Córdoba,1148.36
+36,Leganés,1359.46
+37,Sporting,1307.3
+37,Athletic,1529.28
+37,Valencia,1412.26
+37,Espanyol,1422.73
+37,Cádiz CF,1055.71
+37,Las Palmas,1295.13
+37,Zaragoza,1209.28
+37,Sevilla,1499.29
+37,Osasuna,1200.84
+37,Atlético,1657.71
+37,Betis,1297.24
+37,CE Sabadell,728.42
+37,Real Sociedad,1476.53
+37,Real Madrid,1801.41
+37,Real Murcia,1038.98
+37,Valladolid,1220.27
+37,Barcelona,1789.55
+37,Celta,1338.08
+37,CD Logroñés,795.9
+37,Mallorca,1256.03
+37,Real Oviedo,1057.85
+37,Málaga,1442.83
+37,Elche,1266.32
+37,CD Castellón,755.32
+37,Rayo,1344.78
+37,Tenerife,1153.42
+37,Real Burgos,779.99
+37,Deportivo,1304.14
+37,Albacete,1051.36
+37,Real Racing,1116.52
+37,UE Lleida,897.63
+37,SD Compostela,1068.16
+37,CP Mérida,969.72
+37,UD Salamanca,907.16
+37,Hércules CF,1105.2
+37,CF Extremadura,1019.9200000000001
+37,Alavés,1429.42
+37,Villarreal,1527.15
+37,Numancia,1104.12
+37,RC Recreativo,1120.07
+37,Getafe,1253.59
+37,Levante,1240.75
+37,Gimnàstic de Tarragona,1100.87
+37,Almería,1235.2
+37,Xerez CD,1239.14
+37,Granada,1183.69
+37,Eibar,1428.4
+37,Córdoba,1148.36
+37,Leganés,1366.98
+38,Sporting,1306.84
+38,Athletic,1514.51
+38,Valencia,1396.7
+38,Espanyol,1428.54
+38,Cádiz CF,1055.71
+38,Las Palmas,1267.04
+38,Zaragoza,1209.28
+38,Sevilla,1510.63
+38,Osasuna,1189.5
+38,Atlético,1672.48
+38,Betis,1297.7
+38,CE Sabadell,728.42
+38,Real Sociedad,1470.47
+38,Real Madrid,1806.56
+38,Real Murcia,1038.98
+38,Valladolid,1220.27
+38,Barcelona,1794.63
+38,Celta,1344.14
+38,CD Logroñés,795.9
+38,Mallorca,1256.03
+38,Real Oviedo,1057.85
+38,Málaga,1437.68
+38,Elche,1266.32
+38,CD Castellón,755.32
+38,Rayo,1344.78
+38,Tenerife,1153.42
+38,Real Burgos,779.99
+38,Deportivo,1332.23
+38,Albacete,1051.36
+38,Real Racing,1116.52
+38,UE Lleida,897.63
+38,SD Compostela,1068.16
+38,CP Mérida,969.72
+38,UD Salamanca,907.16
+38,Hércules CF,1105.2
+38,CF Extremadura,1019.9200000000001
+38,Alavés,1426.58
+38,Villarreal,1542.71
+38,Numancia,1104.12
+38,RC Recreativo,1120.07
+38,Getafe,1253.59
+38,Levante,1240.75
+38,Gimnàstic de Tarragona,1100.87
+38,Almería,1235.2
+38,Xerez CD,1239.14
+38,Granada,1177.88
+38,Eibar,1423.32
+38,Córdoba,1148.36
+38,Leganés,1369.82

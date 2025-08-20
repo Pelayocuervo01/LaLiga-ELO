@@ -1,0 +1,307 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Athletic,Las Palmas,1:2,1,Las Palmas,1971/1972
+1,Valencia,Espanyol,1:1,0,Empate,1971/1972
+1,Celta,Atlético,2:1,1,Celta,1971/1972
+1,Barcelona,Real Sociedad,3:0,3,Barcelona,1971/1972
+1,Real Madrid,Betis,2:0,2,Real Madrid,1971/1972
+1,CE Sabadell,Sporting,0:2,2,Sporting,1971/1972
+1,Granada,Málaga,2:0,2,Granada,1971/1972
+1,Deportivo,Córdoba,3:2,1,Deportivo,1971/1972
+1,Sevilla,Burgos CF,2:0,2,Sevilla,1971/1972
+2,Las Palmas,Valencia,1:1,0,Empate,1971/1972
+2,Málaga,Deportivo,2:0,2,Málaga,1971/1972
+2,Sporting,Athletic,3:2,1,Sporting,1971/1972
+2,Atlético,CE Sabadell,5:0,5,Atlético,1971/1972
+2,Real Sociedad,Granada,3:1,2,Real Sociedad,1971/1972
+2,Betis,Celta,1:1,0,Empate,1971/1972
+2,Córdoba,Sevilla,1:1,0,Empate,1971/1972
+2,Espanyol,Barcelona,3:0,3,Espanyol,1971/1972
+2,Burgos CF,Real Madrid,1:2,1,Real Madrid,1971/1972
+3,Valencia,Sporting,1:0,1,Valencia,1971/1972
+3,Real Madrid,Celta,3:0,3,Real Madrid,1971/1972
+3,Granada,Espanyol,0:0,0,Empate,1971/1972
+3,Burgos CF,Córdoba,1:0,1,Burgos CF,1971/1972
+3,Sevilla,Málaga,1:2,1,Málaga,1971/1972
+3,Barcelona,Las Palmas,1:2,1,Las Palmas,1971/1972
+3,Athletic,Atlético,0:1,1,Atlético,1971/1972
+3,Deportivo,Real Sociedad,1:0,1,Deportivo,1971/1972
+3,CE Sabadell,Betis,2:1,1,CE Sabadell,1971/1972
+4,Las Palmas,Granada,2:2,0,Empate,1971/1972
+4,Atlético,Valencia,0:1,1,Valencia,1971/1972
+4,Málaga,Burgos CF,4:1,3,Málaga,1971/1972
+4,Celta,CE Sabadell,0:1,1,CE Sabadell,1971/1972
+4,Real Sociedad,Sevilla,1:1,0,Empate,1971/1972
+4,Betis,Athletic,1:0,1,Betis,1971/1972
+4,Sporting,Barcelona,1:0,1,Sporting,1971/1972
+4,Córdoba,Real Madrid,2:2,0,Empate,1971/1972
+4,Espanyol,Deportivo,2:0,2,Espanyol,1971/1972
+5,Barcelona,Atlético,0:0,0,Empate,1971/1972
+5,Deportivo,Las Palmas,1:0,1,Deportivo,1971/1972
+5,Real Madrid,CE Sabadell,2:0,2,Real Madrid,1971/1972
+5,Córdoba,Málaga,0:0,0,Empate,1971/1972
+5,Granada,Sporting,1:0,1,Granada,1971/1972
+5,Sevilla,Espanyol,1:0,1,Sevilla,1971/1972
+5,Burgos CF,Real Sociedad,3:1,2,Burgos CF,1971/1972
+5,Valencia,Betis,2:0,2,Valencia,1971/1972
+5,Athletic,Celta,4:0,4,Athletic,1971/1972
+6,Las Palmas,Sevilla,1:1,0,Empate,1971/1972
+6,CE Sabadell,Athletic,0:0,0,Empate,1971/1972
+6,Espanyol,Burgos CF,1:1,0,Empate,1971/1972
+6,Real Sociedad,Córdoba,2:1,1,Real Sociedad,1971/1972
+6,Atlético,Granada,1:0,1,Atlético,1971/1972
+6,Celta,Valencia,1:3,2,Valencia,1971/1972
+6,Betis,Barcelona,0:0,0,Empate,1971/1972
+6,Málaga,Real Madrid,1:1,0,Empate,1971/1972
+6,Sporting,Deportivo,2:0,2,Sporting,1971/1972
+7,Barcelona,Celta,1:0,1,Barcelona,1971/1972
+7,Real Madrid,Athletic,1:0,1,Real Madrid,1971/1972
+7,Deportivo,Atlético,1:1,0,Empate,1971/1972
+7,Sevilla,Sporting,3:1,2,Sevilla,1971/1972
+7,Burgos CF,Las Palmas,1:0,1,Burgos CF,1971/1972
+7,Valencia,CE Sabadell,3:1,2,Valencia,1971/1972
+7,Córdoba,Espanyol,3:1,2,Córdoba,1971/1972
+7,Granada,Betis,0:0,0,Empate,1971/1972
+7,Málaga,Real Sociedad,1:1,0,Empate,1971/1972
+8,Atlético,Sevilla,0:2,2,Sevilla,1971/1972
+8,Sporting,Burgos CF,0:0,0,Empate,1971/1972
+8,Las Palmas,Córdoba,3:0,3,Las Palmas,1971/1972
+8,Celta,Granada,0:0,0,Empate,1971/1972
+8,Betis,Deportivo,2:0,2,Betis,1971/1972
+8,Athletic,Valencia,1:1,0,Empate,1971/1972
+8,CE Sabadell,Barcelona,0:0,0,Empate,1971/1972
+8,Real Sociedad,Real Madrid,0:2,2,Real Madrid,1971/1972
+8,Espanyol,Málaga,4:1,3,Espanyol,1971/1972
+9,Burgos CF,Atlético,0:0,0,Empate,1971/1972
+9,Málaga,Las Palmas,0:0,0,Empate,1971/1972
+9,Granada,CE Sabadell,3:1,2,Granada,1971/1972
+9,Córdoba,Sporting,0:1,1,Sporting,1971/1972
+9,Barcelona,Athletic,0:1,1,Athletic,1971/1972
+9,Sevilla,Betis,3:1,2,Sevilla,1971/1972
+9,Real Madrid,Valencia,1:1,0,Empate,1971/1972
+9,Real Sociedad,Espanyol,4:1,3,Real Sociedad,1971/1972
+9,Deportivo,Celta,0:1,1,Celta,1971/1972
+10,Las Palmas,Real Sociedad,0:0,0,Empate,1971/1972
+10,Celta,Sevilla,4:1,3,Celta,1971/1972
+10,Betis,Burgos CF,2:0,2,Betis,1971/1972
+10,Atlético,Córdoba,2:2,0,Empate,1971/1972
+10,Athletic,Granada,1:0,1,Athletic,1971/1972
+10,CE Sabadell,Deportivo,4:1,3,CE Sabadell,1971/1972
+10,Valencia,Barcelona,1:0,1,Valencia,1971/1972
+10,Espanyol,Real Madrid,0:0,0,Empate,1971/1972
+10,Sporting,Málaga,1:2,1,Málaga,1971/1972
+11,Espanyol,Las Palmas,4:0,4,Espanyol,1971/1972
+11,Málaga,Atlético,0:0,0,Empate,1971/1972
+11,Sevilla,CE Sabadell,1:1,0,Empate,1971/1972
+11,Real Sociedad,Sporting,3:1,2,Real Sociedad,1971/1972
+11,Real Madrid,Barcelona,1:1,0,Empate,1971/1972
+11,Granada,Valencia,1:0,1,Granada,1971/1972
+11,Deportivo,Athletic,1:0,1,Deportivo,1971/1972
+11,Burgos CF,Celta,3:2,1,Burgos CF,1971/1972
+11,Córdoba,Betis,3:1,2,Córdoba,1971/1972
+12,Las Palmas,Real Madrid,2:0,2,Las Palmas,1971/1972
+12,Atlético,Real Sociedad,5:0,5,Atlético,1971/1972
+12,CE Sabadell,Burgos CF,2:1,1,CE Sabadell,1971/1972
+12,Celta,Córdoba,2:0,2,Celta,1971/1972
+12,Barcelona,Granada,2:0,2,Barcelona,1971/1972
+12,Valencia,Deportivo,1:1,0,Empate,1971/1972
+12,Athletic,Sevilla,2:0,2,Athletic,1971/1972
+12,Sporting,Espanyol,4:0,4,Sporting,1971/1972
+12,Betis,Málaga,0:0,0,Empate,1971/1972
+13,Las Palmas,Sporting,5:1,4,Las Palmas,1971/1972
+13,Real Sociedad,Betis,6:0,6,Real Sociedad,1971/1972
+13,Espanyol,Atlético,1:2,1,Atlético,1971/1972
+13,Málaga,Celta,1:1,0,Empate,1971/1972
+13,Córdoba,CE Sabadell,4:1,3,Córdoba,1971/1972
+13,Burgos CF,Athletic,1:0,1,Burgos CF,1971/1972
+13,Deportivo,Barcelona,0:2,2,Barcelona,1971/1972
+13,Sevilla,Valencia,2:0,2,Sevilla,1971/1972
+13,Real Madrid,Granada,4:2,2,Real Madrid,1971/1972
+14,Celta,Real Sociedad,0:1,1,Real Sociedad,1971/1972
+14,Valencia,Burgos CF,2:0,2,Valencia,1971/1972
+14,Athletic,Córdoba,5:0,5,Athletic,1971/1972
+14,CE Sabadell,Málaga,1:1,0,Empate,1971/1972
+14,Atlético,Las Palmas,2:0,2,Atlético,1971/1972
+14,Barcelona,Sevilla,1:0,1,Barcelona,1971/1972
+14,Betis,Espanyol,0:1,1,Espanyol,1971/1972
+14,Sporting,Real Madrid,1:1,0,Empate,1971/1972
+14,Granada,Deportivo,2:2,0,Empate,1971/1972
+15,Las Palmas,Betis,2:0,2,Las Palmas,1971/1972
+15,Sporting,Atlético,1:2,1,Atlético,1971/1972
+15,Espanyol,Celta,1:0,1,Espanyol,1971/1972
+15,Real Madrid,Deportivo,1:0,1,Real Madrid,1971/1972
+15,Real Sociedad,CE Sabadell,2:0,2,Real Sociedad,1971/1972
+15,Málaga,Athletic,1:0,1,Málaga,1971/1972
+15,Burgos CF,Barcelona,2:3,1,Barcelona,1971/1972
+15,Sevilla,Granada,2:1,1,Sevilla,1971/1972
+15,Córdoba,Valencia,0:4,4,Valencia,1971/1972
+16,Betis,Sporting,2:1,1,Betis,1971/1972
+16,Granada,Burgos CF,2:1,1,Granada,1971/1972
+16,Valencia,Málaga,3:0,3,Valencia,1971/1972
+16,Celta,Las Palmas,2:0,2,Celta,1971/1972
+16,Athletic,Real Sociedad,1:2,1,Real Sociedad,1971/1972
+16,Deportivo,Sevilla,1:0,1,Deportivo,1971/1972
+16,Real Madrid,Atlético,1:0,1,Real Madrid,1971/1972
+16,CE Sabadell,Espanyol,0:2,2,Espanyol,1971/1972
+16,Barcelona,Córdoba,4:1,3,Barcelona,1971/1972
+17,Las Palmas,CE Sabadell,0:0,0,Empate,1971/1972
+17,Córdoba,Granada,2:0,2,Córdoba,1971/1972
+17,Sevilla,Real Madrid,0:2,2,Real Madrid,1971/1972
+17,Málaga,Barcelona,0:0,0,Empate,1971/1972
+17,Espanyol,Athletic,1:2,1,Athletic,1971/1972
+17,Real Sociedad,Valencia,1:0,1,Real Sociedad,1971/1972
+17,Atlético,Betis,4:1,3,Atlético,1971/1972
+17,Sporting,Celta,2:2,0,Empate,1971/1972
+17,Burgos CF,Deportivo,3:1,2,Burgos CF,1971/1972
+18,Las Palmas,Athletic,2:1,1,Las Palmas,1971/1972
+18,Betis,Real Madrid,0:0,0,Empate,1971/1972
+18,Real Sociedad,Barcelona,2:2,0,Empate,1971/1972
+18,Espanyol,Valencia,3:1,2,Espanyol,1971/1972
+18,Burgos CF,Sevilla,1:0,1,Burgos CF,1971/1972
+18,Atlético,Celta,0:0,0,Empate,1971/1972
+18,Córdoba,Deportivo,0:0,0,Empate,1971/1972
+18,Málaga,Granada,1:0,1,Málaga,1971/1972
+18,Sporting,CE Sabadell,3:0,3,Sporting,1971/1972
+19,CE Sabadell,Atlético,3:1,2,CE Sabadell,1971/1972
+19,Real Madrid,Burgos CF,1:1,0,Empate,1971/1972
+19,Sevilla,Córdoba,1:1,0,Empate,1971/1972
+19,Deportivo,Málaga,0:0,0,Empate,1971/1972
+19,Athletic,Sporting,3:1,2,Athletic,1971/1972
+19,Valencia,Las Palmas,4:0,4,Valencia,1971/1972
+19,Granada,Real Sociedad,1:0,1,Granada,1971/1972
+19,Barcelona,Espanyol,2:0,2,Barcelona,1971/1972
+19,Celta,Betis,1:0,1,Celta,1971/1972
+20,Real Sociedad,Deportivo,0:1,1,Deportivo,1971/1972
+20,Las Palmas,Barcelona,1:2,1,Barcelona,1971/1972
+20,Córdoba,Burgos CF,0:0,0,Empate,1971/1972
+20,Betis,CE Sabadell,1:0,1,Betis,1971/1972
+20,Espanyol,Granada,2:3,1,Granada,1971/1972
+20,Celta,Real Madrid,1:1,0,Empate,1971/1972
+20,Atlético,Athletic,1:2,1,Athletic,1971/1972
+20,Sporting,Valencia,4:0,4,Sporting,1971/1972
+20,Málaga,Sevilla,2:2,0,Empate,1971/1972
+21,CE Sabadell,Celta,1:1,0,Empate,1971/1972
+21,Real Madrid,Córdoba,4:1,3,Real Madrid,1971/1972
+21,Burgos CF,Málaga,3:1,2,Burgos CF,1971/1972
+21,Granada,Las Palmas,3:0,3,Granada,1971/1972
+21,Athletic,Betis,3:0,3,Athletic,1971/1972
+21,Sevilla,Real Sociedad,0:1,1,Real Sociedad,1971/1972
+21,Valencia,Atlético,1:0,1,Valencia,1971/1972
+21,Deportivo,Espanyol,3:1,2,Deportivo,1971/1972
+21,Barcelona,Sporting,1:0,1,Barcelona,1971/1972
+22,Atlético,Barcelona,1:1,0,Empate,1971/1972
+22,Real Sociedad,Burgos CF,2:0,2,Real Sociedad,1971/1972
+22,Málaga,Córdoba,2:2,0,Empate,1971/1972
+22,Sporting,Granada,2:0,2,Sporting,1971/1972
+22,Las Palmas,Deportivo,2:0,2,Las Palmas,1971/1972
+22,Celta,Athletic,2:0,2,Celta,1971/1972
+22,Betis,Valencia,1:0,1,Betis,1971/1972
+22,CE Sabadell,Real Madrid,1:2,1,Real Madrid,1971/1972
+22,Espanyol,Sevilla,2:0,2,Espanyol,1971/1972
+23,Barcelona,Betis,2:2,0,Empate,1971/1972
+23,Athletic,CE Sabadell,3:1,2,Athletic,1971/1972
+23,Real Madrid,Málaga,1:0,1,Real Madrid,1971/1972
+23,Deportivo,Sporting,1:1,0,Empate,1971/1972
+23,Valencia,Celta,4:0,4,Valencia,1971/1972
+23,Córdoba,Real Sociedad,1:0,1,Córdoba,1971/1972
+23,Granada,Atlético,1:0,1,Granada,1971/1972
+23,Burgos CF,Espanyol,2:1,1,Burgos CF,1971/1972
+23,Sevilla,Las Palmas,0:2,2,Las Palmas,1971/1972
+24,Las Palmas,Burgos CF,3:1,2,Las Palmas,1971/1972
+24,CE Sabadell,Valencia,1:1,0,Empate,1971/1972
+24,Betis,Granada,1:0,1,Betis,1971/1972
+24,Real Sociedad,Málaga,1:0,1,Real Sociedad,1971/1972
+24,Espanyol,Córdoba,1:1,0,Empate,1971/1972
+24,Celta,Barcelona,1:2,1,Barcelona,1971/1972
+24,Athletic,Real Madrid,1:0,1,Athletic,1971/1972
+24,Atlético,Deportivo,2:1,1,Atlético,1971/1972
+24,Sporting,Sevilla,1:0,1,Sporting,1971/1972
+25,Real Madrid,Real Sociedad,2:1,1,Real Madrid,1971/1972
+25,Barcelona,CE Sabadell,2:0,2,Barcelona,1971/1972
+25,Burgos CF,Sporting,1:0,1,Burgos CF,1971/1972
+25,Córdoba,Las Palmas,2:2,0,Empate,1971/1972
+25,Deportivo,Betis,1:1,0,Empate,1971/1972
+25,Sevilla,Atlético,3:3,0,Empate,1971/1972
+25,Málaga,Espanyol,1:0,1,Málaga,1971/1972
+25,Valencia,Athletic,2:0,2,Valencia,1971/1972
+25,Granada,Celta,0:0,0,Empate,1971/1972
+26,Las Palmas,Málaga,2:0,2,Las Palmas,1971/1972
+26,Betis,Sevilla,1:1,0,Empate,1971/1972
+26,Atlético,Burgos CF,1:0,1,Atlético,1971/1972
+26,Sporting,Córdoba,0:0,0,Empate,1971/1972
+26,CE Sabadell,Granada,0:0,0,Empate,1971/1972
+26,Espanyol,Real Sociedad,1:0,1,Espanyol,1971/1972
+26,Athletic,Barcelona,0:1,1,Barcelona,1971/1972
+26,Valencia,Real Madrid,1:2,1,Real Madrid,1971/1972
+26,Celta,Deportivo,3:1,2,Celta,1971/1972
+27,Córdoba,Atlético,0:1,1,Atlético,1971/1972
+27,Deportivo,CE Sabadell,1:0,1,Deportivo,1971/1972
+27,Málaga,Sporting,1:1,0,Empate,1971/1972
+27,Real Sociedad,Las Palmas,1:0,1,Real Sociedad,1971/1972
+27,Burgos CF,Betis,0:1,1,Betis,1971/1972
+27,Barcelona,Valencia,1:1,0,Empate,1971/1972
+27,Real Madrid,Espanyol,3:0,3,Real Madrid,1971/1972
+27,Granada,Athletic,5:1,4,Granada,1971/1972
+27,Sevilla,Celta,4:0,4,Sevilla,1971/1972
+28,Betis,Córdoba,0:0,0,Empate,1971/1972
+28,Athletic,Deportivo,1:0,1,Athletic,1971/1972
+28,Celta,Burgos CF,2:0,2,Celta,1971/1972
+28,Las Palmas,Espanyol,1:0,1,Las Palmas,1971/1972
+28,Sporting,Real Sociedad,1:0,1,Sporting,1971/1972
+28,CE Sabadell,Sevilla,0:0,0,Empate,1971/1972
+28,Valencia,Granada,2:1,1,Valencia,1971/1972
+28,Atlético,Málaga,0:0,0,Empate,1971/1972
+28,Barcelona,Real Madrid,1:0,1,Barcelona,1971/1972
+29,Real Sociedad,Atlético,0:0,0,Empate,1971/1972
+29,Burgos CF,CE Sabadell,4:1,3,Burgos CF,1971/1972
+29,Espanyol,Sporting,0:0,0,Empate,1971/1972
+29,Real Madrid,Las Palmas,2:0,2,Real Madrid,1971/1972
+29,Málaga,Betis,0:0,0,Empate,1971/1972
+29,Deportivo,Valencia,3:0,3,Deportivo,1971/1972
+29,Sevilla,Athletic,0:1,1,Athletic,1971/1972
+29,Granada,Barcelona,2:0,2,Granada,1971/1972
+29,Córdoba,Celta,0:0,0,Empate,1971/1972
+30,Barcelona,Deportivo,1:0,1,Barcelona,1971/1972
+30,Sporting,Las Palmas,0:1,1,Las Palmas,1971/1972
+30,Celta,Málaga,1:1,0,Empate,1971/1972
+30,Athletic,Burgos CF,1:0,1,Athletic,1971/1972
+30,Valencia,Sevilla,2:0,2,Valencia,1971/1972
+30,Atlético,Espanyol,1:1,0,Empate,1971/1972
+30,Granada,Real Madrid,2:1,1,Granada,1971/1972
+30,Betis,Real Sociedad,1:0,1,Betis,1971/1972
+30,CE Sabadell,Córdoba,1:0,1,CE Sabadell,1971/1972
+31,Las Palmas,Atlético,1:0,1,Las Palmas,1971/1972
+31,Sevilla,Barcelona,1:2,1,Barcelona,1971/1972
+31,Burgos CF,Valencia,0:1,1,Valencia,1971/1972
+31,Málaga,CE Sabadell,1:0,1,Málaga,1971/1972
+31,Deportivo,Granada,2:0,2,Deportivo,1971/1972
+31,Real Madrid,Sporting,1:0,1,Real Madrid,1971/1972
+31,Espanyol,Betis,3:0,3,Espanyol,1971/1972
+31,Córdoba,Athletic,0:1,1,Athletic,1971/1972
+31,Real Sociedad,Celta,0:0,0,Empate,1971/1972
+32,Valencia,Córdoba,4:2,2,Valencia,1971/1972
+32,CE Sabadell,Real Sociedad,3:1,2,CE Sabadell,1971/1972
+32,Betis,Las Palmas,2:1,1,Betis,1971/1972
+32,Atlético,Sporting,1:0,1,Atlético,1971/1972
+32,Barcelona,Burgos CF,2:1,1,Barcelona,1971/1972
+32,Celta,Espanyol,4:2,2,Celta,1971/1972
+32,Deportivo,Real Madrid,1:0,1,Deportivo,1971/1972
+32,Athletic,Málaga,0:0,0,Empate,1971/1972
+32,Granada,Sevilla,3:0,3,Granada,1971/1972
+33,Las Palmas,Celta,1:1,0,Empate,1971/1972
+33,Málaga,Valencia,0:2,2,Valencia,1971/1972
+33,Sporting,Betis,3:1,2,Sporting,1971/1972
+33,Espanyol,CE Sabadell,2:1,1,Espanyol,1971/1972
+33,Sevilla,Deportivo,1:0,1,Sevilla,1971/1972
+33,Real Sociedad,Athletic,1:0,1,Real Sociedad,1971/1972
+33,Córdoba,Barcelona,1:0,1,Córdoba,1971/1972
+33,Atlético,Real Madrid,4:1,3,Atlético,1971/1972
+33,Burgos CF,Granada,1:1,0,Empate,1971/1972
+34,Deportivo,Burgos CF,0:0,0,Empate,1971/1972
+34,Athletic,Espanyol,1:1,0,Empate,1971/1972
+34,Betis,Atlético,1:3,2,Atlético,1971/1972
+34,Real Madrid,Sevilla,4:1,3,Real Madrid,1971/1972
+34,Valencia,Real Sociedad,2:1,1,Valencia,1971/1972
+34,CE Sabadell,Las Palmas,0:1,1,Las Palmas,1971/1972
+34,Celta,Sporting,2:2,0,Empate,1971/1972
+34,Barcelona,Málaga,0:1,1,Málaga,1971/1972
+34,Granada,Córdoba,1:0,1,Granada,1971/1972

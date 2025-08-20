@@ -1,0 +1,381 @@
+Jornada,Local,Visitante,Resultado,Differencia Gol,Ganador,Año
+1,Athletic,Getafe,1:1,0,Empate,2024/2025
+1,Betis,Girona,1:1,0,Empate,2024/2025
+1,Celta,Alavés,2:1,1,Celta,2024/2025
+1,Las Palmas,Sevilla,2:2,0,Empate,2024/2025
+1,Osasuna,Leganés,1:1,0,Empate,2024/2025
+1,Valencia,Barcelona,1:2,1,Barcelona,2024/2025
+1,Real Sociedad,Rayo,1:2,1,Rayo,2024/2025
+1,Mallorca,Real Madrid,1:1,0,Empate,2024/2025
+1,Valladolid,Espanyol,1:0,1,Valladolid,2024/2025
+1,Villarreal,Atlético,2:2,0,Empate,2024/2025
+2,Celta,Valencia,3:1,2,Celta,2024/2025
+2,Sevilla,Villarreal,1:2,1,Villarreal,2024/2025
+2,Osasuna,Mallorca,1:0,1,Osasuna,2024/2025
+2,Barcelona,Athletic,2:1,1,Barcelona,2024/2025
+2,Getafe,Rayo,0:0,0,Empate,2024/2025
+2,Espanyol,Real Sociedad,0:1,1,Real Sociedad,2024/2025
+2,Real Madrid,Valladolid,3:0,3,Real Madrid,2024/2025
+2,Leganés,Las Palmas,2:1,1,Leganés,2024/2025
+2,Alavés,Betis,0:0,0,Empate,2024/2025
+2,Atlético,Girona,3:0,3,Atlético,2024/2025
+3,Villarreal,Celta,4:3,1,Villarreal,2024/2025
+3,Mallorca,Sevilla,0:0,0,Empate,2024/2025
+3,Rayo,Barcelona,1:2,1,Barcelona,2024/2025
+3,Athletic,Valencia,1:0,1,Athletic,2024/2025
+3,Valladolid,Leganés,0:0,0,Empate,2024/2025
+3,Real Sociedad,Alavés,1:2,1,Alavés,2024/2025
+3,Atlético,Espanyol,0:0,0,Empate,2024/2025
+3,Girona,Osasuna,4:0,4,Girona,2024/2025
+3,Las Palmas,Real Madrid,1:1,0,Empate,2024/2025
+3,Betis,Getafe,2:1,1,Betis,2024/2025
+4,Barcelona,Valladolid,7:0,7,Barcelona,2024/2025
+4,Athletic,Atlético,0:1,1,Atlético,2024/2025
+4,Espanyol,Rayo,2:1,1,Espanyol,2024/2025
+4,Leganés,Mallorca,0:1,1,Mallorca,2024/2025
+4,Valencia,Villarreal,1:1,0,Empate,2024/2025
+4,Osasuna,Celta,3:2,1,Osasuna,2024/2025
+4,Alavés,Las Palmas,2:0,2,Alavés,2024/2025
+4,Sevilla,Girona,0:2,2,Girona,2024/2025
+4,Getafe,Real Sociedad,0:0,0,Empate,2024/2025
+4,Real Madrid,Betis,2:0,2,Real Madrid,2024/2025
+5,Betis,Leganés,2:0,2,Betis,2024/2025
+5,Mallorca,Villarreal,1:2,1,Villarreal,2024/2025
+5,Espanyol,Alavés,3:2,1,Espanyol,2024/2025
+5,Sevilla,Getafe,1:0,1,Sevilla,2024/2025
+5,Real Sociedad,Real Madrid,0:2,2,Real Madrid,2024/2025
+5,Celta,Valladolid,3:1,2,Celta,2024/2025
+5,Girona,Barcelona,1:4,3,Barcelona,2024/2025
+5,Las Palmas,Athletic,2:3,1,Athletic,2024/2025
+5,Atlético,Valencia,3:0,3,Atlético,2024/2025
+5,Rayo,Osasuna,3:1,2,Rayo,2024/2025
+6,Alavés,Sevilla,2:1,1,Alavés,2024/2025
+6,Valladolid,Real Sociedad,0:0,0,Empate,2024/2025
+6,Osasuna,Las Palmas,2:1,1,Osasuna,2024/2025
+6,Valencia,Girona,2:0,2,Valencia,2024/2025
+6,Real Madrid,Espanyol,4:1,3,Real Madrid,2024/2025
+6,Getafe,Leganés,1:1,0,Empate,2024/2025
+6,Athletic,Celta,3:1,2,Athletic,2024/2025
+6,Villarreal,Barcelona,1:5,4,Barcelona,2024/2025
+6,Rayo,Atlético,1:1,0,Empate,2024/2025
+6,Betis,Mallorca,1:2,1,Mallorca,2024/2025
+7,Mallorca,Real Sociedad,1:0,1,Mallorca,2024/2025
+7,Leganés,Athletic,0:2,2,Athletic,2024/2025
+7,Sevilla,Valladolid,2:1,1,Sevilla,2024/2025
+7,Valencia,Osasuna,0:0,0,Empate,2024/2025
+7,Real Madrid,Alavés,3:2,1,Real Madrid,2024/2025
+7,Girona,Rayo,0:0,0,Empate,2024/2025
+7,Barcelona,Getafe,1:0,1,Barcelona,2024/2025
+7,Las Palmas,Betis,1:1,0,Empate,2024/2025
+7,Espanyol,Villarreal,1:2,1,Villarreal,2024/2025
+7,Celta,Atlético,0:1,1,Atlético,2024/2025
+8,Valladolid,Mallorca,1:2,1,Mallorca,2024/2025
+8,Getafe,Alavés,2:0,2,Getafe,2024/2025
+8,Rayo,Leganés,1:1,0,Empate,2024/2025
+8,Real Sociedad,Valencia,3:0,3,Real Sociedad,2024/2025
+8,Osasuna,Barcelona,4:2,2,Osasuna,2024/2025
+8,Celta,Girona,1:1,0,Empate,2024/2025
+8,Athletic,Sevilla,1:1,0,Empate,2024/2025
+8,Betis,Espanyol,1:0,1,Betis,2024/2025
+8,Atlético,Real Madrid,1:1,0,Empate,2024/2025
+8,Villarreal,Las Palmas,3:1,2,Villarreal,2024/2025
+9,Leganés,Valencia,0:0,0,Empate,2024/2025
+9,Espanyol,Mallorca,2:1,1,Espanyol,2024/2025
+9,Getafe,Osasuna,1:1,0,Empate,2024/2025
+9,Valladolid,Rayo,1:2,1,Rayo,2024/2025
+9,Las Palmas,Celta,0:1,1,Celta,2024/2025
+9,Real Madrid,Villarreal,2:0,2,Real Madrid,2024/2025
+9,Girona,Athletic,2:1,1,Girona,2024/2025
+9,Alavés,Barcelona,0:3,3,Barcelona,2024/2025
+9,Sevilla,Betis,1:0,1,Sevilla,2024/2025
+9,Real Sociedad,Atlético,1:1,0,Empate,2024/2025
+10,Alavés,Valladolid,2:3,1,Valladolid,2024/2025
+10,Athletic,Espanyol,4:1,3,Athletic,2024/2025
+10,Osasuna,Betis,1:2,1,Betis,2024/2025
+10,Girona,Real Sociedad,0:1,1,Real Sociedad,2024/2025
+10,Celta,Real Madrid,1:2,1,Real Madrid,2024/2025
+10,Mallorca,Rayo,1:0,1,Mallorca,2024/2025
+10,Atlético,Leganés,3:1,2,Atlético,2024/2025
+10,Villarreal,Getafe,1:1,0,Empate,2024/2025
+10,Barcelona,Sevilla,5:1,4,Barcelona,2024/2025
+10,Valencia,Las Palmas,2:3,1,Las Palmas,2024/2025
+11,Espanyol,Sevilla,0:2,2,Sevilla,2024/2025
+11,Valladolid,Villarreal,1:2,1,Villarreal,2024/2025
+11,Rayo,Alavés,1:0,1,Rayo,2024/2025
+11,Las Palmas,Girona,1:0,1,Las Palmas,2024/2025
+11,Real Madrid,Barcelona,0:4,4,Barcelona,2024/2025
+11,Leganés,Celta,3:0,3,Leganés,2024/2025
+11,Getafe,Valencia,1:1,0,Empate,2024/2025
+11,Betis,Atlético,1:0,1,Betis,2024/2025
+11,Real Sociedad,Osasuna,0:2,2,Osasuna,2024/2025
+11,Mallorca,Athletic,0:0,0,Empate,2024/2025
+12,Alavés,Mallorca,1:0,1,Alavés,2024/2025
+12,Osasuna,Valladolid,1:0,1,Osasuna,2024/2025
+12,Girona,Leganés,4:3,1,Girona,2024/2025
+12,Atlético,Las Palmas,2:0,2,Atlético,2024/2025
+12,Barcelona,Espanyol,3:1,2,Barcelona,2024/2025
+12,Sevilla,Real Sociedad,0:2,2,Real Sociedad,2024/2025
+12,Athletic,Betis,1:1,0,Empate,2024/2025
+12,Celta,Getafe,1:0,1,Celta,2024/2025
+12,Villarreal,Rayo,1:1,0,Empate,2024/2025
+12,Valencia,Real Madrid,1:2,1,Real Madrid,2024/2025
+13,Rayo,Las Palmas,1:3,2,Las Palmas,2024/2025
+13,Real Madrid,Osasuna,4:0,4,Real Madrid,2024/2025
+13,Villarreal,Alavés,3:0,3,Villarreal,2024/2025
+13,Leganés,Sevilla,1:0,1,Leganés,2024/2025
+13,Betis,Celta,2:2,0,Empate,2024/2025
+13,Mallorca,Atlético,0:1,1,Atlético,2024/2025
+13,Getafe,Girona,0:1,1,Girona,2024/2025
+13,Valladolid,Athletic,1:1,0,Empate,2024/2025
+13,Real Sociedad,Barcelona,1:0,1,Real Sociedad,2024/2025
+13,Espanyol,Valencia,1:1,0,Empate,2024/2025
+14,Getafe,Valladolid,2:0,2,Getafe,2024/2025
+14,Valencia,Betis,4:2,2,Valencia,2024/2025
+14,Atlético,Alavés,2:1,1,Atlético,2024/2025
+14,Las Palmas,Mallorca,2:3,1,Mallorca,2024/2025
+14,Girona,Espanyol,4:1,3,Girona,2024/2025
+14,Celta,Barcelona,2:2,0,Empate,2024/2025
+14,Osasuna,Villarreal,2:2,0,Empate,2024/2025
+14,Sevilla,Rayo,1:0,1,Sevilla,2024/2025
+14,Leganés,Real Madrid,0:3,3,Real Madrid,2024/2025
+14,Athletic,Real Sociedad,1:0,1,Athletic,2024/2025
+15,Mallorca,Valencia,2:1,1,Mallorca,2024/2025
+15,Barcelona,Las Palmas,1:2,1,Las Palmas,2024/2025
+15,Alavés,Leganés,1:1,0,Empate,2024/2025
+15,Espanyol,Celta,3:1,2,Espanyol,2024/2025
+15,Valladolid,Atlético,0:5,5,Atlético,2024/2025
+15,Villarreal,Girona,2:2,0,Empate,2024/2025
+15,Real Madrid,Getafe,2:0,2,Real Madrid,2024/2025
+15,Rayo,Athletic,1:2,1,Athletic,2024/2025
+15,Real Sociedad,Betis,2:0,2,Real Sociedad,2024/2025
+15,Sevilla,Osasuna,1:1,0,Empate,2024/2025
+16,Celta,Mallorca,2:0,2,Celta,2024/2025
+16,Las Palmas,Valladolid,2:1,1,Las Palmas,2024/2025
+16,Betis,Barcelona,2:2,0,Empate,2024/2025
+16,Valencia,Rayo,0:1,1,Rayo,2024/2025
+16,Girona,Real Madrid,0:3,3,Real Madrid,2024/2025
+16,Leganés,Real Sociedad,0:3,3,Real Sociedad,2024/2025
+16,Athletic,Villarreal,2:0,2,Athletic,2024/2025
+16,Osasuna,Alavés,2:2,0,Empate,2024/2025
+16,Atlético,Sevilla,4:3,1,Atlético,2024/2025
+16,Getafe,Espanyol,1:0,1,Getafe,2024/2025
+17,Valladolid,Valencia,1:0,1,Valladolid,2024/2025
+17,Espanyol,Osasuna,0:0,0,Empate,2024/2025
+17,Mallorca,Girona,2:1,1,Mallorca,2024/2025
+17,Sevilla,Celta,1:0,1,Sevilla,2024/2025
+17,Rayo,Real Madrid,3:3,0,Empate,2024/2025
+17,Atlético,Getafe,1:0,1,Atlético,2024/2025
+17,Alavés,Athletic,1:1,0,Empate,2024/2025
+17,Villarreal,Betis,1:2,1,Betis,2024/2025
+17,Real Sociedad,Las Palmas,0:0,0,Empate,2024/2025
+17,Barcelona,Leganés,0:1,1,Leganés,2024/2025
+18,Girona,Valladolid,3:0,3,Girona,2024/2025
+18,Getafe,Mallorca,0:1,1,Mallorca,2024/2025
+18,Celta,Real Sociedad,2:0,2,Celta,2024/2025
+18,Osasuna,Athletic,1:2,1,Athletic,2024/2025
+18,Barcelona,Atlético,1:2,1,Atlético,2024/2025
+18,Valencia,Alavés,2:2,0,Empate,2024/2025
+18,Real Madrid,Sevilla,4:2,2,Real Madrid,2024/2025
+18,Leganés,Villarreal,2:5,3,Villarreal,2024/2025
+18,Las Palmas,Espanyol,1:0,1,Las Palmas,2024/2025
+18,Betis,Rayo,1:1,0,Empate,2024/2025
+19,Mallorca,Barcelona,1:5,4,Barcelona,2024/2025
+19,Athletic,Real Madrid,2:1,1,Athletic,2024/2025
+19,Rayo,Celta,2:1,1,Rayo,2024/2025
+19,Alavés,Girona,0:1,1,Girona,2024/2025
+19,Valladolid,Betis,1:0,1,Valladolid,2024/2025
+19,Espanyol,Leganés,1:1,0,Empate,2024/2025
+19,Sevilla,Valencia,1:1,0,Empate,2024/2025
+19,Las Palmas,Getafe,1:2,1,Getafe,2024/2025
+19,Atlético,Osasuna,1:0,1,Atlético,2024/2025
+19,Real Sociedad,Villarreal,1:0,1,Real Sociedad,2024/2025
+20,Espanyol,Valladolid,2:1,1,Espanyol,2024/2025
+20,Girona,Sevilla,1:2,1,Sevilla,2024/2025
+20,Leganés,Atlético,1:0,1,Leganés,2024/2025
+20,Betis,Alavés,1:3,2,Alavés,2024/2025
+20,Getafe,Barcelona,1:1,0,Empate,2024/2025
+20,Celta,Athletic,1:2,1,Athletic,2024/2025
+20,Real Madrid,Las Palmas,4:1,3,Real Madrid,2024/2025
+20,Osasuna,Rayo,1:1,0,Empate,2024/2025
+20,Valencia,Real Sociedad,1:0,1,Valencia,2024/2025
+20,Villarreal,Mallorca,4:0,4,Villarreal,2024/2025
+21,Las Palmas,Osasuna,1:1,0,Empate,2024/2025
+21,Mallorca,Betis,0:1,1,Betis,2024/2025
+21,Atlético,Villarreal,1:1,0,Empate,2024/2025
+21,Sevilla,Espanyol,1:1,0,Empate,2024/2025
+21,Valladolid,Real Madrid,0:3,3,Real Madrid,2024/2025
+21,Rayo,Girona,2:1,1,Rayo,2024/2025
+21,Real Sociedad,Getafe,0:3,3,Getafe,2024/2025
+21,Athletic,Leganés,0:0,0,Empate,2024/2025
+21,Barcelona,Valencia,7:1,6,Barcelona,2024/2025
+21,Alavés,Celta,1:1,0,Empate,2024/2025
+22,Leganés,Rayo,0:1,1,Rayo,2024/2025
+22,Getafe,Sevilla,0:0,0,Empate,2024/2025
+22,Villarreal,Valladolid,5:1,4,Villarreal,2024/2025
+22,Atlético,Mallorca,2:0,2,Atlético,2024/2025
+22,Espanyol,Real Madrid,1:0,1,Espanyol,2024/2025
+22,Barcelona,Alavés,1:0,1,Barcelona,2024/2025
+22,Valencia,Celta,2:1,1,Valencia,2024/2025
+22,Osasuna,Real Sociedad,2:1,1,Osasuna,2024/2025
+22,Betis,Athletic,2:2,0,Empate,2024/2025
+22,Girona,Las Palmas,2:1,1,Girona,2024/2025
+23,Rayo,Valladolid,1:0,1,Rayo,2024/2025
+23,Celta,Betis,3:2,1,Celta,2024/2025
+23,Athletic,Girona,3:0,3,Athletic,2024/2025
+23,Las Palmas,Villarreal,1:2,1,Villarreal,2024/2025
+23,Real Madrid,Atlético,1:1,0,Empate,2024/2025
+23,Alavés,Getafe,0:1,1,Getafe,2024/2025
+23,Valencia,Leganés,2:0,2,Valencia,2024/2025
+23,Real Sociedad,Espanyol,2:1,1,Real Sociedad,2024/2025
+23,Sevilla,Barcelona,1:4,3,Barcelona,2024/2025
+23,Mallorca,Osasuna,1:1,0,Empate,2024/2025
+24,Girona,Getafe,1:2,1,Getafe,2024/2025
+24,Leganés,Alavés,3:3,0,Empate,2024/2025
+24,Osasuna,Real Madrid,1:1,0,Empate,2024/2025
+24,Atlético,Celta,1:1,0,Empate,2024/2025
+24,Villarreal,Valencia,1:1,0,Empate,2024/2025
+24,Espanyol,Athletic,1:1,0,Empate,2024/2025
+24,Valladolid,Sevilla,0:4,4,Sevilla,2024/2025
+24,Mallorca,Las Palmas,3:1,2,Mallorca,2024/2025
+24,Betis,Real Sociedad,3:0,3,Betis,2024/2025
+24,Barcelona,Rayo,1:0,1,Barcelona,2024/2025
+25,Celta,Osasuna,1:0,1,Celta,2024/2025
+25,Alavés,Espanyol,0:1,1,Espanyol,2024/2025
+25,Rayo,Villarreal,0:1,1,Villarreal,2024/2025
+25,Valencia,Atlético,0:3,3,Atlético,2024/2025
+25,Las Palmas,Barcelona,0:2,2,Barcelona,2024/2025
+25,Athletic,Valladolid,7:1,6,Athletic,2024/2025
+25,Real Madrid,Girona,2:0,2,Real Madrid,2024/2025
+25,Getafe,Betis,1:2,1,Betis,2024/2025
+25,Real Sociedad,Leganés,3:0,3,Real Sociedad,2024/2025
+25,Sevilla,Mallorca,1:1,0,Empate,2024/2025
+26,Valladolid,Las Palmas,1:1,0,Empate,2024/2025
+26,Girona,Celta,2:2,0,Empate,2024/2025
+26,Rayo,Sevilla,1:1,0,Empate,2024/2025
+26,Betis,Real Madrid,2:1,1,Betis,2024/2025
+26,Atlético,Athletic,1:0,1,Atlético,2024/2025
+26,Leganés,Getafe,1:0,1,Leganés,2024/2025
+26,Barcelona,Real Sociedad,4:0,4,Barcelona,2024/2025
+26,Mallorca,Alavés,1:1,0,Empate,2024/2025
+26,Osasuna,Valencia,3:3,0,Empate,2024/2025
+26,Villarreal,Espanyol,1:0,1,Villarreal,2024/2025
+27,Celta,Leganés,2:1,1,Celta,2024/2025
+27,Alavés,Villarreal,1:0,1,Alavés,2024/2025
+27,Valencia,Valladolid,2:1,1,Valencia,2024/2025
+27,Getafe,Atlético,2:1,1,Getafe,2024/2025
+27,Real Madrid,Rayo,2:1,1,Real Madrid,2024/2025
+27,Athletic,Mallorca,1:1,0,Empate,2024/2025
+27,Betis,Las Palmas,1:0,1,Betis,2024/2025
+27,Real Sociedad,Sevilla,0:1,1,Sevilla,2024/2025
+27,Espanyol,Girona,1:1,0,Empate,2024/2025
+27,Barcelona,Osasuna,3:0,3,Barcelona,2024/2025
+28,Las Palmas,Alavés,2:2,0,Empate,2024/2025
+28,Valladolid,Celta,0:1,1,Celta,2024/2025
+28,Mallorca,Espanyol,2:1,1,Mallorca,2024/2025
+28,Villarreal,Real Madrid,1:2,1,Real Madrid,2024/2025
+28,Girona,Valencia,1:1,0,Empate,2024/2025
+28,Leganés,Betis,2:3,1,Betis,2024/2025
+28,Sevilla,Athletic,0:1,1,Athletic,2024/2025
+28,Osasuna,Getafe,1:2,1,Getafe,2024/2025
+28,Rayo,Real Sociedad,2:2,0,Empate,2024/2025
+28,Atlético,Barcelona,2:4,2,Barcelona,2024/2025
+29,Real Sociedad,Valladolid,2:1,1,Real Sociedad,2024/2025
+29,Espanyol,Atlético,1:1,0,Empate,2024/2025
+29,Alavés,Rayo,0:2,2,Rayo,2024/2025
+29,Real Madrid,Leganés,3:2,1,Real Madrid,2024/2025
+29,Getafe,Villarreal,1:2,1,Villarreal,2024/2025
+29,Barcelona,Girona,4:1,3,Barcelona,2024/2025
+29,Athletic,Osasuna,0:0,0,Empate,2024/2025
+29,Valencia,Mallorca,1:0,1,Valencia,2024/2025
+29,Betis,Sevilla,2:1,1,Betis,2024/2025
+29,Celta,Las Palmas,1:1,0,Empate,2024/2025
+30,Rayo,Espanyol,0:4,4,Espanyol,2024/2025
+30,Girona,Alavés,0:1,1,Alavés,2024/2025
+30,Real Madrid,Valencia,1:2,1,Valencia,2024/2025
+30,Mallorca,Celta,1:2,1,Celta,2024/2025
+30,Barcelona,Betis,1:1,0,Empate,2024/2025
+30,Las Palmas,Real Sociedad,1:3,2,Real Sociedad,2024/2025
+30,Sevilla,Atlético,1:2,1,Atlético,2024/2025
+30,Valladolid,Getafe,0:4,4,Getafe,2024/2025
+30,Villarreal,Athletic,0:0,0,Empate,2024/2025
+30,Leganés,Osasuna,1:1,0,Empate,2024/2025
+31,Valencia,Sevilla,1:0,1,Valencia,2024/2025
+31,Real Sociedad,Mallorca,0:2,2,Mallorca,2024/2025
+31,Getafe,Las Palmas,1:3,2,Las Palmas,2024/2025
+31,Celta,Espanyol,0:2,2,Espanyol,2024/2025
+31,Leganés,Barcelona,0:1,1,Barcelona,2024/2025
+31,Osasuna,Girona,2:1,1,Osasuna,2024/2025
+31,Alavés,Real Madrid,0:1,1,Real Madrid,2024/2025
+31,Betis,Villarreal,1:2,1,Villarreal,2024/2025
+31,Athletic,Rayo,3:1,2,Athletic,2024/2025
+31,Atlético,Valladolid,4:2,2,Atlético,2024/2025
+32,Espanyol,Getafe,1:0,1,Espanyol,2024/2025
+32,Rayo,Valencia,1:1,0,Empate,2024/2025
+32,Barcelona,Celta,4:3,1,Barcelona,2024/2025
+32,Mallorca,Leganés,0:0,0,Empate,2024/2025
+32,Las Palmas,Atlético,1:0,1,Las Palmas,2024/2025
+32,Valladolid,Osasuna,2:3,1,Osasuna,2024/2025
+32,Villarreal,Real Sociedad,2:2,0,Empate,2024/2025
+32,Sevilla,Alavés,1:1,0,Empate,2024/2025
+32,Real Madrid,Athletic,1:0,1,Real Madrid,2024/2025
+32,Girona,Betis,1:3,2,Betis,2024/2025
+33,Valencia,Espanyol,1:1,0,Empate,2024/2025
+33,Barcelona,Mallorca,1:0,1,Barcelona,2024/2025
+33,Athletic,Las Palmas,1:0,1,Athletic,2024/2025
+33,Celta,Villarreal,3:0,3,Celta,2024/2025
+33,Alavés,Real Sociedad,1:0,1,Alavés,2024/2025
+33,Getafe,Real Madrid,0:1,1,Real Madrid,2024/2025
+33,Osasuna,Sevilla,1:0,1,Osasuna,2024/2025
+33,Leganés,Girona,1:1,0,Empate,2024/2025
+33,Atlético,Rayo,3:0,3,Atlético,2024/2025
+33,Betis,Valladolid,5:1,4,Betis,2024/2025
+34,Rayo,Getafe,1:0,1,Rayo,2024/2025
+34,Alavés,Atlético,0:0,0,Empate,2024/2025
+34,Villarreal,Osasuna,4:2,2,Villarreal,2024/2025
+34,Las Palmas,Valencia,2:3,1,Valencia,2024/2025
+34,Valladolid,Barcelona,1:2,1,Barcelona,2024/2025
+34,Real Madrid,Celta,3:2,1,Real Madrid,2024/2025
+34,Sevilla,Leganés,2:2,0,Empate,2024/2025
+34,Espanyol,Betis,1:2,1,Betis,2024/2025
+34,Real Sociedad,Athletic,0:0,0,Empate,2024/2025
+34,Girona,Mallorca,1:0,1,Girona,2024/2025
+35,Las Palmas,Rayo,0:1,1,Rayo,2024/2025
+35,Valencia,Getafe,3:0,3,Valencia,2024/2025
+35,Celta,Sevilla,3:2,1,Celta,2024/2025
+35,Girona,Villarreal,0:1,1,Villarreal,2024/2025
+35,Mallorca,Valladolid,2:1,1,Mallorca,2024/2025
+35,Atlético,Real Sociedad,4:0,4,Atlético,2024/2025
+35,Leganés,Espanyol,3:2,1,Leganés,2024/2025
+35,Barcelona,Real Madrid,4:3,1,Barcelona,2024/2025
+35,Athletic,Alavés,1:0,1,Athletic,2024/2025
+35,Betis,Osasuna,1:1,0,Empate,2024/2025
+36,Valladolid,Girona,0:1,1,Girona,2024/2025
+36,Real Sociedad,Celta,0:1,1,Celta,2024/2025
+36,Sevilla,Las Palmas,1:0,1,Sevilla,2024/2025
+36,Alavés,Valencia,1:0,1,Alavés,2024/2025
+36,Villarreal,Leganés,3:0,3,Villarreal,2024/2025
+36,Real Madrid,Mallorca,2:1,1,Real Madrid,2024/2025
+36,Osasuna,Atlético,2:0,2,Osasuna,2024/2025
+36,Rayo,Betis,2:2,0,Empate,2024/2025
+36,Getafe,Athletic,0:2,2,Athletic,2024/2025
+36,Espanyol,Barcelona,0:2,2,Barcelona,2024/2025
+37,Atlético,Betis,4:1,3,Atlético,2024/2025
+37,Celta,Rayo,1:2,1,Rayo,2024/2025
+37,Barcelona,Villarreal,2:3,1,Villarreal,2024/2025
+37,Sevilla,Real Madrid,0:2,2,Real Madrid,2024/2025
+37,Valencia,Athletic,0:1,1,Athletic,2024/2025
+37,Mallorca,Getafe,1:2,1,Getafe,2024/2025
+37,Real Sociedad,Girona,3:2,1,Real Sociedad,2024/2025
+37,Valladolid,Alavés,0:1,1,Alavés,2024/2025
+37,Las Palmas,Leganés,0:1,1,Leganés,2024/2025
+37,Osasuna,Espanyol,2:0,2,Osasuna,2024/2025
+38,Betis,Valencia,1:1,0,Empate,2024/2025
+38,Real Madrid,Real Sociedad,2:0,2,Real Madrid,2024/2025
+38,Leganés,Valladolid,3:0,3,Leganés,2024/2025
+38,Espanyol,Las Palmas,2:0,2,Espanyol,2024/2025
+38,Alavés,Osasuna,1:1,0,Empate,2024/2025
+38,Getafe,Celta,1:2,1,Celta,2024/2025
+38,Rayo,Mallorca,0:0,0,Empate,2024/2025
+38,Girona,Atlético,0:4,4,Atlético,2024/2025
+38,Villarreal,Sevilla,4:2,2,Villarreal,2024/2025
+38,Athletic,Barcelona,0:3,3,Barcelona,2024/2025
