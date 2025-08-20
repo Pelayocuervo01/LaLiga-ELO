@@ -1,4 +1,4 @@
-![LaLIGA Banner](Graficos/LaLigaBanner.jpg)
+![LaLIGA Banner](Graphs/LaLigaBanner.jpg)
 # LaLiga ELO Ratings
 
 A Python project that calculates, tracks, and visualizes Elo ratings for LaLiga teams across seasons. This project allows you to see historical performance trends, rank teams, and analyze competitive dynamics using an Elo-based ranking system similar to those used in competitive games.
@@ -43,7 +43,7 @@ future_readme # Example first commit file
 ## Example Visualization
 
 The project can plot the historical Elo of any team by modifying the team name directly in the `matplotlib.ipynb` notebook or `Graficos/` script.
-![All-Time Elo Evolution: FC Barcelona – Historical Performance Tracking](Graficos/FCB_Eng.png)
-![All-Time Elo Evolution: Real Madrid – Historical Performance Tracking](Graficos/RM_Eng.png)
+![All-Time Elo Evolution: FC Barcelona – Historical Performance Tracking](Graphs/FCB_Eng.png)
+![All-Time Elo Evolution: Real Madrid – Historical Performance Tracking](Graphs/RM_Eng.png)
 
 
